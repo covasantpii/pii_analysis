@@ -1,0 +1,7 @@
+{
+  "ocr_text": "REPRINT\nCUSTOMER COPY\nWelcome To Pixley's Restaurant\n2235 Buffalo Road\nRochester, NY 14624\n585 247-1690\nDate: 10/24/2019 01:55 PM\nCheck #: 00164\nStation: Hostess\nServer: Christine(5)\nReprint Date: 10/24/2019 01:55 PM\nReprint Station: Hostess\nReprint Server: Lisa (10)\nCard Number: XXXXXXXXXXXXXX3507 (Visa)\nAccount Name: Frank Peter D\nAuthorization: 315205\nTrans Type: Swipe\n1 Warm Meat Loaf Sand\n7.99\n1 French Dip\n8.99\n2 Soup Du Jour Cup\n5.98\n1 Grecian W/ Chicken\n11.98\n2\nSodas\n3.98\n1 Coffee Regular\n1.99\nSub Total\n40.91\nTax\n3.27\nTOTAL\n44.18\nCHARGE\n44.18\nTIP\n8.00\n52.18.\nTOTAL\nTicket ID: 191024132100800164",
+  "page_texts": {
+    "0": "REPRINT\nCUSTOMER COPY\nWelcome To Pixley's Restaurant\n2235 Buffalo Road\nRochester, NY 14624\n585 247-1690\nDate: 10/24/2019 01:55 PM\nCheck #: 00164\nStation: Hostess\nServer: Christine(5)\nReprint Date: 10/24/2019 01:55 PM\nReprint Station: Hostess\nReprint Server: Lisa (10)\nCard Number: XXXXXXXXXXXXXX3507 (Visa)\nAccount Name: Frank Peter D\nAuthorization: 315205\nTrans Type: Swipe\n1 Warm Meat Loaf Sand\n7.99\n1 French Dip\n8.99\n2 Soup Du Jour Cup\n5.98\n1 Grecian W/ Chicken\n11.98\n2\nSodas\n3.98\n1 Coffee Regular\n1.99\nSub Total\n40.91\nTax\n3.27\nTOTAL\n44.18\nCHARGE\n44.18\nTIP\n8.00\n52.18.\nTOTAL\nTicket ID: 191024132100800164"
+  },
+  "method": "vision_api"
+}

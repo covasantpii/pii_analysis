@@ -1,0 +1,79 @@
+[
+  {
+    "pii_type": "TIME",
+    "text": "01:55 PM",
+    "start": 121,
+    "end": 129,
+    "chunk": 0
+  },
+  {
+    "pii_type": "PERSON",
+    "text": "Lisa",
+    "start": 258,
+    "end": 262,
+    "chunk": 0
+  },
+  {
+    "pii_type": "CARD_LAST4",
+    "text": "XXXXXXXXXXXXXX3507",
+    "start": 281,
+    "end": 299,
+    "chunk": 0
+  },
+  {
+    "pii_type": "PERSON",
+    "text": "Frank Peter D\nAuthorization",
+    "start": 321,
+    "end": 348,
+    "chunk": 0
+  },
+  {
+    "pii_type": "ORG",
+    "text": "Sub Total",
+    "start": 506,
+    "end": 515,
+    "chunk": 0
+  },
+  {
+    "pii_type": "DOB",
+    "text": "10/24/2019",
+    "start": 110,
+    "end": 120,
+    "chunk": 0
+  },
+  {
+    "pii_type": "PHONE",
+    "text": "585 247-1690",
+    "start": 91,
+    "end": 103,
+    "chunk": 0
+  },
+  {
+    "pii_type": "PHONE",
+    "text": "19102413210",
+    "start": 589,
+    "end": 600,
+    "chunk": 0
+  },
+  {
+    "pii_type": "AUTH_CODE",
+    "text": "315205",
+    "start": 350,
+    "end": 356,
+    "chunk": 0
+  },
+  {
+    "pii_type": "ZIPCODE",
+    "text": "14624",
+    "start": 85,
+    "end": 90,
+    "chunk": 0
+  },
+  {
+    "pii_type": "ZIPCODE",
+    "text": "00164",
+    "start": 139,
+    "end": 144,
+    "chunk": 0
+  }
+]

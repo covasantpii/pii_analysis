@@ -1,0 +1,37 @@
+[
+  {
+    "pii_type": "ORG",
+    "text": "Groups",
+    "start": 66,
+    "end": 72,
+    "chunk": 0
+  },
+  {
+    "pii_type": "PERSON",
+    "text": "Settings",
+    "start": 87,
+    "end": 95,
+    "chunk": 0
+  },
+  {
+    "pii_type": "PERSON",
+    "text": "Ann Maynard",
+    "start": 139,
+    "end": 150,
+    "chunk": 0
+  },
+  {
+    "pii_type": "DATE",
+    "text": "2019",
+    "start": 231,
+    "end": 235,
+    "chunk": 0
+  },
+  {
+    "pii_type": "PERSON",
+    "text": "Detail View",
+    "start": 329,
+    "end": 340,
+    "chunk": 0
+  }
+]

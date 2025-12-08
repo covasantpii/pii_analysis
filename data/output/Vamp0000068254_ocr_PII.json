@@ -1,0 +1,72 @@
+[
+  {
+    "pii_type": "GPE",
+    "text": "Pennsylvania",
+    "start": 0,
+    "end": 12,
+    "chunk": 0
+  },
+  {
+    "pii_type": "DATE",
+    "text": "04/06/2023",
+    "start": 100,
+    "end": 110,
+    "chunk": 0
+  },
+  {
+    "pii_type": "DATE",
+    "text": "7932",
+    "start": 155,
+    "end": 159,
+    "chunk": 0
+  },
+  {
+    "pii_type": "ORG",
+    "text": "LANCASTER",
+    "start": 160,
+    "end": 169,
+    "chunk": 0
+  },
+  {
+    "pii_type": "DATE",
+    "text": "PA 17602",
+    "start": 171,
+    "end": 179,
+    "chunk": 0
+  },
+  {
+    "pii_type": "DOB",
+    "text": "04/05/1986",
+    "start": 81,
+    "end": 91,
+    "chunk": 0
+  },
+  {
+    "pii_type": "DOB",
+    "text": "06/29/2019",
+    "start": 297,
+    "end": 307,
+    "chunk": 0
+  },
+  {
+    "pii_type": "CREDIT_CARD",
+    "text": "500000075480",
+    "start": 270,
+    "end": 282,
+    "chunk": 0
+  },
+  {
+    "pii_type": "AUTH_CODE",
+    "text": "191800901103",
+    "start": 257,
+    "end": 269,
+    "chunk": 0
+  },
+  {
+    "pii_type": "ZIPCODE",
+    "text": "17602",
+    "start": 174,
+    "end": 179,
+    "chunk": 0
+  }
+]
