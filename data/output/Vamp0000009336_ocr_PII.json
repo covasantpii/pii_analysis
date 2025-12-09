@@ -1,19 +1,5 @@
 [
   {
-    "pii_type": "ORG",
-    "text": "Groups",
-    "start": 66,
-    "end": 72,
-    "chunk": 0
-  },
-  {
-    "pii_type": "PERSON",
-    "text": "Settings",
-    "start": 87,
-    "end": 95,
-    "chunk": 0
-  },
-  {
     "pii_type": "PERSON",
     "text": "Ann Maynard",
     "start": 139,
@@ -29,9 +15,9 @@
   },
   {
     "pii_type": "PERSON",
-    "text": "Detail View",
-    "start": 329,
-    "end": 340,
+    "text": "Ann Maynard\nVisitors",
+    "start": 139,
+    "end": 159,
     "chunk": 0
   }
 ]

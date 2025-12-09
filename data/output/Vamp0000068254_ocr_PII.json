@@ -7,10 +7,10 @@
     "chunk": 0
   },
   {
-    "pii_type": "DATE",
-    "text": "04/06/2023",
-    "start": 100,
-    "end": 110,
+    "pii_type": "ORG",
+    "text": "DOB",
+    "start": 76,
+    "end": 79,
     "chunk": 0
   },
   {
@@ -46,6 +46,13 @@
     "text": "06/29/2019",
     "start": 297,
     "end": 307,
+    "chunk": 0
+  },
+  {
+    "pii_type": "DATE",
+    "text": "04/06/2023",
+    "start": 100,
+    "end": 110,
     "chunk": 0
   },
   {

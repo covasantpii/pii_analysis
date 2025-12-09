@@ -7,31 +7,10 @@
     "chunk": 0
   },
   {
-    "pii_type": "PERSON",
-    "text": "Lisa",
-    "start": 258,
-    "end": 262,
-    "chunk": 0
-  },
-  {
-    "pii_type": "CARD_LAST4",
-    "text": "XXXXXXXXXXXXXX3507",
-    "start": 281,
-    "end": 299,
-    "chunk": 0
-  },
-  {
-    "pii_type": "PERSON",
-    "text": "Frank Peter D\nAuthorization",
-    "start": 321,
-    "end": 348,
-    "chunk": 0
-  },
-  {
-    "pii_type": "ORG",
-    "text": "Sub Total",
-    "start": 506,
-    "end": 515,
+    "pii_type": "NORP",
+    "text": "Grecian",
+    "start": 446,
+    "end": 453,
     "chunk": 0
   },
   {
@@ -56,6 +35,13 @@
     "chunk": 0
   },
   {
+    "pii_type": "CARD_LAST4",
+    "text": "XXXXXXXXXXXXXX3507",
+    "start": 281,
+    "end": 299,
+    "chunk": 0
+  },
+  {
     "pii_type": "AUTH_CODE",
     "text": "315205",
     "start": 350,
@@ -74,6 +60,104 @@
     "text": "00164",
     "start": 139,
     "end": 144,
+    "chunk": 0
+  },
+  {
+    "pii_type": "PERSON",
+    "text": "Welcome To Pixley",
+    "start": 22,
+    "end": 39,
+    "chunk": 0
+  },
+  {
+    "pii_type": "PERSON",
+    "text": "Buffalo Road\nRochester",
+    "start": 58,
+    "end": 80,
+    "chunk": 0
+  },
+  {
+    "pii_type": "PERSON",
+    "text": "Hostess\nServer",
+    "start": 154,
+    "end": 168,
+    "chunk": 0
+  },
+  {
+    "pii_type": "PERSON",
+    "text": "Reprint Date",
+    "start": 183,
+    "end": 195,
+    "chunk": 0
+  },
+  {
+    "pii_type": "PERSON",
+    "text": "Reprint Station",
+    "start": 217,
+    "end": 232,
+    "chunk": 0
+  },
+  {
+    "pii_type": "PERSON",
+    "text": "Hostess\nReprint Server",
+    "start": 234,
+    "end": 256,
+    "chunk": 0
+  },
+  {
+    "pii_type": "PERSON",
+    "text": "Card Number",
+    "start": 268,
+    "end": 279,
+    "chunk": 0
+  },
+  {
+    "pii_type": "PERSON",
+    "text": "Frank Peter",
+    "start": 321,
+    "end": 332,
+    "chunk": 0
+  },
+  {
+    "pii_type": "PERSON",
+    "text": "Trans Type",
+    "start": 357,
+    "end": 367,
+    "chunk": 0
+  },
+  {
+    "pii_type": "PERSON",
+    "text": "Warm Meat Loaf",
+    "start": 377,
+    "end": 391,
+    "chunk": 0
+  },
+  {
+    "pii_type": "PERSON",
+    "text": "French Dip",
+    "start": 404,
+    "end": 414,
+    "chunk": 0
+  },
+  {
+    "pii_type": "PERSON",
+    "text": "Soup Du Jour",
+    "start": 422,
+    "end": 434,
+    "chunk": 0
+  },
+  {
+    "pii_type": "PERSON",
+    "text": "Coffee Regular",
+    "start": 486,
+    "end": 500,
+    "chunk": 0
+  },
+  {
+    "pii_type": "PERSON",
+    "text": "Sub Total",
+    "start": 506,
+    "end": 515,
     "chunk": 0
   }
 ]

@@ -11,6 +11,7 @@ from config import (
     OUTPUT_DIR
 )
 
+
 # ===================== Utility =====================
 
 def extract_text_from_json(json_file: Path) -> str:
@@ -58,24 +59,122 @@ def check_luhn(card_number: str) -> bool:
     return total % 10 == 0
 
 
-# ===================== Extractors =====================
+# ===================== Regex-based Missing Name Fix =====================
 
-def extract_spacy_entities(nlp, text):
-    doc = nlp(text)
+def extract_missing_person_names(text: str):
+    """
+    Capture names spaCy may miss, e.g. 'Ann Maynard'.
+    Pattern: First Last (optionally with apostrophes or middle name).
+    """
     spans = []
 
-    for ent in doc.ents:
-        if ent.label_ in PII_ENTITY_LABELS:
-            spans.append({
-                "pii_type": ent.label_,
-                "text": ent.text.strip(),
-                "start": ent.start_char,
-                "end": ent.end_char
-            })
+    # First Last or First M Last, allowing apostrophes in first name
+    pattern = r"\b([A-Z][a-z]+(?:'[A-Z][a-z]+)?)\s+([A-Z][a-z]+)(?:\s+[A-Z][a-z]+)?\b"
+
+    UI_WORDS = {
+        "view", "detail", "details", "summary", "profile", "account",
+        "history", "settings", "dashboard", "department", "blog", "groups",
+        "members", "owners", "home", "documents", "pages", "site",
+        "contents", "recent", "title", "search", "correspondence"
+    }
+
+    for match in re.finditer(pattern, text):
+        full_name = match.group().strip()
+        words = full_name.split()
+
+        # Reject if any word is a typical UI/menu word
+        if any(w.lower() in UI_WORDS for w in words):
+            continue
+
+        spans.append({
+            "pii_type": "PERSON",
+            "text": full_name,
+            "start": match.start(),
+            "end": match.end()
+        })
+
     return spans
 
 
-def extract_regex_pii(text):
+# ===================== Extractors =====================
+
+def extract_spacy_entities(nlp, text: str):
+    doc = nlp(text)
+    spans = []
+
+    # Entity types we *never* treat as PII from spaCy
+    DISALLOWED_SPACY_LABELS = {
+        "CARDINAL", "ORDINAL", "WORK_OF_ART", "QUANTITY",
+        "PERCENT", "MONEY", "LANGUAGE", "PRODUCT", "EVENT", "LAW"
+    }
+
+    # UI / menu / non-person vocab to kill PERSON & ORG false positives
+    UI_WORDS = {
+        "sharepoint", "groups", "group", "benefits", "blog", "members",
+        "owners", "visitors", "home", "documents", "pages", "site",
+        "contents", "recent", "title", "department", "search", "settings",
+        "actions", "new", "edit", "links", "view", "detail", "details",
+        "about", "me", "follow", "share", "correspondence"
+    }
+
+    for ent in doc.ents:
+        label = ent.label_
+        txt = ent.text.strip()
+
+        # Skip non-PII-ish labels
+        if label in DISALLOWED_SPACY_LABELS:
+            continue
+
+        # Normalize words
+        words = [w for w in re.split(r"\s+", txt) if w]
+
+        # ---- PERSON Filtering ----
+        if label == "PERSON":
+            # Drop anything with newline in it (menu / layout text)
+            if "\n" in txt:
+                continue
+
+            # Drop if contains any typical UI/menu word
+            if any(w.lower() in UI_WORDS for w in words):
+                continue
+
+            # Keep only name-like patterns (First [M] Last)
+            # Allow 1–3 tokens, all alphabetic, title-cased
+            if not (1 <= len(words) <= 3 and all(w.isalpha() for w in words)):
+                continue
+
+            # Very strict: require at least one space (First Last) OR a single rare-ish token.
+            # For safety, we require at least two tokens to avoid tons of junk.
+            if len(words) < 2:
+                continue
+
+            name_like = bool(re.fullmatch(
+                r"[A-Z][a-z]+(?:\s+[A-Z][a-z]+){1,2}", txt
+            ))
+            if not name_like:
+                continue
+
+        # ---- ORG Filtering (kill obvious menu labels) ----
+        if label == "ORG":
+            if "\n" in txt:
+                continue
+            if any(w.lower() in UI_WORDS for w in words):
+                continue
+            # Drop very short generic words
+            if txt.lower() in {"groups", "owners", "members", "home"}:
+                continue
+
+        spans.append({
+            "pii_type": label,
+            "text": txt,
+            "start": ent.start_char,
+            "end": ent.end_char
+        })
+
+    return spans
+
+
+def extract_regex_pii(text: str):
     spans = []
 
     patterns = {
@@ -104,19 +203,27 @@ def extract_regex_pii(text):
 
     for label, pattern in patterns.items():
         for match in re.finditer(pattern, text):
-            value = match.group()
+            value = match.group().strip()
+            digits_only = re.sub(r"[^\d]", "", value)
 
-            # Validate card numbers
+            # ---- Credit card validation ----
             if label == "CREDIT_CARD" and not check_luhn(value):
-                continue  
+                continue
 
-            # Reject DLN that are actually invoices (too long)
-            if label == "DLN" and value.isdigit() and len(value) > 12:
-                continue  
+            # ---- SSN vs PHONE disambiguation ----
+            if label == "PHONE":
+                ctx_before = text[max(0, match.start() - 30):match.start()].lower()
+                ctx_after = text[match.end():match.end() + 30].lower()
+                if ("ssn" in ctx_before or "social security" in ctx_before or
+                        "ssn" in ctx_after or "social security" in ctx_after):
+                    label = "SSN"
+
+                if len(digits_only) == 9:
+                    label = "SSN"
 
             spans.append({
                 "pii_type": label,
-                "text": value.strip(),
+                "text": value,
                 "start": match.start(),
                 "end": match.end()
             })
@@ -128,9 +235,8 @@ def extract_regex_pii(text):
 
 def resolve_conflicts(spans):
     priority = [
-        "SSN", "CREDIT_CARD", "DLN", "DOB",
-        "EMAIL", "PHONE", "PERSON",
-        "ZIPCODE", "DATE", "TIME",
+        "SSN", "CREDIT_CARD", "DLN", "PERSON", "EMAIL",
+        "PHONE", "DOB", "ZIPCODE", "DATE", "TIME",
         "CARD_LAST4", "AUTH_CODE", "URL", "ORG"
     ]
 
@@ -141,26 +247,8 @@ def resolve_conflicts(spans):
         txt = item["text"].strip()
         label = item["pii_type"]
 
-        # CORRECTION: PERSON wrongly detecting masked card
-        if label == "PERSON" and re.fullmatch(r"[Xx]{6,}\d{4}", txt):
-            label = "CARD_LAST4"
-            item["pii_type"] = label
-
-        # CORRECTION: ORG wrongly detecting DATE
-        if label == "ORG" and re.fullmatch(r"(0?[1-9]|1[0-2])[-/](0?[1-9]|[12]\d|3[01])[-/]\d{4}", txt):
-            label = "DATE"
-            item["pii_type"] = label
-
-        # Remove fake ORGs like:
-        # TOTAL, TIP, TAX, INVOICE, numeric-only
-        if label == "ORG":
-            if txt.isupper() and len(txt) <= 4:
-                continue
-            if re.search(r"\d", txt):
-                continue
-
-        # Resolution based on priority
         if txt in memory:
+            # keep higher priority
             if priority.index(label) < priority.index(memory[txt]):
                 final = [f for f in final if f["text"] != txt]
                 final.append(item)
@@ -175,7 +263,6 @@ def resolve_conflicts(spans):
 # ===================== MAIN =====================
 
 def main():
-
     parser = argparse.ArgumentParser()
     parser.add_argument("--input", default=DEFAULT_OCR_JSON)
     parser.add_argument("--chunk-size", type=int, default=None)
@@ -188,7 +275,7 @@ def main():
     try:
         conf = json.loads(Path("app_config.json").read_text())
         chunk_size = conf.get("chunk_size", args.chunk_size)
-    except:
+    except Exception:
         chunk_size = args.chunk_size
 
     if not chunk_size:
@@ -206,11 +293,13 @@ def main():
 
     for idx, (chunk, (start, end)) in enumerate(split_text_into_chunks(text, chunk_size)):
         print(f"\n---- Chunk {idx+1} [{start}-{end}] ----")
+
         sp_hits = extract_spacy_entities(nlp, chunk)
         rg_hits = extract_regex_pii(chunk)
+        extra_person_hits = extract_missing_person_names(chunk)
 
         merged = []
-        for hit in sp_hits + rg_hits:
+        for hit in sp_hits + rg_hits + extra_person_hits:
             merged.append({
                 **hit,
                 "start": hit["start"] + start,

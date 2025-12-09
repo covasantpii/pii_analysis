@@ -48,5 +48,5 @@ REGEX_PATTERNS = {
 
 
 # OCR input / output defaults
-DEFAULT_OCR_JSON = "data/Vamp0000009336_ocr.json"
+DEFAULT_OCR_JSON = "data/Vamp0000006645_ocr.json"
 OUTPUT_DIR = "data/output"
