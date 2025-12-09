@@ -8,15 +8,16 @@
     "chunk": 0
   },
   {
-    "pii_type": "NORP",
-    "text": "Grecian",
-    "start": 446,
-    "end": 453,
+    "pii_type": "PERSON",
+    "text": "Lisa",
+    "start": 258,
+    "end": 262,
     "source": "spacy",
-    "chunk": 0
+    "chunk": 0,
+    "header": "Reprint Station: Hostess"
   },
   {
-    "pii_type": "DOB",
+    "pii_type": "DATE",
     "text": "10/24/2019",
     "start": 110,
     "end": 120,
@@ -28,14 +29,6 @@
     "text": "585 247-1690",
     "start": 91,
     "end": 103,
-    "source": "regex",
-    "chunk": 0
-  },
-  {
-    "pii_type": "CREDIT_CARD",
-    "text": "191024132100800164",
-    "start": 589,
-    "end": 607,
     "source": "regex",
     "chunk": 0
   },
@@ -53,7 +46,8 @@
     "start": 350,
     "end": 356,
     "source": "regex",
-    "chunk": 0
+    "chunk": 0,
+    "header": "Trans Type: Swipe"
   },
   {
     "pii_type": "ZIPCODE",
@@ -69,22 +63,7 @@
     "start": 139,
     "end": 144,
     "source": "regex",
-    "chunk": 0
-  },
-  {
-    "pii_type": "PERSON",
-    "text": "Account Name",
-    "start": 307,
-    "end": 319,
-    "source": "fallback_name",
-    "chunk": 0
-  },
-  {
-    "pii_type": "PERSON",
-    "text": "Frank Peter",
-    "start": 321,
-    "end": 332,
-    "source": "fallback_name",
-    "chunk": 0
+    "chunk": 0,
+    "header": "Station: Hostess"
   }
 ]
