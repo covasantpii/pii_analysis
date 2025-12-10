@@ -1,69 +1,69 @@
 [
   {
-    "pii_type": "TIME",
-    "text": "01:55 PM",
-    "start": 121,
-    "end": 129,
+    "pii_type": "ORG",
+    "text": "SOCIAL SECURITY",
+    "start": 0,
+    "end": 15,
     "source": "spacy",
-    "chunk": 0
+    "chunk": 0,
+    "line_idx": 0,
+    "confidence": 0.7
   },
   {
     "pii_type": "PERSON",
-    "text": "Lisa",
-    "start": 258,
-    "end": 262,
+    "text": "Karen Parker",
+    "start": 82,
+    "end": 94,
     "source": "spacy",
     "chunk": 0,
-    "header": "Reprint Station: Hostess"
+    "line_idx": 8,
+    "confidence": 0.7
   },
   {
     "pii_type": "DATE",
-    "text": "10/24/2019",
-    "start": 110,
-    "end": 120,
-    "source": "regex",
-    "chunk": 0
+    "text": "11001370786 49",
+    "start": 109,
+    "end": 123,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 11,
+    "header": "www",
+    "confidence": 1.0,
+    "owner": "Karen Parker"
   },
   {
-    "pii_type": "PHONE",
-    "text": "585 247-1690",
-    "start": 91,
-    "end": 103,
+    "pii_type": "SSN",
+    "text": "054-60-1249",
+    "start": 27,
+    "end": 38,
     "source": "regex",
-    "chunk": 0
-  },
-  {
-    "pii_type": "CARD_LAST4",
-    "text": "XXXXXXXXXXXXXX3507",
-    "start": 281,
-    "end": 299,
-    "source": "regex",
-    "chunk": 0
+    "chunk": 0,
+    "line_idx": 4,
+    "header": "SECE",
+    "confidence": 1.0,
+    "owner": "SOCIAL SECURITY"
   },
   {
     "pii_type": "AUTH_CODE",
-    "text": "315205",
-    "start": 350,
-    "end": 356,
+    "text": "11001370786",
+    "start": 109,
+    "end": 120,
     "source": "regex",
     "chunk": 0,
-    "header": "Trans Type: Swipe"
+    "line_idx": 11,
+    "header": "www",
+    "confidence": 1.0,
+    "owner": "Karen Parker"
   },
   {
     "pii_type": "ZIPCODE",
-    "text": "14624",
-    "start": 85,
-    "end": 90,
-    "source": "regex",
-    "chunk": 0
-  },
-  {
-    "pii_type": "ZIPCODE",
-    "text": "00164",
-    "start": 139,
-    "end": 144,
+    "text": "14522",
+    "start": 165,
+    "end": 170,
     "source": "regex",
     "chunk": 0,
-    "header": "Station: Hostess"
+    "line_idx": 14,
+    "header": "Palmyra, NY",
+    "confidence": 1.0
   }
 ]

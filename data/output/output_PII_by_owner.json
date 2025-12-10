@@ -1,0 +1,37 @@
+{
+  "Karen Parker": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "11001370786 49"
+    ],
+    "other": [
+      {
+        "type": "AUTH_CODE",
+        "text": "11001370786"
+      }
+    ]
+  },
+  "SOCIAL SECURITY": {
+    "phones": [],
+    "ssn": [
+      "054-60-1249"
+    ],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": []
+  },
+  "Palmyra, NY": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [
+      "14522"
+    ],
+    "emails": [],
+    "dates": [],
+    "other": []
+  }
+}

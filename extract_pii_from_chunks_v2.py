@@ -6,14 +6,32 @@ import spacy
 
 from config import (
     SPACY_MODEL,
-    PII_ENTITY_LABELS,   # e.g. {"PERSON","ORG","GPE","NORP","DATE","TIME","LOC"}
+    PII_ENTITY_LABELS,  # e.g. {"PERSON","ORG","GPE","NORP","DATE","TIME","LOC"}
     DEFAULT_OCR_JSON,
-    OUTPUT_DIR
+    OUTPUT_DIR,
 )
 
-HEADER_MAX_LEN = 40  # max length of a "header" line
+HEADER_MAX_LEN = 80  # allow reasonably long labels
+ZIP_RE = re.compile(r"\b\d{5}\b")
+
+# texts that must never be treated as headers
+BAD_HEADER_TEXTS = {
+    "Madam/ Dear Sir,",  # add more greetings / boilerplate if needed
+}
+
+# entity texts you do NOT want to use as grouping owners
+BAD_ENTITY_KEYS = {
+    "Madam/ Dear Sir,",
+    "Request",
+    "CIF",  # remove from here if you want CIF to own a group
+}
+
+# only these entity labels can own groups
+GOOD_OWNER_LABELS = {"PERSON", "ORG"}
+
 
 # ===================== Utility =====================
+
 
 def extract_text_from_json(json_file: Path) -> str:
     """Extract combined text from OCR JSON {page_texts: {...}}."""
@@ -35,7 +53,9 @@ def split_text_into_chunks(text: str, chunk_size: int):
         yield text[start:end], (start, end)
         start = end
 
+
 # ===================== Validators =====================
+
 
 def check_luhn(card_number: str) -> bool:
     """Return True if card_number passes Luhn checksum."""
@@ -47,8 +67,7 @@ def check_luhn(card_number: str) -> bool:
     reverse_digits = digits[::-1]
     for i, d in enumerate(reverse_digits):
         n = int(d)
-        # double every second digit (1-based from the right)
-        if i % 2 == 1:
+        if i % 2 == 1:  # double every second digit (1-based from the right)
             n *= 2
             if n > 9:
                 n -= 9
@@ -65,7 +84,9 @@ def is_valid_phone_number(value: str) -> bool:
     match = re.match(r"^([2-9]\d{2})([2-9]\d{2})(\d{4})$", digits)
     return match is not None
 
+
 # ===================== Fallbacks (disabled) =====================
+
 
 def extract_missing_person_names(_text: str):
     """Disabled: rely on spaCy for PERSON to avoid overfitting."""
@@ -76,31 +97,53 @@ def extract_missing_org_names(_text: str):
     """Disabled: rely on spaCy for ORG to avoid overfitting."""
     return []
 
+
 # ===================== spaCy NER =====================
 
+
 def extract_spacy_entities(nlp, text: str):
-    """
-    Use spaCy NER to get PERSON, ORG, and other configured entity labels.
-    Apply only light, generic cleanup to reduce obvious noise.
-    """
+    """Use spaCy NER to get configured entity labels and lightly clean noise."""
     doc = nlp(text)
     spans = []
 
-    # Generic labels to drop (numbers, money, etc.)
     DISALLOWED_SPACY_LABELS = {
-        "CARDINAL", "ORDINAL", "QUANTITY", "PERCENT", "MONEY",
-        "LANGUAGE", "PRODUCT", "EVENT", "LAW"
+        "CARDINAL",
+        "ORDINAL",
+        "QUANTITY",
+        "PERCENT",
+        "MONEY",
+        "LANGUAGE",
+        "PRODUCT",
+        "EVENT",
+        "LAW",
     }
 
-    # Very small deny-list for obvious UI / generic tokens
     UI_TOKENS = {
-        "groups", "group", "settings", "home", "documents", "pages",
-        "site", "contents", "recent", "title", "department", "search",
-        "actions", "links", "view", "detail", "details", "about",
-        "preview", "total", "subtotal", "tax", "tip"
+        "groups",
+        "group",
+        "settings",
+        "home",
+        "documents",
+        "pages",
+        "site",
+        "contents",
+        "recent",
+        "title",
+        "department",
+        "search",
+        "actions",
+        "links",
+        "view",
+        "detail",
+        "details",
+        "about",
+        "preview",
+        "total",
+        "subtotal",
+        "tax",
+        "tip",
     }
 
-    # Specific bad full texts for ORG
     BLOCK_ORG_TEXTS = {"Sub Total", "Total", "Tax", "Tip"}
 
     for ent in doc.ents:
@@ -108,10 +151,8 @@ def extract_spacy_entities(nlp, text: str):
         label = ent.label_
         words = txt.split()
 
-        # Only keep labels your config says are interesting
         if label not in PII_ENTITY_LABELS:
             continue
-
         if label in DISALLOWED_SPACY_LABELS:
             continue
 
@@ -122,7 +163,6 @@ def extract_spacy_entities(nlp, text: str):
                 continue
 
         if label == "PERSON":
-            # discard extremely short / weird spans
             if len(txt) < 2:
                 continue
             if "\n" in txt:
@@ -130,36 +170,37 @@ def extract_spacy_entities(nlp, text: str):
             if any(w.lower() in UI_TOKENS for w in words):
                 continue
 
-        spans.append({
-            "pii_type": label,
-            "text": txt,
-            "start": ent.start_char,
-            "end": ent.end_char,
-            "source": "spacy"
-        })
+        spans.append(
+            {
+                "pii_type": label,
+                "text": txt,
+                "start": ent.start_char,
+                "end": ent.end_char,
+                "source": "spacy",
+            }
+        )
 
     return spans
 
+
 # ===================== Regex PII =====================
 
+
 def extract_regex_pii(text: str):
-    """
-    Regex-based detection for structured PII:
-    SSN, DATE, TIME, PHONE, EMAIL, CREDIT_CARD, CARD_LAST4, DLN, AUTH_CODE, ZIPCODE.
-    """
+    """Regex-based detection for structured PII."""
     spans = []
 
     patterns = {
-        "SSN":         r"\b\d{3}[- ]?\d{2}[- ]?\d{4}\b",
-        "DATE":        r"\b(0?[1-9]|1[0-2])[/\-](0?[1-9]|[12]\d|3[01])[/\-]\d{4}\b",
-        "TIME":        r"\b(0?[1-9]|1[0-2]):[0-5]\d\s?(?:AM|PM)\b",
-        "PHONE":       r"\b[0-9]{3}[-\s]?[0-9]{3}[-\s]?[0-9]{4}\b",
-        "EMAIL":       r"[A-Za-z0-9._%+-]+@[A-Za-z0-9._-]+\.[A-Za-z]{2,}",
+        "SSN": r"\b\d{3}[- ]?\d{2}[- ]?\d{4}\b",
+        "DATE": r"\b(0?[1-9]|1[0-2])[/\-](0?[1-9]|[12]\d|3[01])[/\-]\d{4}\b",
+        "TIME": r"\b(0?[1-9]|1[0-2]):[0-5]\d\s?(?:AM|PM)\b",
+        "PHONE": r"\b[0-9]{3}[-\s]?[0-9]{3}[-\s]?[0-9]{4}\b",
+        "EMAIL": r"[A-Za-z0-9._%+-]+@[A-Za-z0-9._-]+\.[A-Za-z]{2,}",
         "CREDIT_CARD": r"\b(?:\d[ -]*){12,19}\b",
-        "CARD_LAST4":  r"\b[Xx]{4,}\d{4}\b",
-        "DLN":         r"\b(?:DLN|DL#|DL:|Driver|License)[\s:]*([A-Za-z]?\d{8,12})\b",
-        "AUTH_CODE":   r"\b\d{6,12}\b",
-        "ZIPCODE":     r"\b\d{5}\b"
+        "CARD_LAST4": r"\b[Xx]{4,}\d{4}\b",
+        "DLN": r"\b(?:DLN|DL#|DL:|Driver|License)[\s:]*([A-Za-z]?\d{8,12})\b",
+        "AUTH_CODE": r"\b\d{6,12}\b",
+        "ZIPCODE": r"\b\d{5}\b",
     }
 
     for base_label, pattern in patterns.items():
@@ -170,38 +211,36 @@ def extract_regex_pii(text: str):
 
             if label == "PHONE":
                 if not is_valid_phone_number(value):
-                    # reclassify 9-digit invalid phone as SSN
                     if len(digits) == 9:
                         label = "SSN"
                     else:
                         continue
 
             if label == "ZIPCODE":
-                # filter clearly invalid ZIPs, like 00000 or 000xx
                 if digits.startswith("000") or digits == "00000":
                     continue
 
             if label == "CREDIT_CARD" and not check_luhn(value):
                 continue
 
-            spans.append({
-                "pii_type": label,
-                "text": value,
-                "start": match.start(),
-                "end": match.end(),
-                "source": "regex"
-            })
+            spans.append(
+                {
+                    "pii_type": label,
+                    "text": value,
+                    "start": match.start(),
+                    "end": match.end(),
+                    "source": "regex",
+                }
+            )
 
     return spans
 
+
 # ===================== Header Association =====================
 
+
 def build_line_index(text: str):
-    """
-    Build:
-    - lines: list of {"start": s, "end": e, "text": line_text}
-    - char_to_line: list mapping each char index -> line index
-    """
+    """Build line list and char_to_line mapping."""
     lines = []
     char_to_line = [0] * len(text) if text else []
     offset = 0
@@ -219,46 +258,69 @@ def build_line_index(text: str):
 
 def is_header_candidate(line_text: str) -> bool:
     """
-    Heuristic to decide if a line looks like a header:
-    - Short line
-    - Mostly alphanumeric + simple punctuation
-    - Often ends with ':' or '#', or is 1–3 tokens with no digits
+    Heuristic to decide if a line looks like a header.
+    - Reject pure phone/number-like lines (no letters).
+    - Reject known bad header texts (e.g. greetings).
+    - Otherwise use length and punctuation-based rules.
     """
     stripped = line_text.strip()
     if not stripped or len(stripped) > HEADER_MAX_LEN:
         return False
 
-    # mostly letters / digits / spaces / simple punctuation
-    if not re.match(r"^[A-Za-z0-9 #:/\-\(\)]+$", stripped):
+    if stripped in BAD_HEADER_TEXTS:
         return False
 
-    # strong signal if ends with ':' or '#'
-    if stripped.endswith((":","#")):
+    if re.fullmatch(r"[0-9\-\s()+]+", stripped):
+        return False
+
+    if not re.match(r"^[A-Za-z0-9 #:/\-\(\)\.,]+$", stripped):
+        return False
+
+    if stripped.endswith((":", "#")):
         return True
 
-    # otherwise, if 1–3 words and no digits inside words → treat as header
     tokens = stripped.split()
-    if 1 <= len(tokens) <= 3:
-        if not any(any(c.isdigit() for c in t) for t in tokens):
-            return True
+    if 1 <= len(tokens) <= 6:
+        return True
 
     return False
 
 
+def normalize_header_key(header_text: str) -> str:
+    """
+    Reduce a full header line to just the header 'key':
+    - If there is a colon, keep the part before the first colon.
+    - Else if the line ends with a 5-digit ZIP, strip the ZIP.
+    - Otherwise, keep the whole stripped line.
+    """
+    if header_text is None:
+        return None
+    stripped = header_text.strip()
+
+    if ":" in stripped:
+        parts = stripped.split(":", 1)
+        key = parts[0].strip()
+        return key or stripped
+
+    m = ZIP_RE.search(stripped)
+    if m and m.end() == len(stripped):
+        before = stripped[: m.start()].rstrip(" ,")
+        return before or stripped
+
+    return stripped
+
+
 def attach_headers_to_pii(text: str, pii_spans: list):
     """
-    For each PII span, find nearest header above/below and add 'header' key.
-    Logic:
-      - Build per-line index
-      - Mark lines that look like headers
-      - For each PII span: look at header in same line, line-1, line+1
+    For each PII span, find nearest header above/below and add:
+      - 'header' key (header key only) if found
+      - 'line_idx' key with the span's line index
     """
     if not text or not pii_spans:
         return pii_spans
 
     lines, char_to_line = build_line_index(text)
 
-    # precompute header candidates per line
     header_by_line = {}
     for i, line in enumerate(lines):
         if is_header_candidate(line["text"]):
@@ -270,39 +332,242 @@ def attach_headers_to_pii(text: str, pii_spans: list):
             continue
 
         line_idx = char_to_line[start]
+        span["line_idx"] = line_idx
+
         candidate_headers = []
 
-        # same line
         if line_idx in header_by_line:
             candidate_headers.append((0, header_by_line[line_idx]))
 
-        # line above
-        if line_idx - 1 in header_by_line:
-            candidate_headers.append((1, header_by_line[line_idx - 1]))
+        for delta in (1, 2):
+            up = line_idx - delta
+            if up in header_by_line:
+                candidate_headers.append((delta, header_by_line[up]))
 
-        # line below
-        if line_idx + 1 in header_by_line:
-            candidate_headers.append((1, header_by_line[line_idx + 1]))
+        for delta in (1, 2):
+            down = line_idx + delta
+            if down in header_by_line:
+                candidate_headers.append((delta, header_by_line[down]))
 
         if candidate_headers:
-            # pick closest (distance), prefer same line if exists
             candidate_headers.sort(key=lambda x: x[0])
-            span["header"] = candidate_headers[0][1]
+            best_header_full = candidate_headers[0][1].strip()
+
+            if best_header_full == span["text"].strip():
+                continue
+
+            span["header"] = normalize_header_key(best_header_full)
 
     return pii_spans
 
+
+# ===================== Confidence Assignment =====================
+
+
+def assign_confidence(pii_spans):
+    """
+    Add a simple confidence score:
+    - 1.0 if has header
+    - 0.7 if no header but near PERSON/ORG (same or ±1 line)
+    - 0.4 otherwise
+    """
+    persons_orgs_by_line = {}
+    for span in pii_spans:
+        if span["pii_type"] in ("PERSON", "ORG"):
+            line = span.get("line_idx")
+            if line is not None:
+                persons_orgs_by_line.setdefault(line, []).append(span)
+
+    for span in pii_spans:
+        if "header" in span:
+            span["confidence"] = 1.0
+            continue
+
+        line = span.get("line_idx")
+        nearby_entity = False
+        if line is not None:
+            for delta in (-1, 0, 1):
+                if line + delta in persons_orgs_by_line:
+                    nearby_entity = True
+                    break
+
+        if nearby_entity:
+            span["confidence"] = 0.7
+        else:
+            span["confidence"] = 0.4
+
+    return pii_spans
+
+
+# ===================== Owner Selection & Assignment =====================
+
+
+def is_good_owner_entity(span):
+    """
+    Decide if a PERSON/ORG span can be used as a grouping key (owner).
+    """
+    if span["pii_type"] not in GOOD_OWNER_LABELS:
+        return False
+
+    txt = span["text"].strip()
+    if txt in BAD_ENTITY_KEYS:
+        return False
+
+    if not re.search(r"[A-Za-z]", txt):
+        return False
+
+    return True
+
+
+def assign_owner_to_unlabeled_pii(pii_spans):
+    """
+    For all non-owner spans (even those with headers), try to assign a PERSON/ORG owner:
+    - Build list of owner entities (good PERSON/ORG) with their line_idx.
+    - For each non-owner span:
+        find nearest owner within ±max_delta lines.
+        store owner name in span["owner"].
+    """
+    owners = []
+    for span in pii_spans:
+        if is_good_owner_entity(span):
+            line = span.get("line_idx")
+            if line is not None:
+                owners.append((line, span["text"].strip()))
+
+    if not owners:
+        return pii_spans
+
+    owners.sort(key=lambda x: x[0])
+
+    def find_nearest_owner(line_idx, max_delta=5):
+        best_name = None
+        best_dist = None
+        for owner_line, owner_name in owners:
+            delta = line_idx - owner_line
+            if abs(delta) > max_delta:
+                continue
+            if best_dist is None or abs(delta) < best_dist:
+                best_dist = abs(delta)
+                best_name = owner_name
+        return best_name
+
+    for span in pii_spans:
+        # skip owner spans themselves (PERSON/ORG)
+        if is_good_owner_entity(span):
+            continue
+
+        line = span.get("line_idx")
+        if line is None:
+            continue
+
+        owner_name = find_nearest_owner(line)
+        if owner_name:
+            span["owner"] = owner_name
+
+    return pii_spans
+
+
+# ===================== Clustering by Header or Entity =====================
+
+
+def cluster_pii_by_header_or_entity(text: str, pii_spans: list):
+    """
+    Group PII spans by header or owner.
+    """
+    clusters = {}
+    no_header_key = "NO_HEADER"
+
+    for span in pii_spans:
+        header_key = span.get("header")
+        owner_key = span.get("owner")
+
+        if owner_key:
+            clusters.setdefault(owner_key, []).append(span)
+        elif header_key:
+            clusters.setdefault(header_key, []).append(span)
+        else:
+            clusters.setdefault(no_header_key, []).append(span)
+
+    return clusters
+
+
+# ===================== Owner-centric View =====================
+
+
+def build_owner_view(pii_spans):
+    """
+    Build an owner-centric view:
+    {
+      "Owner Name or Header": {
+        "phones": [...],
+        "ssn": [...],
+        "addresses": [...],
+        "emails": [...],
+        "dates": [...],
+        "other": [...]
+      },
+      ...
+    }
+    """
+    owner_view = {}
+
+    for span in pii_spans:
+        owner = span.get("owner") or span.get("header")
+        if not owner:
+            continue
+
+        bucket = owner_view.setdefault(
+            owner,
+            {
+                "phones": [],
+                "ssn": [],
+                "addresses": [],
+                "emails": [],
+                "dates": [],
+                "other": [],
+            },
+        )
+
+        t = span["pii_type"]
+        txt = span["text"]
+
+        if t == "PHONE":
+            bucket["phones"].append(txt)
+        elif t == "SSN":
+            bucket["ssn"].append(txt)
+        elif t in ("GPE", "ZIPCODE", "LOC"):
+            bucket["addresses"].append(txt)
+        elif t in ("EMAIL", "EMAIL_ADDRESS"):
+            bucket["emails"].append(txt)
+        elif t == "DATE":
+            bucket["dates"].append(txt)
+        else:
+            bucket["other"].append({"type": t, "text": txt})
+
+    return owner_view
+
+
 # ===================== Conflict Resolution =====================
 
+
 def resolve_conflicts(spans):
-    """
-    If the same text appears with multiple labels, keep the highest-priority one.
-    Priority is defined by domain knowledge.
-    """
+    """If the same text appears with multiple labels, keep highest-priority one."""
     priority = [
-        "SSN", "CREDIT_CARD", "DLN", "EMAIL", "PHONE",
-        "ZIPCODE", "DATE", "TIME",
-        "CARD_LAST4", "AUTH_CODE",
-        "PERSON", "ORG", "GPE", "NORP", "URL"
+        "SSN",
+        "CREDIT_CARD",
+        "DLN",
+        "EMAIL",
+        "PHONE",
+        "ZIPCODE",
+        "DATE",
+        "TIME",
+        "CARD_LAST4",
+        "AUTH_CODE",
+        "PERSON",
+        "ORG",
+        "GPE",
+        "NORP",
+        "URL",
     ]
 
     def get_priority(label: str) -> int:
@@ -316,7 +581,6 @@ def resolve_conflicts(spans):
         if txt in seen:
             prev_label = seen[txt]
             if get_priority(item["pii_type"]) < get_priority(prev_label):
-                # replace older, lower-priority entry
                 final = [x for x in final if x["text"] != txt]
                 final.append(item)
                 seen[txt] = item["pii_type"]
@@ -326,7 +590,9 @@ def resolve_conflicts(spans):
 
     return final
 
+
 # ===================== MAIN =====================
+
 
 def main():
     parser = argparse.ArgumentParser()
@@ -353,9 +619,8 @@ def main():
     out_dir.mkdir(exist_ok=True)
 
     for idx, (chunk, (start, end)) in enumerate(split_text_into_chunks(text, chunk_size)):
-        sp_hits = extract_spacy_entities(nlp, chunk)      # PERSON / ORG / others
-        regex_hits = extract_regex_pii(chunk)              # phone, card, date, etc.
-        # fallbacks currently disabled
+        sp_hits = extract_spacy_entities(nlp, chunk)
+        regex_hits = extract_regex_pii(chunk)
         fallback_person_hits = extract_missing_person_names(chunk)
         fallback_org_hits = extract_missing_org_names(chunk)
 
@@ -370,11 +635,33 @@ def main():
         cleaned = resolve_conflicts(merged)
         all_pii.extend(cleaned)
 
-    # Attach nearest headers (same/above/below line) to each PII span
+    # Attach headers and line indices
     all_pii = attach_headers_to_pii(text, all_pii)
 
+    # Assign confidence scores
+    all_pii = assign_confidence(all_pii)
+
+    # Assign owners (PERSON/ORG) to all non-owner PII
+    all_pii = assign_owner_to_unlabeled_pii(all_pii)
+
+    # Cluster by header or owner
+    clusters = cluster_pii_by_header_or_entity(text, all_pii)
+
+    # Owner-centric output (outer loop = name or header)
+    owner_view = build_owner_view(all_pii)
+
+    # Flat PII output
     output_file = Path(args.output_dir) / "output_PII.json"
     output_file.write_text(json.dumps(all_pii, indent=2), encoding="utf-8")
+
+    # Clustered output
+    cluster_file = Path(args.output_dir) / "output_PII_grouped_by_header_or_entity.json"
+    cluster_file.write_text(json.dumps(clusters, indent=2), encoding="utf-8")
+
+    # Owner-centric output
+    owner_file = Path(args.output_dir) / "output_PII_by_owner.json"
+    owner_file.write_text(json.dumps(owner_view, indent=2), encoding="utf-8")
+
     print("✔ DONE")
 
 

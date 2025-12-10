@@ -1,0 +1,102 @@
+{
+  "Date": [
+    {
+      "pii_type": "TIME",
+      "text": "01:55 PM",
+      "start": 121,
+      "end": 129,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 6,
+      "header": "Date",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "DATE",
+      "text": "10/24/2019",
+      "start": 110,
+      "end": 120,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 6,
+      "header": "Date",
+      "confidence": 1.0
+    }
+  ],
+  "Reprint Server": [
+    {
+      "pii_type": "PERSON",
+      "text": "Lisa",
+      "start": 258,
+      "end": 262,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 12,
+      "header": "Reprint Server",
+      "confidence": 1.0
+    }
+  ],
+  "Rochester, NY": [
+    {
+      "pii_type": "PHONE",
+      "text": "585 247-1690",
+      "start": 91,
+      "end": 103,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 5,
+      "header": "Rochester, NY",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "ZIPCODE",
+      "text": "14624",
+      "start": 85,
+      "end": 90,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 4,
+      "header": "Rochester, NY",
+      "confidence": 1.0
+    }
+  ],
+  "Card Number": [
+    {
+      "pii_type": "CARD_LAST4",
+      "text": "XXXXXXXXXXXXXX3507",
+      "start": 281,
+      "end": 299,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 13,
+      "header": "Card Number",
+      "confidence": 1.0
+    }
+  ],
+  "Authorization": [
+    {
+      "pii_type": "AUTH_CODE",
+      "text": "315205",
+      "start": 350,
+      "end": 356,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 15,
+      "header": "Authorization",
+      "confidence": 1.0
+    }
+  ],
+  "Check #": [
+    {
+      "pii_type": "ZIPCODE",
+      "text": "00164",
+      "start": 139,
+      "end": 144,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 7,
+      "header": "Check #",
+      "confidence": 1.0
+    }
+  ]
+}

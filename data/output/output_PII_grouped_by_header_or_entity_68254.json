@@ -1,0 +1,137 @@
+{
+  "DOB": [
+    {
+      "pii_type": "GPE",
+      "text": "Pennsylvania",
+      "start": 0,
+      "end": 12,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 0,
+      "confidence": 0.4,
+      "owner": "DOB"
+    }
+  ],
+  "3 DOB": [
+    {
+      "pii_type": "ORG",
+      "text": "DOB",
+      "start": 76,
+      "end": 79,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 4,
+      "header": "3 DOB",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "DATE",
+      "text": "04/05/1986",
+      "start": 81,
+      "end": 91,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 4,
+      "header": "3 DOB",
+      "confidence": 1.0
+    }
+  ],
+  "PO BOX 7932": [
+    {
+      "pii_type": "DATE",
+      "text": "7932",
+      "start": 155,
+      "end": 159,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 9,
+      "header": "PO BOX 7932",
+      "confidence": 1.0
+    }
+  ],
+  "LANCASTER, PA": [
+    {
+      "pii_type": "ORG",
+      "text": "LANCASTER",
+      "start": 160,
+      "end": 169,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 10,
+      "header": "LANCASTER, PA",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "DATE",
+      "text": "PA 17602",
+      "start": 171,
+      "end": 179,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 10,
+      "header": "LANCASTER, PA",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "ZIPCODE",
+      "text": "17602",
+      "start": 174,
+      "end": 179,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 10,
+      "header": "LANCASTER, PA",
+      "confidence": 1.0
+    }
+  ],
+  "4b EXP": [
+    {
+      "pii_type": "DATE",
+      "text": "04/06/2023",
+      "start": 100,
+      "end": 110,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 5,
+      "header": "4b EXP",
+      "confidence": 1.0
+    }
+  ],
+  "eiss": [
+    {
+      "pii_type": "DATE",
+      "text": "06/29/2019",
+      "start": 297,
+      "end": 307,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 19,
+      "header": "eiss",
+      "confidence": 1.0
+    }
+  ],
+  "SDD": [
+    {
+      "pii_type": "CREDIT_CARD",
+      "text": "500000075480",
+      "start": 270,
+      "end": 282,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 17,
+      "header": "SDD",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "AUTH_CODE",
+      "text": "191800901103",
+      "start": 257,
+      "end": 269,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 16,
+      "header": "SDD",
+      "confidence": 1.0
+    }
+  ]
+}
