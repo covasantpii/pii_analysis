@@ -1,0 +1,106 @@
+Timecard Import
+← Previous Next
+Row #
+Messages
+EmpNo
+Name
+Legal Com
+123456789
+130
+James Sidney Allen Jr
+IP120
+|136
+Jason Lee Bailey
+IP120
+128
+Daniel L Bergen
+IP120
+27
+Matthew S Brech
+IP120
+54
+Russell L Carpenter Jr
+IP120
+123
+Eloy U Castro
+IP120
+120
+Antione L Cheeks
+IP120
+106
+Robert A Clocker
+IP120
+|134
+Lewis McKelle Crumb
+IP120
+10
+137
+Ryan Diate
+IP120
+11
+59
+Seon C Fernandes
+IP120
+12
+75
+Ian J Fisher
+IP120
+13
+112
+Paola R Garcia
+IP120
+14
+129
+Reyneris Granados Jr.
+IP120
+15
+8
+Michael C Green
+IP120
+16
+102
+Shanae N Grooms
+IP120
+17
+65
+Carlos J Hill
+IP120
+18
+71
+Robert L Hoes
+IP120
+19
+(33
+Nicholous W Lehman
+IP120
+20
+90
+William J Lutz
+IP120
+21
+92
+Berman C Maddy
+IP120
+22
+117
+Richard P Malloch
+IP120
+23
+56
+Michael L Martin
+IP120
+24
+124
+Mark P McGrath
+IP120
+25
+97
+Garrett M Mohler
+IP120
+<
+> <
+Import Validation Summary
+Critical Error Records: 0
+Warning Records: 0
+File Format Errors: 0
+Click To View Validation Details Download Validation Details Download Validation Grid

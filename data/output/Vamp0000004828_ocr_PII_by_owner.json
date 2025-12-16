@@ -1,0 +1,26 @@
+{
+  "PTO": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "TIME",
+        "text": "0.00 hours"
+      }
+    ]
+  },
+  "A": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "4.00 days",
+      "last\nyear"
+    ],
+    "other": []
+  }
+}

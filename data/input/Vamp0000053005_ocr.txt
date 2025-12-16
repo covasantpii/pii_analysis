@@ -1,0 +1,109 @@
+23 24 25 26
+27 28 29 30 31 1 2
+3456789
+Current
+7
+3
+MARK OFF
+MARIC
+JOHNSTONE
+Remit Address:
+JOHNSTONE
+SUPPLY
+77 Halstead Street, Suite 3
+Rochester, NY 14610-1955
+585-441-0339
+585-482-2789 Fax
+AR141 @JohnstoneSupply.com
+Rochester
+95 Halstead Street
+Rochester, NY 14610-1955
+585-482-8000
+585-482-6000 Fax
+Syracuse
+835 Canal Street
+How did we do today?
+回回
+Syracuse, NY 13210-1161
+315-479-8800
+315-479-8800 Fax
+Store141JohnstoneSupply.com Store269%JohnstoneSupply.com
+Sold To
+ISAAC HEATING & AC
+50 HOLLEDER PKY
+ROCHESTER NY 14615-3804
+UNITED STATES
+Customer #
+0004464
+Fri
+0
+INVOICE
+Ship To
+Page 1/1
+ISAAC HEATING & AC-RESIDENTIAL
+50 HOLLEDER PKY
+ROCHESTER NY 14615-3804
+UNITED STATES
+Order Date
+Sales Order #
+Buyer
+12/19/2020 1098879
+BRIAN KLEINHAMMER
+Customer PIO #
+424400
+Ship Via
+Salesman
+WILL CALL
+101
+Job Number
+Terms
+Invoice #
+1098879
+Invoice Date
+Ship Date
+Freight Terms
+12/19/2020 12/19/20 PREPAID
+LN QNTY QNTY ONTY PRODUCT
+ORD
+SHIP B/O
+NUMBER
+DESCRIPTION
+NET 30 DAYS
+UOM NET
+PRICE
+EXTENSION
+1
+1
+WE512050230
+512-050-230 THERM ROLLOUT
+EA
+13.948
+$13.95
+Signature Proof of Delivery:
+Mr Hit
+12/19/20 16:15
+Archive Copy
+NYS Contract #: PC67222
+Group: 39000 Ind & Comm Splys & Eqpt
+NYS Vendor ID: 1000008135
+Terms & Conditions
+Merchandise Returns may be subject to a restock
+charge.
+No return for electrical items, special orders.
+installed parts, or parts older than 90 days.
+Pay By 01/18/2021
+Writer: MDB
+Merchandise
+Freight
+13.95
+0.00
+Store Opening Fee
+85.00
+Sub Total
+98.95
+13.95
+1.12
+$100.07
+Taxable
+Tax (2611)
+TOTAL

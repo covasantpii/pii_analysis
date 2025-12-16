@@ -1,0 +1,16 @@
+Time
+Punch: 05/05/2022
+8:00 AM
+Type: Normal
+Mode: Auto
+Labor Group
+Absence: 2-Work Comp Not Paid
+Labor Default Override
+Branch:08
+Department:CS (W)
+Absence: 2-Work Comp Not Paid
+0
+1-Work Comp Initial Day Paid
+2- Work Comp Not Paid
+Notes
+Save Cancel

@@ -1,0 +1,101 @@
+Pay-To Vendor:
+02132
+Invoice Number:
+168960660
+Previous Vendor
+Invoice
+Notes
+UNITED CONCORDIA
+P.O. Box 827377
+Philadelphia, PA 19182-7377
+Remit-To:
+02132
+Same address
+Invoice Type:
+Invoice
+Status:
+Active
+Attachment
+Entry Log
+Checks
+Invoice Date:
+Branch:
+P/O or Reference #:
+09/08/2021
+Current 'AP' Accounting Period:
+1021
+369
+QJohnstone Supply #369
+WALLACE DENTAL PERMIUM 10.1.21 - 10.31.21
+This Invoice 'AP' Accounting Period:
+Override G/L Suffix
+|0921
+Recalculate
+Liability G/L:
+20000400
+Terms:
+08
+Q ACCOUNTS PAYABLE-VENDORS
+QNET 30 DAYS
+Message On Check:
+INV 168960660 RECIPIENT 000325364
+G/L Distribution
+G/L Account
+|52000400
+Description
+Amount
+EMPLOYEE BENEFITS - BRANCH
+$170.16
+52000500
+EMPLOYEE BENEFITS - BRANCH
+$112.50
+52000600
+EMPLOYEE BENEFITS - BRANCH
+$251.01
+Gross Amount:
+$ 1,658.67 Discount Amount:
+$
+0.00
+52000700
+EMPLOYEE BENEFITS - BRANCH
+$170.16
+Freight Amount:
+$
+Discount Date:
+09/25/2021
+52000800
+EMPLOYEE BENEFITS - BRANCH
+$225.00
+52000900
+Tax Amount:
+Due Date:
+09/25/2021
+52030100
+Other Amount Label
+S
+Linked Receipts:
+|52040600
+Merchandise Amount:
+52060600
+$1,658.67
+Balance Due:
+$0.00
+52260500
+52260600
+52260700
+EMPLOYEE BENEFITS - BRANCH
+EMPLOYEE BENEFITS - EXECUTIVE
+EMPLOYEE BENEFITS - OPERATIONS...
+EMPLOYEE BENEFITS -TECH SUPPORT
+EMPLOYEE BENEFITS - OUTSIDE SALES
+EMPLOYEE BENEFITS - OUTSIDE SALES
+EMPLOYEE BENEFITS - OUTSIDE SALES
+Total:
+$57.66
+$28.83
+$83.67
+$83.67
+$112.50
+$83.67
+$83.67
+$1,658.67

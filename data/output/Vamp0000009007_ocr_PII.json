@@ -1,0 +1,104 @@
+[
+  {
+    "pii_type": "ORG",
+    "text": "New Hire External Placement Process",
+    "start": 0,
+    "end": 35,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 0,
+    "confidence": 0.7
+  },
+  {
+    "pii_type": "PERSON",
+    "text": "Kevin French",
+    "start": 320,
+    "end": 332,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 7,
+    "header": "6. Post to Monster",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "GPE",
+    "text": "Rochester",
+    "start": 382,
+    "end": 391,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 8,
+    "header": "6. Post to Monster",
+    "confidence": 1.0,
+    "owner": "Kevin French"
+  },
+  {
+    "pii_type": "GPE",
+    "text": "Syracuse",
+    "start": 396,
+    "end": 404,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 8,
+    "header": "6. Post to Monster",
+    "confidence": 1.0,
+    "owner": "Kevin French"
+  },
+  {
+    "pii_type": "DATE",
+    "text": "1 week",
+    "start": 423,
+    "end": 429,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 8,
+    "header": "6. Post to Monster",
+    "confidence": 1.0,
+    "owner": "Kevin French"
+  },
+  {
+    "pii_type": "DATE",
+    "text": "3 weeks",
+    "start": 440,
+    "end": 447,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 9,
+    "confidence": 0.4,
+    "owner": "Kevin French"
+  },
+  {
+    "pii_type": "DATE",
+    "text": "10 day",
+    "start": 467,
+    "end": 473,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 9,
+    "confidence": 0.4,
+    "owner": "Kevin French"
+  },
+  {
+    "pii_type": "CURRENCY",
+    "text": "$395",
+    "start": 406,
+    "end": 410,
+    "source": "regex",
+    "chunk": 0,
+    "line_idx": 8,
+    "header": "6. Post to Monster",
+    "confidence": 1.0,
+    "owner": "Kevin French"
+  },
+  {
+    "pii_type": "CURRENCY",
+    "text": "$419",
+    "start": 533,
+    "end": 537,
+    "source": "regex",
+    "chunk": 0,
+    "line_idx": 10,
+    "confidence": 0.4,
+    "owner": "Kevin French"
+  }
+]

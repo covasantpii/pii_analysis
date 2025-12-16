@@ -1,0 +1,134 @@
+Goodman Equipment
+Let's focus on selling these old model "E" series furnaces
+1st. AHRI matches will be harder to find with these vs the
+Equipment Focus for the week of October 24, 2022
+Daikin SkyAir FTQ Series - Multi-Position AHU Heat Pump
+Outdoor/Indoor units each powered separately. EEV located in Evaporator.
+Electric Heat Kit options available (see Daikin Ductless Cheat Sheet on Teams for details.)
+Details
+JS#
+System
+M#
+Qty Avail
+Notes
+new "9" series.
+JS#
+L94-047
+"E" MODELS
+GMEC960303AN
+Quantity On Hand
+15.5 SEER / 12.5 EER / 8.6 HSPF
+Heating to -4°F (20,000btuh)
+FTQ18TAVJUD B61-641
+10
+Controller NOT Included - see below for
+18,000
+15
+available wired options
+RZQ18TAVJUA
+B61-653
+15
+L94-048 GMEC960403AN
+6
+L94-049 GMEC960603AN
+2
+L93-165 GMEC960603BN
+35
+15.2 SEER / 10.3 EER / 9.4 HSPF
+NEEP Qualified
+FTQ24TAVJUD
+B61-642
+20
+BRC1E73 (G36-601) Navigation
+Controller (wired) - 36ea available
+24,000
+L93-166
+L93-760
+GMEC960803BN
+GMEC960804CN
+13
+Heating to -4°F (27,000btuh)
+RZQ24TAVJUA
+B61-654
+10
+2
+L93-167 GMEC961004CN
+2
+L95-335
+GMES800403AN
+1
+16.0 SEER / 12.5 EER / 10.4 HSPF
+NEEP Qualified
+FTQ30TAVJUD
+B61-643
+21
+30,000
+L95-340
+L95-285
+L95-286
+L95-287
+GMES800804BN
+2
+Heating to -4°F (234,000btuh)
+RZQ30TAVJUA B61-655
+9
+GMES920403AN
+1
+GMES920603BN
+1
+GMES920803BN
+1
+15.3 SEER / 11.3 EER / 9.5 HSPF
+Heating to -4°F (40,000btuh)
+BRC1E73
+FTQ36TAVJUD B61-644
+16
+36,000
+L95-288
+GMES920804CN
+3
+BRC1H71W Madoka Controller (wired) -
+RZQ36TAVJUA B61-656
+31
+L95-289 GMES920805CN
+1
+17ea available
+L95-290 GMES921004CN
+L95-273 GMES960403AN
+L95-276 GMES960804CN
+1
+4
+16.0 SEER / 11.0 EER / 9.0 HSPF
+NEEP Qualified
+FTQ42TAVJUD
+B61-645
+10
+42,000
+1
+Heating to -4°F (40,400btuh)
+RZQ42TAVJUA
+B61-657
+10
+L95-278 GMES961005CN
+1
+$72)
+14.8 SEER / 9.5 EER / 9.0 HSPF
+Heating to -4°F (40,600btuh)
+FTQ48TAVJUD
+B61-646
+20
+48,000
+BRC1H71W
+RZQ48TAVJUA
+B61-658
+12
+Variable
+Refrigerant
+Temperature
+DAIKIN
+FTQ SERIES
+HEATING AND
+COOLING
+SYSTEMS
+MULTI-POSITIONAL AIR HANDLER
+Up to 16 SEER / Up to 10.4 HSPF / Up to 12.5 EER

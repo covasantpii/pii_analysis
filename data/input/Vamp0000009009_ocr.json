@@ -1,0 +1,7 @@
+{
+  "ocr_text": "PAYCHEX FLEXM\nSM New\n1\nPersonal Information\n3\nSecurity Information\nAccount Information\nSecurity Level\nSign-Up: Personal Information\nWelcome to the PAYCHEX® FLEX system. To register your account, complete the information below.\n(Fields marked with a are required.)\nFirst Name:*\nPrimary Email:*\nDate of Birth:*\nMonth\nSSN:*\n###-##-####\nAddress Line 1:*\nDay\nYear\nMI:\nLast Name:*\nRe-enter SSN:*\n###-##-####\nVerify Email:*\nAddress Line 2:\nI\nCity:*\nState:\nZip:*\nCountry:*\nSelect State\nUnited States\nCancel\nContinue",
+    "page_texts": {
+    "0": "PAYCHEX FLEXM\nSM New\n1\nPersonal Information\n3\nSecurity Information\nAccount Information\nSecurity Level\nSign-Up: Personal Information\nWelcome to the PAYCHEX® FLEX system. To register your account, complete the information below.\n(Fields marked with a are required.)\nFirst Name:*\nPrimary Email:*\nDate of Birth:*\nMonth\nSSN:*\n###-##-####\nAddress Line 1:*\nDay\nYear\nMI:\nLast Name:*\nRe-enter SSN:*\n###-##-####\nVerify Email:*\nAddress Line 2:\nI\nCity:*\nState:\nZip:*\nCountry:*\nSelect State\nUnited States\nCancel\nContinue"
+  },
+  "method": "vision_api"
+}

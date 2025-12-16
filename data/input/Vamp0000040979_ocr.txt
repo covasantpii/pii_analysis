@@ -1,0 +1,36 @@
+Update User Information
+Use this page to update user information.
+User information
+Enter information for the updated
+user.
+Choose Store
+UserID
+zchoice
+First name
+Middle initial
+Last name *
+*
+Ziporah
+Choice
+E-mail Address*
+Display Name *
+zchoice@jswallacegroup.com
+Ziporah Choice
+Choose a store for the this user.
+Store Group
+Store
+123 Easton Group
+123 Easton
+Has access to AR for all stores
+Has access to AR for this store only
+Choose JEN Groups
+Choose the additional privileges you JEN Groups
+want this user to have.
+-
+Store Admin Employee with rights to manage employee access to accounts in your store group
+Warranty Admin - Employee with rights to manage warranty claims
+eCommerce Admin - Employee with full rights to the Store Content Manager
+Web Admin - Employee with rights to update Web Site Content in the Store Content Manager
+Confidential - Employee with rights to view pricing and other confidential documents
+OK
+Cancel

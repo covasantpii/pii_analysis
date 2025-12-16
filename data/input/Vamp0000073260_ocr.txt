@@ -1,0 +1,90 @@
+P/O Number
+B000551
+Receiving
+1 of 1
+Received By
+Јас
+Receiving Date
+11/09/2022
+Vendor
+ABR WHOLESALERS INC
+510 N GOODMAN ST
+ROCHESTER, NY 14609
+Phone: 585-482-3601
+Freight Terms
+Prepaid
+P/O Date
+10/24/2022
+Branch
+575
+Drop Ship S/O
+Buyer
+MDB
+Warehouse
+11
+Receiving
+Receiving
+A/P Invoice Product
+Quantity
+Description
+Ordered
+Quantity
+Received
+Balance
+Due
+Cancel
+Bal
+MFG
+Net Price
+Extension
+Number
+Third Party 1
+Freight
+Notes
+Attachments
+2 3 4
+L89-678
+L89-781
+L89-777
+4EAL ELBOW B-VENT 4IN 90
+Зеа
+3
+4EAL
+38,6500
+0.00
+6EIX8 INCREASER B-VENT 6IN TO
+1ea
+1
+6EIX8
+84,6800
+0.00
+4EIX6 INCREASER B-VENT 4IN TO
+1ea
+1
+4EIX6
+29,1500
+0.00
+L89-737
+5
+L89-697
+6
+SP*00046325
+This item is NON-STOCK
+4E12A PIPE B-VENT 4IN X 12IN
+4E18 PIPE B-VENT 4IN X 18IN
+8 TO 12 INCREASER AMERIVENT
+2ea
+2
+4E12A
+20.7400
+0.00
+2ea
+2
+4E18
+18.0000
+0.00
+1ea
+1
+8RIX12
+233.3800
+0.00

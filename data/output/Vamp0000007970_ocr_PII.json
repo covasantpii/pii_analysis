@@ -1,0 +1,193 @@
+[
+  {
+    "pii_type": "ORG",
+    "text": "Chamber of Commerce",
+    "start": 45,
+    "end": 65,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 5,
+    "confidence": 0.7
+  },
+  {
+    "pii_type": "ORG",
+    "text": "First Name, MI",
+    "start": 89,
+    "end": 103,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 6,
+    "header": "Chamber of Commerce",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "ORG",
+    "text": "Colin, M",
+    "start": 116,
+    "end": 124,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 8,
+    "header": "Colin, M, McKelvey",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "ORG",
+    "text": "McKelvey",
+    "start": 126,
+    "end": 134,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 8,
+    "header": "Colin, M, McKelvey",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "DATE",
+    "text": "last 7 years",
+    "start": 171,
+    "end": 183,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 9,
+    "header": "Colin, M, McKelvey",
+    "confidence": 1.0,
+    "owner": "Colin, M"
+  },
+  {
+    "pii_type": "ORG",
+    "text": "Social Security",
+    "start": 184,
+    "end": 199,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 10,
+    "header": "Social Security Number",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "ORG",
+    "text": "Applicant's Date of Birth\nDate",
+    "start": 221,
+    "end": 251,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 14,
+    "header": "Date",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "ORG",
+    "text": "Driver License Number and State of Issue",
+    "start": 272,
+    "end": 312,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 17,
+    "header": "05/03/1994/09/10/19",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "DATE",
+    "text": "the last seven",
+    "start": 397,
+    "end": 411,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 21,
+    "header": "NY",
+    "confidence": 1.0,
+    "owner": "Driver License Number and State of Issue"
+  },
+  {
+    "pii_type": "DATE",
+    "text": "7) years",
+    "start": 413,
+    "end": 421,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 21,
+    "header": "NY",
+    "confidence": 1.0,
+    "owner": "Driver License Number and State of Issue"
+  },
+  {
+    "pii_type": "GPE",
+    "text": "NY",
+    "start": 505,
+    "end": 507,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 26,
+    "header": "Rochester, NY",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "DATE",
+    "text": "2015",
+    "start": 549,
+    "end": 553,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 29,
+    "header": "From",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "DATE",
+    "text": "1994",
+    "start": 570,
+    "end": 574,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 30,
+    "header": "From",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "SSN",
+    "text": "951805465",
+    "start": 328,
+    "end": 337,
+    "source": "regex",
+    "chunk": 0,
+    "line_idx": 19,
+    "header": "requested)",
+    "confidence": 1.0,
+    "owner": "Driver License Number and State of Issue"
+  },
+  {
+    "pii_type": "DATE",
+    "text": "05/03/1994",
+    "start": 252,
+    "end": 262,
+    "source": "regex",
+    "chunk": 0,
+    "line_idx": 16,
+    "header": "05/03/1994/09/10/19",
+    "confidence": 1.0,
+    "owner": "Driver License Number and State of Issue"
+  },
+  {
+    "pii_type": "ZIPCODE",
+    "text": "14620",
+    "start": 636,
+    "end": 641,
+    "source": "regex",
+    "chunk": 0,
+    "line_idx": 38,
+    "header": "Zip Code",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "ZIPCODE",
+    "text": "14560",
+    "start": 642,
+    "end": 647,
+    "source": "regex",
+    "chunk": 0,
+    "line_idx": 39,
+    "header": "Zip Code",
+    "confidence": 1.0
+  }
+]

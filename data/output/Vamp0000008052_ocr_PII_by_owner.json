@@ -1,0 +1,230 @@
+{
+  "Page Layout Formulas Data": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "PERSON",
+        "text": "Formulas Data"
+      }
+    ]
+  },
+  "Shows on Recv": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "PERSON",
+        "text": "Recv"
+      }
+    ]
+  },
+  "141 NY": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [
+      "NY"
+    ],
+    "emails": [
+      "michael.fedunyszyn@johnstonehvac-ny.com",
+      "mark.robinson@johnstonehvac-ny.com"
+    ],
+    "dates": [
+      "2017"
+    ],
+    "other": []
+  },
+  "updates as": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "Delete\n/Add/Change"
+      }
+    ]
+  },
+  "Delete\n/Add/Change": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [
+      "sharon.clarcq@johnstonehvac-ny.com"
+    ],
+    "dates": [
+      "2006"
+    ],
+    "other": []
+  },
+  "Y": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [
+      "edward.dillman@johnstonehvac-ny.com",
+      "pete.frank@johnstonehvac-ny.com",
+      "jennifer.freeman@johnstonesupply.com",
+      "cat.goldstone@johnstonehvac-ny.com",
+      "ken.livingston@johnstonehvac-ny.com",
+      "peter.wilson@johnstonehvac-ny.com",
+      "torey.adams@johnstonehvac-ny.com"
+    ],
+    "dates": [
+      "2008",
+      "2019",
+      "2009"
+    ],
+    "other": []
+  },
+  "Stevenson": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [
+      "brad.howe@johnstonesupply.com",
+      "stevenson.johnson@johnstonehvac-ny.com"
+    ],
+    "dates": [
+      "2013"
+    ],
+    "other": []
+  },
+  ":k Office": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "k Office"
+      }
+    ]
+  },
+  "Darrell": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "Darrell\nSterling\nSales"
+      }
+    ]
+  },
+  "Darrell\nSterling\nSales": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "2004"
+    ],
+    "other": []
+  },
+  "2014 lan": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "2014"
+    ],
+    "other": []
+  },
+  "2018 ad": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "2018"
+    ],
+    "other": []
+  },
+  "269 1.": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "269 1"
+    ],
+    "other": []
+  },
+  "-ny.com": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "2005"
+    ],
+    "other": []
+  },
+  "Administrative Back Office (in": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "Administrative Back Office"
+      }
+    ]
+  },
+  "k Office": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [
+      "vera.plotkin@johnstonehvac-ny.com"
+    ],
+    "dates": [],
+    "other": []
+  },
+  "851 NY": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [
+      "bob.spanfelner@johnstonehvac-ny.com"
+    ],
+    "dates": [],
+    "other": []
+  },
+  "Yes": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [
+      "david.harmer@johnstonehvac-ny.com"
+    ],
+    "dates": [],
+    "other": []
+  },
+  "Administrative Back Office": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [
+      "karen.craft@johnstonehvac-ny.com"
+    ],
+    "dates": [],
+    "other": []
+  }
+}

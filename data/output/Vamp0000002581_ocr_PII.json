@@ -1,0 +1,12 @@
+[
+  {
+    "pii_type": "CURRENCY",
+    "text": "$73,534",
+    "start": 81,
+    "end": 88,
+    "source": "regex",
+    "chunk": 0,
+    "line_idx": 7,
+    "confidence": 0.4
+  }
+]

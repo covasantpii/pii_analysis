@@ -1,0 +1,97 @@
+23
+24 25 26
+9 30 31 1
+JOHNSTONE
+SUPPLY
+Rochester NY HAN
+Rochester NY H4410 1955
+* 420 Fax
+83 Canal Street
+Syracuse NY 13210-1161
+315-479-8800
+315-479 5800 Fax
+ANMay.com SvetlohnstoneSupply.com Star JohnstoneSupply.com
+Sold To
+TAYLOR HEATING INC
+1775 BUFFALO RD
+ROCHESTER NY 14624-1601
+UNITED STATES
+INVOICE
+Page
+1/1
+Ship To
+TAYLOR HEATING INC
+1775 BUFFALO RD
+ROCHESTER NY 14624-1601
+UNITED STATES
+Customer P/O #
+LOMONACO
+Ship Via
+Salesman
+Tr 11T/002 008
+Terms
+STATEMENT-NET 25TH
+Customer
+0007878
+Order Date
+12/19/2020 1098880
+Sales Order
+Buyer
+JORDAN WOODRIFF
+Invoice
+Invoice Date
+Ship Date
+Freight Terms
+Job Number
+1098880
+12/19/2020 12/19/20 PREPAID
+IN ONTY ONTY ONTY PRODUCT
+ORD SHIP B/0 NUMBER
+DESCRIPTION
+UOM NET
+PRICE
+EXTENSION
+1
+1
+1
+L44-832
+S1-33102977000 BOARD CONTROL
+EA
+133.5435 $133.54
+KIT
+2
+1
+1
+L39-314
+RSS-498-211 SWITCH AIR
+EA
+21.7662
+$21.77
+PRESSURE SENSING KIT 1.0 TO
+4.0 WC -40F TO +180F CLEVELAN
+D
+Archive Copy
+NYS Contract #: PC67222
+Group: 39000 Ind & Comm Splys & Eqpt
+NYS Vendor ID: 1000008135
+Terms & Conditions
+Merchandise Returns may be subject to a restock
+charge.
+No return for electrical items, special orders.
+installed parts, or parts older than 90 days.
+Pay By 01/25/2021
+Writer: MDB
+Merchandise
+Freight
+155.31
+0.00
+Store Opening Fee
+85.00
+Sub Total
+240.31
+155.31
+12.42
+$252.73
+Taxable
+Tax (2611)
+TOTAL

@@ -1,0 +1,142 @@
+{
+  "400 Jay Scutti Boule": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "BJ"
+      },
+      {
+        "type": "PERSON",
+        "text": "WHOLESALE CLUB"
+      },
+      {
+        "type": "PERSON",
+        "text": "Jay Scutti Boule"
+      }
+    ]
+  },
+  "Jay Scutti Boule": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "5/13/2019"
+    ],
+    "other": []
+  },
+  "PUMP": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "1785950"
+    ],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "PUMP"
+      }
+    ]
+  },
+  "QTY/GAL": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "QTY/GAL"
+      },
+      {
+        "type": "CURRENCY",
+        "text": "$2.73"
+      }
+    ]
+  },
+  "Appr": {
+    "phones": [],
+    "ssn": [
+      "091169243"
+    ],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "05/13/2019"
+    ],
+    "other": [
+      {
+        "type": "PERSON",
+        "text": "Appr"
+      },
+      {
+        "type": "CARD_LAST4",
+        "text": "XXXXXXXXXXXX6707"
+      },
+      {
+        "type": "AUTH_CODE",
+        "text": "072450"
+      },
+      {
+        "type": "CURRENCY",
+        "text": "$51.26"
+      }
+    ]
+  },
+  "according to Card": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "Card\nIssuer Agreement"
+      }
+    ]
+  },
+  "Card\nIssuer Agreement": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "16841851934"
+    ],
+    "other": []
+  },
+  "Refer a friend or": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "PERSON",
+        "text": "Refer"
+      }
+    ]
+  },
+  "Refer": {
+    "phones": [],
+    "ssn": [
+      "203664466"
+    ],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "today"
+    ],
+    "other": []
+  }
+}

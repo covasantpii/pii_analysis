@@ -1,0 +1,52 @@
+HOME
+RESOURCES
+MYSELF
+Enrollments.*
+Welcome to D Test
+7 days left to complete this event
+AVAILABLE BENEFITS
+MEDICAL
+DENTAL
+VISION
+FSA HEALTH CARE
+HEALTH CARE FSA
+LIMITED HEALTH...
+EMPLOYEE LIFE
+Medical
+Welcome
+Select Benefits
+Summary
+Your company requires you to enter a reason to waive this coverage.
+1. Which plan would you prefer?
+Search Workforce Now
+PLAN
+PROVIDER
+PER PAYCHECK
+EMPLOYER COST
+EFFECTIVE DATE
+Health &
+Medical HDHP
+Welfare
+$20.77
+$10.15
+Provider
+Health &
+Medical HMO
+Welfare
+$5.08
+$10.15
+Provider
+2. Who do you want to cover?
+You
+George Albright
+Child
+Kate Albright
+Child
+SAVE FOR LATER
+CONTINUE TO PREVIEW
+Add to Favorites
+Per Pay Period
+SELECT PLAN
+SELECT PLAN
+WAIVE THIS BENEFIT
+MANAGE DEPENDENTS

@@ -1,0 +1,15 @@
+{
+  "8 Direct Access": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "Direct Access"
+      }
+    ]
+  }
+}

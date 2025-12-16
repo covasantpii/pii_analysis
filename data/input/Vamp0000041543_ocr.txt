@@ -1,0 +1,17 @@
+Timecard Import
+→ Next
+Import File
+*Import Type: Additional Check
+✓
+*Template: Default
+*File Format: Spreadsheet (Excel)
+*Attach File: Feb Wallace Import.xlsx
+Import Options
+Note: Default Company & Pay Group will be used if none is provided in the file.
+* Default Company: Wallace Supply LLC
+✓
+✓
+* Default Pay Group:
+Bi-Weekly
+* Import Key:
+Employee Number

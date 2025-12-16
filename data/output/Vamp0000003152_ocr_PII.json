@@ -1,0 +1,57 @@
+[
+  {
+    "pii_type": "DATE",
+    "text": "Jan 21",
+    "start": 20,
+    "end": 26,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 3,
+    "header": "Jan 21, 2022",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "DATE",
+    "text": "2022",
+    "start": 28,
+    "end": 32,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 3,
+    "header": "Jan 21, 2022",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "CURRENCY",
+    "text": "$5,953.85",
+    "start": 39,
+    "end": 48,
+    "source": "regex",
+    "chunk": 0,
+    "line_idx": 5,
+    "header": "Gross",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "CURRENCY",
+    "text": "$782.14",
+    "start": 117,
+    "end": 124,
+    "source": "regex",
+    "chunk": 0,
+    "line_idx": 11,
+    "header": "EXPAND ALL",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "CURRENCY",
+    "text": "$4,166.17",
+    "start": 127,
+    "end": 136,
+    "source": "regex",
+    "chunk": 0,
+    "line_idx": 12,
+    "header": "EXPAND ALL",
+    "confidence": 1.0
+  }
+]

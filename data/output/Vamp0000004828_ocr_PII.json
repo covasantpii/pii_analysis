@@ -1,0 +1,55 @@
+[
+  {
+    "pii_type": "ORG",
+    "text": "PTO",
+    "start": 0,
+    "end": 3,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 0,
+    "confidence": 0.7
+  },
+  {
+    "pii_type": "TIME",
+    "text": "0.00 hours",
+    "start": 36,
+    "end": 46,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 4,
+    "confidence": 0.4,
+    "owner": "PTO"
+  },
+  {
+    "pii_type": "TIME",
+    "text": "40.00 hours",
+    "start": 66,
+    "end": 77,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 6,
+    "confidence": 0.4
+  },
+  {
+    "pii_type": "DATE",
+    "text": "4.00 days",
+    "start": 135,
+    "end": 144,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 12,
+    "header": "A",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "DATE",
+    "text": "last\nyear",
+    "start": 163,
+    "end": 172,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 12,
+    "header": "A",
+    "confidence": 1.0
+  }
+]

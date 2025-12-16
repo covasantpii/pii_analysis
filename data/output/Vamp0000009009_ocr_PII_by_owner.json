@@ -1,0 +1,48 @@
+{
+  "(Fields marked with a are required.)": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "First Name:*\nPrimary"
+      }
+    ]
+  },
+  "Month": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "SSN"
+      }
+    ]
+  },
+  "SSN": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "1:*\nDay"
+    ],
+    "other": []
+  },
+  "Select State": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [
+      "United States\nCancel\nContinue"
+    ],
+    "emails": [],
+    "dates": [],
+    "other": []
+  }
+}

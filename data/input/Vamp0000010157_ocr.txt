@@ -1,0 +1,63 @@
+< BACK
+Step 2: Enter Request Details
+You have entered an invalid amount on Fri Sep 11, 2020.
+You have entered an invalid amount on Mon Sep 14, 2020.
+You have entered an invalid amount on Tue Sep 15, 2020.
+You have entered an invalid amount on Wed Sep 16, 2020.
+You have entered an invalid amount on Thu Sep 17, 2020.
+You have entered an invalid amount on Fri Sep 18, 2020.
+COLLAPSE ROWS
+DATE
+TIME OFF POLICY*
+AMOUNT*
+START TIME*
+Fri Sep 11, 2020
+PTO - PTO
+8.00
+day
+8:00 AM
+Mon Sep 14, 2020
+PTO - PTO
+Tue Sep 15, 2020
+PTO - PTO
+Wed Sep 16, 2020
+PTO - PTO
+>
+>
+8.00
+day
+8:00 AM
+8.00
+day
+8:00 AM
+8.00
+day
+8:00 AM
+Thu Sep 17, 2020
+PTO - PTO
+8.00
+day
+8:00 AM
+Fri Sep 18, 2020
+PTO - PTO
+8.00
+day
+8:00 AM
+TOTAL: Includes 6 days
+Comments:
+48.00 days
+Please respond by
+๑
+ACTIONS
+๑
+๑
+๑
+SUBMIT
+E
+☐
+品
+自
+☐
+☐
+E
+E

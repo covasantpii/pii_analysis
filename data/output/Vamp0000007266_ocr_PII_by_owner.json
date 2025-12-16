@@ -1,0 +1,164 @@
+{
+  "CREDIT CARD TRANSACTION": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "PERSON",
+        "text": "Joe"
+      },
+      {
+        "type": "ORG",
+        "text": "Seafood"
+      }
+    ]
+  },
+  "3020/Sarah FM": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "PERSON",
+        "text": "Sarah"
+      }
+    ]
+  },
+  "Sarah": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "3709"
+    ],
+    "other": []
+  },
+  "Tran. 2994": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "PERSON",
+        "text": "Tran"
+      }
+    ]
+  },
+  "Tran": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "2994"
+    ],
+    "other": [
+      {
+        "type": "AUTH_CODE",
+        "text": "2455533"
+      },
+      {
+        "type": "AUTH_CODE",
+        "text": "229356"
+      }
+    ]
+  },
+  "Pre-Auth Purchase": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "3800202"
+    ],
+    "other": [
+      {
+        "type": "CARD_LAST4",
+        "text": "xxxxxxxxxxxx6707"
+      }
+    ]
+  },
+  "CHASE": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "09/17/2019"
+    ],
+    "other": [
+      {
+        "type": "TIME",
+        "text": "7:42:23 PM"
+      }
+    ]
+  },
+  "App Nane": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "CHASE"
+      }
+    ]
+  },
+  "TVR": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "TVR"
+      },
+      {
+        "type": "AUTH_CODE",
+        "text": "0000003000"
+      }
+    ]
+  },
+  "Cardholder Signature": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "AUTH_CODE",
+        "text": "000000116828"
+      },
+      {
+        "type": "CURRENCY",
+        "text": "$\n136"
+      }
+    ]
+  },
+  "Amourt": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "CURRENCY",
+        "text": "$115.24"
+      }
+    ]
+  }
+}

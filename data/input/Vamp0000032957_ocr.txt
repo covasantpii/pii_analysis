@@ -1,0 +1,122 @@
+Totals by Procedure Code
+06-Oct-2022
+ClaimLinx™
+Johnstone Supply - The Wallace Group
+2609 Dearborn Street
+Easton, PA 18064
+Treatment
+Specialist
+Code
+Service Description
+105 medical
+10
+12
+14
+16
+Office Visit
+Preventive Services
+17
+21
+27
+Urgent Care Visits
+Test/Xray/Lab in Office
+Speech Therapy
+OP Phys/Occ Therapy
+# of
+Procedures
+Total Claim
+Amount
+Total Payment
+Amount
+185154 12 21
+$3,424.00
+$929.04
+$3,245.00
+$160.41
+$708.00
+$25.00
+$2,068.60
+$992.63
+$512.00
+$2,489.00
+$0.00
+$275.57
+$5,738.63
+$1,306.73
+30
+OP Hospital / Alt Care Facility
+7
+$42,343.94
+$9,457.56
+31
+Allergy Serum Mixing
+1
+$180.00
+$104.10
+31B
+Injections (Allergy)
+3
+$66.00
+$0.00
+32
+Testing/Xray/Lab Service Alt Facility
+30
+$17,607.00
+$4,746.91
+32A
+OP Diagnostic CT/PetScan/MRI
+1
+$1,579.00
+$842.15
+33
+DME Supplies Appl
+2
+$1,187.20
+$824.00
+36
+OP Nervous/MH_SA
+3
+$568.00
+$0.00
+40
+Emergency Room
+3
+$4,390.05
+$10.25
+70
+IP Medical Surgery / Other
+3
+$2,252.00
+$140.82
+8
+Maternity/Prof. Serv.
+13
+$13,286.00
+$1,427.94
+9
+Maternity/Facility Serv.
+2
+$42,021.05
+$7,671.47
+D2
+Denied by primary carrier
+3
+$636.00
+$0.00
+D3
+Primary carrier filing required
+32
+$30,487.86
+$0.00
+169
+$174,789.33
+$28,914.58
+No Coverage
+3
+$230.00
+$0.00
+$230.00
+$0.00
+172
+$175,019.33
+$28,914.58

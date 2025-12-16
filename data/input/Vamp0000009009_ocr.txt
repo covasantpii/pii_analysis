@@ -1,0 +1,35 @@
+PAYCHEX FLEXM
+SM New
+1
+Personal Information
+3
+Security Information
+Account Information
+Security Level
+Sign-Up: Personal Information
+Welcome to the PAYCHEX® FLEX system. To register your account, complete the information below.
+(Fields marked with a are required.)
+First Name:*
+Primary Email:*
+Date of Birth:*
+Month
+SSN:*
+###-##-####
+Address Line 1:*
+Day
+Year
+MI:
+Last Name:*
+Re-enter SSN:*
+###-##-####
+Verify Email:*
+Address Line 2:
+I
+City:*
+State:
+Zip:*
+Country:*
+Select State
+United States
+Cancel
+Continue

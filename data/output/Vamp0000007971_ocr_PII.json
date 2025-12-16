@@ -1,0 +1,79 @@
+[
+  {
+    "pii_type": "ORG",
+    "text": "Chamber of Commerce\nBACKGROUND & REFERENCE CHECKING",
+    "start": 47,
+    "end": 99,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 5,
+    "header": "Chamber of Commerce",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "ORG",
+    "text": "RBA Staffing",
+    "start": 200,
+    "end": 212,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 8,
+    "header": "EMPLOYEE RELEASE OF CLAIMS",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "ORG",
+    "text": "RBA",
+    "start": 214,
+    "end": 217,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 8,
+    "header": "EMPLOYEE RELEASE OF CLAIMS",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "PERSON",
+    "text": "Johnstone Supply",
+    "start": 236,
+    "end": 252,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 9,
+    "header": "EMPLOYEE RELEASE OF CLAIMS",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "ORG",
+    "text": "Release",
+    "start": 853,
+    "end": 860,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 14,
+    "confidence": 0.7
+  },
+  {
+    "pii_type": "ORG",
+    "text": "Social Security",
+    "start": 1293,
+    "end": 1308,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 24,
+    "header": "Social Security Number",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "SSN",
+    "text": "116-82-6184",
+    "start": 1281,
+    "end": 1292,
+    "source": "regex",
+    "chunk": 0,
+    "line_idx": 23,
+    "header": "Applicant Signature",
+    "confidence": 1.0,
+    "owner": "Social Security"
+  }
+]

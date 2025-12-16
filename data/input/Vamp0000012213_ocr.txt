@@ -1,0 +1,135 @@
+McKibbin, Helen A
+Emp #: 12
+Branch: 01
+MANUAL CHECK (11/3/2022) Gross Wage: 0.00
+2300 Sheriff Drive
+Easton, PA 18040
+XXX-XX-7772
+Per Pay Salary:
+Status:
+3264.23
+Terminated
+Hire Date: 4/14/2008
+Federal: Single
+Birth Date: 5/22/XXXX
+State PA:
+Exempts: 0
+Exempts:
+Addl Tax:
+Addl Tax:
+Res State:
+PA
+Work State: PA
+Department: Finan (AB)
+Paid Gross: 0.00
+Earnings
+ER Medical*
+Rate
+Hrs/Units
+Dollars YTD Hrs/Units
+0.00
+0.00
+0.00
+Regular
+401K Match*
+PTO
+Holiday
+0.00
+0.00
+712.00
+Net Pay: 718.13
+YTD Dollars Deductions
+2,172.50 Medical Pre Tax
+29,051.66 Dental Pre Tax
+Direct Deposit: - None -
+Check Amount: 718.13
+Check #:
+Current
+YTD Taxes
+Wage
+Tax
+YTD Wage
+0.00
+0.00
+0.00
+0.00
+0.00
+1,619.82 401K
+-718.13
+241.40 SOC SEC EE
+133.10 MED EE
+4,681.18 FEDERAL WH
+0.00
+0.00
+53,618.88
+0.00
+0.00
+53,618.88
+1000
+YTD Tax
+3,324.37
+777.47
+718.13
+0.00
+48,937.70
+7,626.10
+0.00
+0.00
+176.00
+7,181.30
+PA WH
+0.00
+0.00
+53,618.88
+1,646.08
+0.00
+0.00
+8.00
+326.42
+PA SUI EE
+0.00
+0.00
+53,993.38
+32.40
+Bonus
+PTO Not Used
+Basic AD&D*
+0.00
+0.00
+0.00
+14,332.98
+PALMER TWP (EASTON
+0.00
+0.00
+53,618.88
+536.14
+ASD)
+0.00
+0.00
+76.00
+3,101.02
+PALMER TWP LST
+0.00
+0.00
+53,618.88
+20.00
+(EASTON ASD)
+0.00
+0.00
+0.00
+Totals:
+0.00
+0.00
+972.00
+6.90
+53,993.38
+Totals:
+-718.13
+5,055.68
+Totals:
+0.00
+13,962.56
+Branch.01
+Facton
+Department Total (Finan (ARI
+Finance VARI

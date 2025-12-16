@@ -1,0 +1,464 @@
+{
+  "Page Layout Formulas Data": [
+    {
+      "pii_type": "PERSON",
+      "text": "Formulas Data",
+      "start": 80,
+      "end": 93,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 5,
+      "header": "Page Layout Formulas Data",
+      "confidence": 1.0
+    }
+  ],
+  "Shows on Recv": [
+    {
+      "pii_type": "PERSON",
+      "text": "Recv",
+      "start": 198,
+      "end": 202,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 26,
+      "header": "Shows on Recv",
+      "confidence": 1.0
+    }
+  ],
+  "NO_HEADER": [
+    {
+      "pii_type": "PERSON",
+      "text": "Sharon",
+      "start": 270,
+      "end": 276,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 38,
+      "confidence": 0.7
+    },
+    {
+      "pii_type": "PERSON",
+      "text": "Stevenson",
+      "start": 1044,
+      "end": 1053,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 126,
+      "confidence": 0.7
+    },
+    {
+      "pii_type": "ORG",
+      "text": "ny.com",
+      "start": 1533,
+      "end": 1539,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 181,
+      "confidence": 0.7
+    },
+    {
+      "pii_type": "GPE",
+      "text": "Delete",
+      "start": 2624,
+      "end": 2630,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 320,
+      "confidence": 0.4
+    }
+  ],
+  "141 NY": [
+    {
+      "pii_type": "GPE",
+      "text": "NY",
+      "start": 352,
+      "end": 354,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 47,
+      "header": "141 NY",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "DATE",
+      "text": "2017",
+      "start": 684,
+      "end": 688,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 87,
+      "header": "141 NY",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "EMAIL",
+      "text": "michael.fedunyszyn@johnstonehvac-ny.com",
+      "start": 689,
+      "end": 728,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 87,
+      "header": "141 NY",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "EMAIL",
+      "text": "mark.robinson@johnstonehvac-ny.com",
+      "start": 2403,
+      "end": 2437,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 298,
+      "header": "141 NY",
+      "confidence": 1.0
+    }
+  ],
+  "updates as": [
+    {
+      "pii_type": "ORG",
+      "text": "Delete\n/Add/Change",
+      "start": 463,
+      "end": 481,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 62,
+      "header": "updates as",
+      "confidence": 1.0
+    }
+  ],
+  "Delete\n/Add/Change": [
+    {
+      "pii_type": "DATE",
+      "text": "2006",
+      "start": 484,
+      "end": 488,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 65,
+      "header": "Y",
+      "confidence": 1.0,
+      "owner": "Delete\n/Add/Change"
+    },
+    {
+      "pii_type": "EMAIL",
+      "text": "sharon.clarcq@johnstonehvac-ny.com",
+      "start": 489,
+      "end": 523,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 65,
+      "header": "Y",
+      "confidence": 1.0,
+      "owner": "Delete\n/Add/Change"
+    }
+  ],
+  "Y": [
+    {
+      "pii_type": "DATE",
+      "text": "2008",
+      "start": 538,
+      "end": 542,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 70,
+      "header": "Y",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "DATE",
+      "text": "2019",
+      "start": 820,
+      "end": 824,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 100,
+      "header": "Y",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "DATE",
+      "text": "2009",
+      "start": 2257,
+      "end": 2261,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 275,
+      "header": "Y",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "EMAIL",
+      "text": "edward.dillman@johnstonehvac-ny.com",
+      "start": 543,
+      "end": 578,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 70,
+      "header": "Y",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "EMAIL",
+      "text": "pete.frank@johnstonehvac-ny.com",
+      "start": 734,
+      "end": 765,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 88,
+      "header": "Y",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "EMAIL",
+      "text": "jennifer.freeman@johnstonesupply.com",
+      "start": 825,
+      "end": 861,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 100,
+      "header": "Y",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "EMAIL",
+      "text": "cat.goldstone@johnstonehvac-ny.com",
+      "start": 921,
+      "end": 955,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 111,
+      "header": "Y",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "EMAIL",
+      "text": "ken.livingston@johnstonehvac-ny.com",
+      "start": 1182,
+      "end": 1217,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 142,
+      "header": "Y",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "EMAIL",
+      "text": "peter.wilson@johnstonehvac-ny.com",
+      "start": 2223,
+      "end": 2256,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 274,
+      "header": "Y",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "EMAIL",
+      "text": "torey.adams@johnstonehvac-ny.com",
+      "start": 2262,
+      "end": 2294,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 275,
+      "header": "Y",
+      "confidence": 1.0
+    }
+  ],
+  "Stevenson": [
+    {
+      "pii_type": "DATE",
+      "text": "2013",
+      "start": 1085,
+      "end": 1089,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 131,
+      "header": "Y",
+      "confidence": 1.0,
+      "owner": "Stevenson"
+    },
+    {
+      "pii_type": "EMAIL",
+      "text": "brad.howe@johnstonesupply.com",
+      "start": 1004,
+      "end": 1033,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 121,
+      "header": "Y",
+      "confidence": 1.0,
+      "owner": "Stevenson"
+    },
+    {
+      "pii_type": "EMAIL",
+      "text": "stevenson.johnson@johnstonehvac-ny.com",
+      "start": 1090,
+      "end": 1128,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 131,
+      "header": "Y",
+      "confidence": 1.0,
+      "owner": "Stevenson"
+    }
+  ],
+  ":k Office": [
+    {
+      "pii_type": "ORG",
+      "text": "k Office",
+      "start": 1354,
+      "end": 1362,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 161,
+      "header": ":k Office",
+      "confidence": 1.0
+    }
+  ],
+  "Darrell": [
+    {
+      "pii_type": "ORG",
+      "text": "Darrell\nSterling\nSales",
+      "start": 1547,
+      "end": 1569,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 184,
+      "header": "Darrell",
+      "confidence": 1.0
+    }
+  ],
+  "Darrell\nSterling\nSales": [
+    {
+      "pii_type": "DATE",
+      "text": "2004",
+      "start": 1587,
+      "end": 1591,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 189,
+      "header": "2004 da sterling hnstc",
+      "confidence": 1.0,
+      "owner": "Darrell\nSterling\nSales"
+    }
+  ],
+  "2014 lan": [
+    {
+      "pii_type": "DATE",
+      "text": "2014",
+      "start": 1647,
+      "end": 1651,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 196,
+      "header": "2014 lan",
+      "confidence": 1.0
+    }
+  ],
+  "2018 ad": [
+    {
+      "pii_type": "DATE",
+      "text": "2018",
+      "start": 1722,
+      "end": 1726,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 205,
+      "header": "2018 ad",
+      "confidence": 1.0
+    }
+  ],
+  "269 1.": [
+    {
+      "pii_type": "DATE",
+      "text": "269 1",
+      "start": 1786,
+      "end": 1791,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 213,
+      "header": "269 1.",
+      "confidence": 1.0
+    }
+  ],
+  "-ny.com": [
+    {
+      "pii_type": "DATE",
+      "text": "2005",
+      "start": 1917,
+      "end": 1921,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 239,
+      "header": "-ny.com",
+      "confidence": 1.0
+    }
+  ],
+  "Administrative Back Office (in": [
+    {
+      "pii_type": "ORG",
+      "text": "Administrative Back Office",
+      "start": 2520,
+      "end": 2546,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 309,
+      "header": "Administrative Back Office (in",
+      "confidence": 1.0
+    }
+  ],
+  "k Office": [
+    {
+      "pii_type": "EMAIL",
+      "text": "vera.plotkin@johnstonehvac-ny.com",
+      "start": 1284,
+      "end": 1317,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 156,
+      "header": "141 NY",
+      "confidence": 1.0,
+      "owner": "k Office"
+    }
+  ],
+  "851 NY": [
+    {
+      "pii_type": "EMAIL",
+      "text": "bob.spanfelner@johnstonehvac-ny.com",
+      "start": 2182,
+      "end": 2217,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 273,
+      "header": "851 NY",
+      "confidence": 1.0
+    }
+  ],
+  "Yes": [
+    {
+      "pii_type": "EMAIL",
+      "text": "david.harmer@johnstonehvac-ny.com",
+      "start": 2443,
+      "end": 2476,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 299,
+      "header": "Yes",
+      "confidence": 1.0
+    }
+  ],
+  "Administrative Back Office": [
+    {
+      "pii_type": "EMAIL",
+      "text": "karen.craft@johnstonehvac-ny.com",
+      "start": 2565,
+      "end": 2597,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 312,
+      "header": "Yes",
+      "confidence": 1.0,
+      "owner": "Administrative Back Office"
+    }
+  ]
+}

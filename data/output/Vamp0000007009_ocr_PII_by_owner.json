@@ -1,0 +1,111 @@
+{
+  "Chamber of Commerce": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "First Name, MI"
+      }
+    ]
+  },
+  "Name) Corey D Graham": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "PERSON",
+        "text": "Corey D Graham"
+      }
+    ]
+  },
+  "Corey D Graham": {
+    "phones": [],
+    "ssn": [
+      "091-80-1484"
+    ],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "last 7 years",
+      "04/06/1992"
+    ],
+    "other": []
+  },
+  "Social Security Number": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "Social Security"
+      }
+    ]
+  },
+  "04/06/1992": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "Applicant's Date of Birth"
+      },
+      {
+        "type": "ORG",
+        "text": "Driver License Number and State of Issue"
+      }
+    ]
+  },
+  "Driver License Number and State of Issue": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "the last seven",
+      "7) years",
+      "10/10/2019"
+    ],
+    "other": []
+  },
+  "Plantation Blvd": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [
+      "Rd",
+      "Liverpool",
+      "13030",
+      "13040"
+    ],
+    "emails": [],
+    "dates": [
+      "9420"
+    ],
+    "other": []
+  },
+  "Bridgeport": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "Plantation Blvd"
+      }
+    ]
+  }
+}

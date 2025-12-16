@@ -1,0 +1,105 @@
+{
+  "NYS Sexual Harassment Prevention": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "HR Services"
+      },
+      {
+        "type": "ORG",
+        "text": "NYS"
+      }
+    ]
+  },
+  "WHEN": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "Monday, August 5th @ 11:30 AM EST",
+      "Wednesday, August 7th @"
+    ],
+    "other": [
+      {
+        "type": "TIME",
+        "text": "1:00 PM EST"
+      },
+      {
+        "type": "TIME",
+        "text": "11:30 AM"
+      },
+      {
+        "type": "TIME",
+        "text": "1:00 PM"
+      }
+    ]
+  },
+  "ATTACHMENTS": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "Thursday",
+      "August 22nd @",
+      "Thursday, August 29th @ 2:00 PM EST"
+    ],
+    "other": [
+      {
+        "type": "TIME",
+        "text": "2:00 PM"
+      }
+    ]
+  },
+  "SESSIONS": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "the Paychex Learning Center"
+      }
+    ]
+  },
+  "Company Access": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [
+      "Select"
+    ],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "FAC",
+        "text": "Paychex Flex"
+      },
+      {
+        "type": "TIME",
+        "text": "24/48 hours"
+      }
+    ]
+  },
+  "To setup access and start assigning training follow the below steps": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "Company Access"
+      }
+    ]
+  }
+}

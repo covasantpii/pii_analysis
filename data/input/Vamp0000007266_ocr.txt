@@ -1,0 +1,44 @@
+Joe's Seafood
+CREDIT CARD TRANSACTION
+TABLE#
+SERVER
+CHECK#
+0
+3020/Sarah FM
+3709
+****** TRANSACTION RECORD ***
+Tran. 2994
+Table : 0
+Check: 3709
+Employee : 3:20
+MID: 2455533
+Trace 229356
+Pre-Auth Purchase
+TID: 3800202
+Visa
+xxxxxxxxxxxx6707
+APPROVED
+Chip Read
+Amourt
+USD $115.24
+Tip $
+TOTAL $
+136
+I agree to pay the above total
+amount according to the card
+issuer agreement
+Cardholder Signature
+RRN: 000000116828 C
+Auth. :06706D
+Mode: Issuer
+2/LEYE1301CCC2
+00 (001)
+09/17/2019
+7:42:23 PM
+AID: A0000000031010
+App Nane: CHASE VISA
+TVR: 0000003000
+IAD: 06021203602002
+TSI: E800
+ARC: 00
+Customer Copy

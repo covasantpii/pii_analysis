@@ -1,0 +1,26 @@
+< BACK
+PAGES
+HOME
+THEME
+Select Page
+Managing Page Configuration
+You can perform the following tasks after clicking the Page icon:
+• Upload a File for Page Content
+• Add Images to Content
+• Edit Images in Content
+• Delete Uploaded Images
+• Add Content in an Alternate Language
+• Hide or Display an ADP Rotating Banner
+• Add Instructional Text
+• Add a Link to an URL or a File
+• Edit a Page Link in Content
+• Add a Page Link to Content
+• Add a Link to an Image
+• Add Text to Content
+Additional Information
+• Managing Page Configuration
+• About Configuration
+• About Pages
+⚫ About Links
+GIVE US FEEDBACK ON THIS HELP TOPIC ✓
+PRINT

@@ -1,0 +1,68 @@
+{
+  "Bonus and Commission Payment Sche": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "2018"
+    ],
+    "other": []
+  },
+  "2018 Bonus and Commission Payment Sche...": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "Bonus and Commission Payment Sche"
+      }
+    ]
+  },
+  "2018 Qualified Default Investment Alternati...": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "Qualified Default Investment Alternati"
+      }
+    ]
+  },
+  "Add a message (optional)": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "2018-UME-2700-Limit"
+    ],
+    "other": []
+  },
+  "2019 Benefit Presentation.pptx": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "2019"
+    ],
+    "other": []
+  },
+  "Robert Spatola": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "February 7"
+    ],
+    "other": []
+  }
+}

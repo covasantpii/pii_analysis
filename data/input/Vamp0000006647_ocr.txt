@@ -1,0 +1,42 @@
+REPRINT
+CUSTOMER COPY
+Welcome To Pixley's Restaurant
+2235 Buffalo Road
+Rochester, NY 14624
+585 247-1690
+Date: 10/24/2019 01:55 PM
+Check #: 00164
+Station: Hostess
+Server: Christine(5)
+Reprint Date: 10/24/2019 01:55 PM
+Reprint Station: Hostess
+Reprint Server: Lisa (10)
+Card Number: XXXXXXXXXXXXXX3507 (Visa)
+Account Name: Frank Peter D
+Authorization: 315205
+Trans Type: Swipe
+1 Marn Meat Loaf Sand
+7.99
+1 French Dip
+8.99
+2 Soup Du Jour Cup
+5.98
+1 Grecian W/ Chicken
+11.98
+2 Sodas
+3.98
+1 Coffee Regular
+1.99
+Sub Total
+40.91
+Tax
+3.27
+TOTAL
+44.18
+CHARGE
+TIP
+TOTAL
+44.18
+8.00
+52.18.
+Ticket ID: 191024132100800164

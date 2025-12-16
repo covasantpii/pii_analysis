@@ -1,0 +1,7 @@
+{
+  "ocr_text": "Course Enrollment Totals\nReport Type:\nReport Criteria Type\nDate Range:\nSummary\nDetail Logs\nReport Types\nEnrollment Completion\nStart Date (mm/dd/yyyy)\n06/16/2018\nShow All Dates\nEnd Date\n(mm/dd/yyyy)\n07/16/2018\nEnd Date is inclusive\nUser:\nAll Enrolled Users\nAll Users (including inactive)\nCertain Groups:\nCategories:\nSelect Course:\nSchedule Report\nSelect All\nCertain Categories:\nSelect All\nCertain Courses:\nDisplay in browser ▼\nRun Summary Report",
+   "page_texts": {
+    "0": "Course Enrollment Totals\nReport Type:\nReport Criteria Type\nDate Range:\nSummary\nDetail Logs\nReport Types\nEnrollment Completion\nStart Date (mm/dd/yyyy)\n06/16/2018\nShow All Dates\nEnd Date\n(mm/dd/yyyy)\n07/16/2018\nEnd Date is inclusive\nUser:\nAll Enrolled Users\nAll Users (including inactive)\nCertain Groups:\nCategories:\nSelect Course:\nSchedule Report\nSelect All\nCertain Categories:\nSelect All\nCertain Courses:\nDisplay in browser ▼\nRun Summary Report"
+ },
+  "method": "vision_api"
+}

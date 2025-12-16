@@ -1,0 +1,101 @@
+{
+  "BRIDGEPORT": [
+    {
+      "pii_type": "DATE",
+      "text": "9420",
+      "start": 57,
+      "end": 61,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 3,
+      "header": "9420 WOODS RD.",
+      "confidence": 1.0,
+      "owner": "BRIDGEPORT"
+    },
+    {
+      "pii_type": "DATE",
+      "text": "1365",
+      "start": 134,
+      "end": 138,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 9,
+      "header": "DATE",
+      "confidence": 1.0,
+      "owner": "BRIDGEPORT"
+    },
+    {
+      "pii_type": "SSN",
+      "text": "13030-9605",
+      "start": 87,
+      "end": 97,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 4,
+      "header": "BRIDGEPORT, NY 13030-9605",
+      "confidence": 1.0,
+      "owner": "BRIDGEPORT"
+    },
+    {
+      "pii_type": "PHONE",
+      "text": "315-516-6867",
+      "start": 44,
+      "end": 56,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 2,
+      "header": "PH. 315-516-6867",
+      "confidence": 1.0,
+      "owner": "BRIDGEPORT"
+    },
+    {
+      "pii_type": "ZIPCODE",
+      "text": "13030",
+      "start": 87,
+      "end": 92,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 4,
+      "header": "BRIDGEPORT, NY 13030-9605",
+      "confidence": 1.0,
+      "owner": "BRIDGEPORT"
+    }
+  ],
+  "BRIDGEPORT, NY 13030-9605": [
+    {
+      "pii_type": "PERSON",
+      "text": "BRIDGEPORT",
+      "start": 72,
+      "end": 82,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 4,
+      "header": "BRIDGEPORT, NY 13030-9605",
+      "confidence": 1.0
+    }
+  ],
+  "MP": [
+    {
+      "pii_type": "SSN",
+      "text": "021303618",
+      "start": 231,
+      "end": 240,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 20,
+      "header": "MP",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "PHONE",
+      "text": "7005584285",
+      "start": 243,
+      "end": 253,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 20,
+      "header": "MP",
+      "confidence": 1.0
+    }
+  ]
+}

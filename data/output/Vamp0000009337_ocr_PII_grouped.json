@@ -1,0 +1,93 @@
+{
+  "Bonus and Commission Payment Sche": [
+    {
+      "pii_type": "DATE",
+      "text": "2018",
+      "start": 0,
+      "end": 4,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 0,
+      "header": "2018 Bonus and Commission Payment Sche...",
+      "confidence": 1.0,
+      "owner": "Bonus and Commission Payment Sche"
+    }
+  ],
+  "2018 Bonus and Commission Payment Sche...": [
+    {
+      "pii_type": "ORG",
+      "text": "Bonus and Commission Payment Sche",
+      "start": 5,
+      "end": 38,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 0,
+      "header": "2018 Bonus and Commission Payment Sche...",
+      "confidence": 1.0
+    }
+  ],
+  "2018 Qualified Default Investment Alternati...": [
+    {
+      "pii_type": "ORG",
+      "text": "Qualified Default Investment Alternati",
+      "start": 73,
+      "end": 111,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 2,
+      "header": "2018 Qualified Default Investment Alternati...",
+      "confidence": 1.0
+    }
+  ],
+  "Add a message (optional)": [
+    {
+      "pii_type": "DATE",
+      "text": "2018-UME-2700-Limit",
+      "start": 309,
+      "end": 328,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 11,
+      "header": "Add a message (optional)",
+      "confidence": 1.0
+    }
+  ],
+  "2019 Benefit Presentation.pptx": [
+    {
+      "pii_type": "DATE",
+      "text": "2019",
+      "start": 355,
+      "end": 359,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 12,
+      "header": "2019 Benefit Presentation.pptx",
+      "confidence": 1.0
+    }
+  ],
+  "Robert Spatola": [
+    {
+      "pii_type": "DATE",
+      "text": "February 7",
+      "start": 507,
+      "end": 517,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 18,
+      "confidence": 0.7,
+      "owner": "Robert Spatola"
+    }
+  ],
+  "NO_HEADER": [
+    {
+      "pii_type": "PERSON",
+      "text": "Robert Spatola",
+      "start": 518,
+      "end": 532,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 19,
+      "confidence": 0.7
+    }
+  ]
+}

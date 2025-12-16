@@ -1,0 +1,45 @@
+< Tax Records
+Search Records
+Please check Amendment Filings
+FILTERS
+RECORD TYPE
+TAXID
+COMPANY JURISDICTION
+TAX TYPE
+YEAR QUARTER
+Jurisdiction
+Federal
+YEAR QUARTER
+2020-01 • 2020-02 2020-030
+A DOWNLOAD 6 Files Selected Clear
+REMOVE ALL
+Record Type 11
+Tax ID 1
+Company Name 11
+Jurisdiction 11
+Так Туре 11
+Filling Period 11
+941R-Quarterly Federal Tax R...
+Federal
+Federal Income Tax
+2020 03
+941R-Quarterly Federal Tax R...
+Federal
+Federal Income Tax
+2020 01
+941R-Quarterly Federal Tax R...
+Federal
+Federal Income Tax
+2020 02
+941R-Quarterly Federal Tax R...
+Federal
+Federal Income Tax
+2020 02 A
+941R-Quarterly Federal Tax R...
+Federal
+Federal Income Tax
+2020 01
+941R-Quarterly Federal Tax R...
+Federal
+Federal Income Tax
+202003

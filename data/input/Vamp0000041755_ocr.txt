@@ -1,0 +1,98 @@
+Pay-To Vendor:
+01229
+Invoice Number:
+212880014091
+Previous Vendor
+Invoice
+Notes
+Attachment
+CAPITAL BLUE CROSS
+00528932000
+PO BOX 371482
+DITTEDLINCUL DA 150
+Invoice Type:
+Invoice
+<>▸
+Same address
+Remit-To:
+01229
+Status:
+Active
+10/15/2021
+Current 'AP' Accounting Period:
+1121
+Branch:
+|123
+QJohnstone Supply #123
+This Invoice 'AP' Accounting Period:
+1021
+P/O or Reference #:
+A&B HEALTHCARE PREMIUM 11.01.21 THRU 11.30.21
+Override G/L Suffix
+Recalculate
+Liability G/L:
+20000100
+QACCOUNTS PAYABLE-VENDORS
+G/L Distribution
+Terms:
+02
+QNET 10 DAYS PROX
+Description
+Entry Log
+Checks
+Invoice Date:
+G/L Account
+Amount
+| 52000100
+Message On Check:
+212880014091 ID 005289320002
+52000200
+52000300
+EMPLOYEE BENEFITS - BRANCH
+EMPLOYEE BENEFITS - BRANCH
+EMPLOYEE BENEFITS - BRANCH
+$2,728.14
+$4,205.75
+$3,366.55
+Gross Amount:
+Freight Amount:
+$ 21,820.88 Discount Amount:
+$
+0.00
+| 52000600
+EMPLOYEE BENEFITS - BRANCH
+$1,000.18
+$
+Discount Date:
+10/25/2021
+52010100
+EMPLOYEE BENEFITS STORE SUPPOR...
+$4,625.78
+52020100
+EMPLOYEE BENEFITS - FINANCE
+$452.57
+Tax Amount:
+$
+Due Date:
+10/25/2021
+.
+52030100
+EMPLOYEE BENEFITS - EXECUTIVE
+$2,329.90
+Other Amount Label:
+Linked Receipts:
+52050600
+52260200
+Merchandise Amount:
+$21,820.88
+Balance Due:
+$0.00
+52260300
+EMPLOYEE BENEFITS - STORE SUPPOR...
+EMPLOYEE BENEFITS - OUTSIDE SALES
+EMPLOYEE BENEFITS - OUTSIDE SALES
+$452.57
+$1,329.72
+$1,329.72
+Total:
+$21,820.88

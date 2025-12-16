@@ -1,0 +1,68 @@
+Pay-To Vendor:
+02299
+ALLIED PERSONNEL SERVICES
+P.O. BOX 4009
+Remit-To:
+Same address
+02299
+Invoice Number:
+326403
+Q BETHLEHEM, PA 18018
+Previous Vendor
+Invoice Type:
+Invoice
+Status:
+Active
+Invoice
+Notes
+Attachment
+Entry Log
+Checks
+Invoice Date:
+11/03/2021
+Current 'AP' Accounting Period:
+1121
+Branch:
+123
+QJohnstone Supply #123
+This Invoice 'AP' Accounting Period:
+1121
+P/O or Reference #:
+WEEK ENDING 10.31.21
+Override G/L Suffix
+Recalculate
+Liability G/L:
+20000100
+Terms:
+08
+QACCOUNTS PAYABLE-VENDORS
+QNET 30 DAYS
+G/L Account
+60100100
+G/L Distribution
+Description
+SALARIES-STORE SUPPORT OFFICE
+Amount
+$856.02
+Message On Check:
+Gross Amount:
+$
+856.02 Discount Amount:
+$
+0.00
+Freight Amount:
+$
+Discount Date:
+11/05/2021
+Tax Amount:
+S
+Due Date:
+11/05/2021
+Other Amount Label:
+Linked Receipts:
+Merchandise Amount:
+$856.02
+Balance Due:
+$0.00
+Total:
+$856.02

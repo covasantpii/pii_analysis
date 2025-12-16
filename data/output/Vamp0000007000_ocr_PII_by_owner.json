@@ -1,0 +1,44 @@
+{
+  "BRIDGEPORT": {
+    "phones": [
+      "315-516-6867"
+    ],
+    "ssn": [
+      "13030-9605"
+    ],
+    "addresses": [
+      "13030"
+    ],
+    "emails": [],
+    "dates": [
+      "9420",
+      "1365"
+    ],
+    "other": []
+  },
+  "BRIDGEPORT, NY 13030-9605": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "PERSON",
+        "text": "BRIDGEPORT"
+      }
+    ]
+  },
+  "MP": {
+    "phones": [
+      "7005584285"
+    ],
+    "ssn": [
+      "021303618"
+    ],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": []
+  }
+}

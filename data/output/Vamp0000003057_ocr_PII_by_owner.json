@@ -1,0 +1,244 @@
+{
+  "MU - Johnstone Supply": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "MU - Johnstone Supply\nProspective Rate Summary\nRates"
+      }
+    ]
+  },
+  "Highmark Blue Shield": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "January 1, 2023 through December 31, 2023",
+      "January 1, 2023",
+      "December 31, 2023"
+    ],
+    "other": []
+  },
+  "Prospective Rate Summary": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "Highmark Blue Shield"
+      }
+    ]
+  },
+  "OV Copay": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "90 days"
+    ],
+    "other": [
+      {
+        "type": "CURRENCY",
+        "text": "$8,000"
+      },
+      {
+        "type": "CURRENCY",
+        "text": "$16,000"
+      },
+      {
+        "type": "CURRENCY",
+        "text": "$30"
+      },
+      {
+        "type": "CURRENCY",
+        "text": "$50"
+      },
+      {
+        "type": "CURRENCY",
+        "text": "$200"
+      }
+    ]
+  },
+  "Contract Type": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "OV Copay"
+      },
+      {
+        "type": "PERSON",
+        "text": "4/$15/$45/$70/20%"
+      },
+      {
+        "type": "ORG",
+        "text": "Comprehensive\nContract Type\nIndividual\nMedical"
+      }
+    ]
+  },
+  "Comprehensive\nContract Type\nIndividual\nMedical": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "CURRENCY",
+        "text": "$0"
+      },
+      {
+        "type": "CURRENCY",
+        "text": "$4"
+      },
+      {
+        "type": "CURRENCY",
+        "text": "$15"
+      },
+      {
+        "type": "CURRENCY",
+        "text": "$45"
+      },
+      {
+        "type": "CURRENCY",
+        "text": "$70"
+      },
+      {
+        "type": "CURRENCY",
+        "text": "$8"
+      },
+      {
+        "type": "CURRENCY",
+        "text": "$90"
+      },
+      {
+        "type": "CURRENCY",
+        "text": "$140"
+      },
+      {
+        "type": "CURRENCY",
+        "text": "$271.38"
+      }
+    ]
+  },
+  "Rx": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "CURRENCY",
+        "text": "$81.73"
+      }
+    ]
+  },
+  "Total": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "CURRENCY",
+        "text": "$ 353.11"
+      }
+    ]
+  },
+  "Parent/child": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "CURRENCY",
+        "text": "$569.90"
+      },
+      {
+        "type": "CURRENCY",
+        "text": "$171.63"
+      }
+    ]
+  },
+  "Parent/children": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "CURRENCY",
+        "text": "$ 741.53"
+      }
+    ]
+  },
+  "Two Party": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "CURRENCY",
+        "text": "$610.61"
+      },
+      {
+        "type": "CURRENCY",
+        "text": "$183.88"
+      }
+    ]
+  },
+  "Family": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "CURRENCY",
+        "text": "$ 794.49"
+      },
+      {
+        "type": "CURRENCY",
+        "text": "$787.01"
+      },
+      {
+        "type": "CURRENCY",
+        "text": "$237.01"
+      }
+    ]
+  },
+  "Accepted by": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "CURRENCY",
+        "text": "$1,024.02"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+Select statements:
+CURRENT
+YTD
+COMPARE
+1st Pay Date
+Jan 21, 2022
+2nd Pay Date
+Jan 7, 2022
+Gross
+$2,953.85
+$1,800.00
+Taxes
+Retirement
+-$242.26
+-$345.42
+-$2,711.59
+-$1,454.58
+Px401Eepre
+-$2,711.59
+Adp Roth Flat$$
+-$1,454.58
+Take Home
+$0.00
+$0.00
+EXPAND ALL

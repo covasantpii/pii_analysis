@@ -1,0 +1,74 @@
+{
+  "Date": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "10/24/2019"
+    ],
+    "other": [
+      {
+        "type": "TIME",
+        "text": "01:55 PM"
+      }
+    ]
+  },
+  "Reprint Server": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "PERSON",
+        "text": "Lisa"
+      }
+    ]
+  },
+  "1 Grecian W/ Chicken": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "NORP",
+        "text": "Grecian"
+      }
+    ]
+  },
+  "Rochester, NY": {
+    "phones": [
+      "585 247-1690"
+    ],
+    "ssn": [],
+    "addresses": [
+      "14624"
+    ],
+    "emails": [],
+    "dates": [],
+    "other": []
+  },
+  "Lisa": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [
+      "00164"
+    ],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "CARD_LAST4",
+        "text": "XXXXXXXXXXXXXX3507"
+      },
+      {
+        "type": "AUTH_CODE",
+        "text": "315205"
+      }
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+[
+  {
+    "pii_type": "ORG",
+    "text": "Complete New Employee Login Worksheet\nUse JEN",
+    "start": 0,
+    "end": 45,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 0,
+    "header": "Complete New Employee Login Worksheet",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "PERSON",
+    "text": "Email John Van Den Bush",
+    "start": 130,
+    "end": 153,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 4,
+    "header": "12.10 to update port",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "PERSON",
+    "text": "Email Capstone",
+    "start": 171,
+    "end": 185,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 5,
+    "header": "Email Paychex with new employee information",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "PERSON",
+    "text": "Email Paychex",
+    "start": 217,
+    "end": 230,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 6,
+    "header": "Email Paychex with new employee information",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "DATE",
+    "text": "60 days",
+    "start": 579,
+    "end": 586,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 14,
+    "header": "Email Ken with the following information",
+    "confidence": 1.0,
+    "owner": "Email Ken"
+  },
+  {
+    "pii_type": "PERSON",
+    "text": "Email Ken",
+    "start": 603,
+    "end": 612,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 15,
+    "header": "Email Ken with the following information",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "ORG",
+    "text": "DOB",
+    "start": 673,
+    "end": 676,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 16,
+    "header": "Email Ken with the following information",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "ORG",
+    "text": "DOH",
+    "start": 681,
+    "end": 684,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 16,
+    "header": "Email Ken with the following information",
+    "confidence": 1.0
+  }
+]

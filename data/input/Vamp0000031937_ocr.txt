@@ -1,0 +1,79 @@
+JOHNSTONE
+SUPPLY
+The Wallace Group
+2609 Dearborn Street
+Easton, PA 18045
+610-258-5651
+JohnstoneSupply.com
+SOLD TO:
+JOHN BETLEM HTG, CLNG AND ELEC
+806 LINDEN AVE
+ROCHESTER NY 14625-2720
+INVOICE Page 1 of 1
+Total Due: 306.19
+Pay by: 09/28/2022
+Please remit Johnstone Supply
+payments to: P.O. Box 9003
+Quakertown PA 18951-9003
+Main Office:
+Easton
+2609 Dearbor Street Easton, PA 18045. 610-258-5651
+Branch Locations:
+Reading
+2300 N 5th Street Hwy - Ready, PA 19605-610-373-3665
+Harrisburg 2221 Sycamore Street Harrisburg, PA 17111-717-233-7593
+Lancaster 340 W Roseville Rd Lancaster, PA 17603-717-286-0301
+Rosedale 9100 Yellow Brick Rd Suites A-C1 Rosedale, MD 21237 410-391-5495
+Arbutus
+1660 Sulphur Spring Rd Arbutus, MD 21227-410-568-7390
+Alexandria 6584 Fleet Drive Fleet Industrial Park Alexandria, VA 22310-703-719-7770
+Manassas 8680 Virginia Meadows Drive Manassas, VA 20109-703-530-8990
+Gaithersburg 9172 Gaither Road Gaithersburg, MD 20877-301-321-3500
+SHIP TO:
+JOHN BETLEM HTG, CLNG AND ELEC
+806 LINDEN AVENUE
+ROCHESTER NY 14625
+Customer #
+R004730
+Order Date Sales Order #
+08/29/2022
+B008185
+Buyer
+PAUL FLYE
+Customer P/O #
+132016934-001
+Ship Via
+Tr R11T/017
+Salesman
+R011
+Invoice #
+B008185
+Invoice Date Ship Date Freight Terms
+08/29/2022 08/29/2022 PREPAID
+Job Number
+Terms
+NET 30 DAYS
+LN
+QNTY QNTY QNTY
+ORD SHIP B/O
+PRODUCT NUMBER DESCRIPTION
+LIST PRICE
+NET PRICE
+EXTENSION
+0 JBCONDPUMP
+JOHN BETLEM CONDENSATE PUMP KIT
+159.54
+59.94
+$59.94
+23
+0 JBTRANSITION
+0 B75-255
+JOHN BETLEM TRANSITION KIT
+143.83
+58.52
+$58.52
+61220350 LINE SET STANDARD 3/8IN 3/4IN 1/2IN
+35FT STRAIGHT END
+605.00
+165.05
+$165.05

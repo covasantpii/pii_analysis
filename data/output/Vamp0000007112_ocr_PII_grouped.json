@@ -1,0 +1,238 @@
+{
+  "400 Jay Scutti Boule": [
+    {
+      "pii_type": "ORG",
+      "text": "BJ",
+      "start": 0,
+      "end": 2,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 0,
+      "header": "400 Jay Scutti Boule",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "PERSON",
+      "text": "WHOLESALE CLUB",
+      "start": 5,
+      "end": 19,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 0,
+      "header": "400 Jay Scutti Boule",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "PERSON",
+      "text": "Jay Scutti Boule",
+      "start": 24,
+      "end": 40,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 1,
+      "header": "400 Jay Scutti Boule",
+      "confidence": 1.0
+    }
+  ],
+  "Jay Scutti Boule": [
+    {
+      "pii_type": "DATE",
+      "text": "5/13/2019",
+      "start": 78,
+      "end": 87,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 6,
+      "confidence": 0.4,
+      "owner": "Jay Scutti Boule"
+    }
+  ],
+  "PUMP": [
+    {
+      "pii_type": "DATE",
+      "text": "1785950",
+      "start": 109,
+      "end": 116,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 10,
+      "header": "Tran#",
+      "confidence": 1.0,
+      "owner": "PUMP"
+    },
+    {
+      "pii_type": "ORG",
+      "text": "PUMP",
+      "start": 117,
+      "end": 121,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 11,
+      "header": "PUMP",
+      "confidence": 1.0
+    }
+  ],
+  "QTY/GAL": [
+    {
+      "pii_type": "ORG",
+      "text": "QTY/GAL",
+      "start": 162,
+      "end": 169,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 17,
+      "header": "QTY/GAL",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "CURRENCY",
+      "text": "$2.73",
+      "start": 155,
+      "end": 160,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 16,
+      "header": "PRICE/GAL",
+      "confidence": 1.0,
+      "owner": "QTY/GAL"
+    }
+  ],
+  "Appr": [
+    {
+      "pii_type": "PERSON",
+      "text": "Appr",
+      "start": 212,
+      "end": 216,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 22,
+      "header": "Appr",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "SSN",
+      "text": "091169243",
+      "start": 202,
+      "end": 211,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 21,
+      "header": "Term",
+      "confidence": 1.0,
+      "owner": "Appr"
+    },
+    {
+      "pii_type": "DATE",
+      "text": "05/13/2019",
+      "start": 247,
+      "end": 257,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 25,
+      "header": "05/13/2019 08",
+      "confidence": 1.0,
+      "owner": "Appr"
+    },
+    {
+      "pii_type": "CARD_LAST4",
+      "text": "XXXXXXXXXXXX6707",
+      "start": 230,
+      "end": 246,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 24,
+      "confidence": 0.4,
+      "owner": "Appr"
+    },
+    {
+      "pii_type": "AUTH_CODE",
+      "text": "072450",
+      "start": 218,
+      "end": 224,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 22,
+      "header": "Appr",
+      "confidence": 1.0,
+      "owner": "Appr"
+    },
+    {
+      "pii_type": "CURRENCY",
+      "text": "$51.26",
+      "start": 189,
+      "end": 195,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 20,
+      "header": "FUEL TOTAL",
+      "confidence": 1.0,
+      "owner": "Appr"
+    }
+  ],
+  "according to Card": [
+    {
+      "pii_type": "ORG",
+      "text": "Card\nIssuer Agreement",
+      "start": 318,
+      "end": 339,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 28,
+      "header": "according to Card",
+      "confidence": 1.0
+    }
+  ],
+  "Card\nIssuer Agreement": [
+    {
+      "pii_type": "DATE",
+      "text": "16841851934",
+      "start": 352,
+      "end": 363,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 31,
+      "header": "Exp",
+      "confidence": 1.0,
+      "owner": "Card\nIssuer Agreement"
+    }
+  ],
+  "Refer a friend or": [
+    {
+      "pii_type": "PERSON",
+      "text": "Refer",
+      "start": 464,
+      "end": 469,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 38,
+      "header": "Refer a friend or",
+      "confidence": 1.0
+    }
+  ],
+  "Refer": [
+    {
+      "pii_type": "DATE",
+      "text": "today",
+      "start": 488,
+      "end": 493,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 39,
+      "header": "apply today at",
+      "confidence": 1.0,
+      "owner": "Refer"
+    },
+    {
+      "pii_type": "SSN",
+      "text": "203664466",
+      "start": 393,
+      "end": 402,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 34,
+      "header": "Reference",
+      "confidence": 1.0,
+      "owner": "Refer"
+    }
+  ]
+}

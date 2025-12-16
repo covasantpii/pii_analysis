@@ -1,0 +1,62 @@
+{
+  "Brooke Steinc": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [
+      "Lindsay Beach"
+    ],
+    "emails": [],
+    "dates": [],
+    "other": []
+  },
+  "Time and Labor Management Specialist": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "Labor Management Specialist\nDistrice"
+      }
+    ]
+  },
+  "1(866) 940-2311 ext 1142733": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "940-2311 ext 1142733"
+    ],
+    "other": [
+      {
+        "type": "AUTH_CODE",
+        "text": "1142733"
+      }
+    ]
+  },
+  "Labor Management Specialist\nDistrice": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [
+      "luke.anziano@adp.com",
+      "lizbeth.betty.wright@adp.com",
+      "brooke.steinc@adp.com"
+    ],
+    "dates": [],
+    "other": []
+  },
+  "Phone Number": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [
+      "lindsay.beach@adp.com"
+    ],
+    "dates": [],
+    "other": []
+  }
+}

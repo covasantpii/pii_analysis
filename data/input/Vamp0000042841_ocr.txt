@@ -1,0 +1,71 @@
+Statement of Earnings For:
+Employee #: 52
+Clock Number:
+Jaime R Rotz
+Branch
+Department
+03
+Period Begin: 5/2/2022
+Ch
+BM (AB)
+Period End:
+5/15/2022
+Pa
+Company Id:
+IP301
+Federal Filing:
+Married
+Exemptions:
+0
+Ad
+State Filing:
+Exemptions:
+Ad
+Voucher Id
+Check Amount
+Gross Pay
+Net Pay
+V1375800
+$0.00
+$6,153.85
+$3,858.43
+EARNINGS
+Description
+*Not included in Totals
+Rate Hrs/Units
+^Hrs/Units = Units (Units not included in Totals)
+Dollars YTD Hrs/Unit
+YTD Dollars De
+Regular
+76.9231 80.00
+6,153.85
+760.00
+29,839.44 SO
+*ER Medical
+353.81
+0.00
+3,538.10 ME
+*401k Match
+184.62
+0.00
+2,839.65 FEL
+*Basic AD&D
+0.69
+0.00
+6.90 PA
+PTO
+0.00
+32.00
+1,114.62 SW
+Holiday
+0.00
+8.00
+278.65 PA
+Comm
+0.00
+0.00
+39,783.78 SW
+Bonus
+0.00
+0.00
+23,637.44

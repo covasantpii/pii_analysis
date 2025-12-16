@@ -1,0 +1,31 @@
+Program
+Vision 12/10
+PPO 8000/0/30 Rx 0
+00528932
+Effective 12/01/2022 through 11/30/20231
+Medical and Pharmacy Benefit Period plan year
+Dental benefits, if quoted, are administered on a Calendar year basis
+Vision benefits, if quoted, are administered based on last date of service
+Monthly Rate Quote Number: Q-00146659
+ID
+Subscriber
+Subscriber &
+Child
+SIC: 5074
+Subscriber &
+Children
+Subscriber &
+Spouse
+Family
+BCVN0714
+$4.24
+$11.83
+$11.83
+$11.83
+$11.83
+PPONJ881/RXRNJ881
+$899.92
+$1,889.87
+$1,889.87
+$1,988.85
+$2,620.62

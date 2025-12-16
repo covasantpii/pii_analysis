@@ -1,0 +1,44 @@
+COVID-19 Vaccination Record Card
+Please keep this record card, which includes medical information
+about the vaccines you have received.
+Por favor, guarde esta tarjeta de registro, que incluye información
+médica sobre las vacunas que ha recibido.
+Last Name
+FRANK
+08/09/74
+Date of birth
+Vaccine
+1st Dose
+COVID-19
+2nd Dose
+COVID-19
+Other
+Other
+Product Name/Manufacturer
+Lot Number
+204 A21A
+Pete
+First Name
+OF HEALTH
+101
+HUMAN
+NW.
+SERVICES USA
+CD C
+CENTERS FOR DISEASE
+AND PREVENTION
+MI
+Patient number (medical record or IIS record number)
+Healthcare Professional
+Date
+or Clinic Site
+CVS
+05/13/21
+mm dd
+yy
+mm dd
+yy
+mm dd
+yy
+mm dd
+yy

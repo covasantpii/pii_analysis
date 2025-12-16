@@ -1,0 +1,74 @@
+File Accounting Sales Purchasing Inventory Warehouse CRM Johnstone Analytics Utilities Windows Help
+Dashboard Vendor 02153 "APPRO RX"
+A/P Invoice - 401734
+APPRO RX
+Pay-To Vendor:
+02153
+Invoice Number:
+401734
+415 SOUTH MAIN STREET
+QWAYNESVILLE, OH 45068
+Previous Vendor
+Invoice
+Notes
+Attachment
+Entry Log
+Checks
+Same address
+Remit-To:
+02153
+Invoice Type:
+Invoice
+Status:
+Active
+Invoice Date:
+10/31/2021
+Current 'AP' Accounting Period:
+1221
+Branch:
+123
+QJohnstone Supply #123
+P/O or Reference #:
+Administration Charges for Period 10/16/21 - 10/31/21
+This Invoice 'AP' Accounting Period:
+Override G/L Suffix ✓
+|1121
+Recalculate
+Liability G/L:
+20000100
+QACCOUNTS PAYABLE-VENDORS
+G/L Distribution
+Terms:
+02
+QNET 10 DAYS PROX
+Message On Check:
+G/L Account
+|51000100
+|51000400
+Description
+Amount
+Health Program Consulting
+$150.24
+Health Program Consulting
+$150.24
+Gross Amount:
+$
+300.48 Discount Amount:
+0.00
+Freight Amount:
+$
+Discount Date:
+11/05/2021
+Tax Amount:
+$
+Due Date:
+11/05/2021
+Other Amount Label:
+$
+Linked Receipts:
+Merchandise Amount:
+$300.48
+Balance Due:
+$0.00
+Total:
+$300.48

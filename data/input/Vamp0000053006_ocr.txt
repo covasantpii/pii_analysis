@@ -1,0 +1,103 @@
+27 28 29 30 31 1 2
+34
+OHINESTONE
+Ramit Address
+JOHNSTONE
+SUPPLY
+77 Halstead Street, Suite 3
+Rochester, NY 14610 1955
+585-441-0339
+585-482-2789 Fax
+Rochester
+95 Halstead Street
+Rochester, NY 14610-1955
+585-482-8000
+585-482-6000 Fax
+Syracuse
+836 Canal Street
+Syracuse, NY 13210-1161
+315- 479-8800
+315-479-8600 Fax
+AR141 JohnstoneSupply.com Store1418JohnstoneSupply.com Store269 JohnstoneSupply.com
+Sold To
+ISAAC HEATING & AC
+50 HOLLEDER PKY
+ROCHESTER NY 14615-3804
+UNITED STATES
+MARKO
+Page
+1/1
+Ship To
+ISAAC HEATING & AC-RESIDENTIAL
+50 HOLLEDER PKY
+ROCHESTER NY 14615-3804
+UNITED STATES
+Customer
+Order Date
+Sales Order W
+0004464
+12/19/2020 1098878
+Invoice #
+1098878
+Invoice Date
+Ship Date
+12/19/2020 12/19/20 PREPAID
+Buyer
+EVAN KEEFER
+Freight Terms
+Customer P/O #
+424398
+Ship Via
+WILL CALL
+Salesman
+101
+Job Number
+Terms
+NET 30 DAYS
+LN ONTY QNTY ONTY PRODUCT
+ORD
+SHIP B/O
+NUMBER
+1
+1
+1
+$89-811
+DESCRIPTION
+***** Invoice Message
+Quote Number Q119318
+UOM NET
+PRICE
+EXTENSION
+0131M00002S D/I MOTOR
+EA
+70.3833
+$70.38
+Signature Proof of Delivery:
+даг чекс
+Gar
+12/19/20 16:04
+Archive Copy
+NYS Contract #: PC67222
+Group: 39000 Ind & Comm Splys & Eqpt
+NYS Vendor ID: 1000008135
+Terms & Conditions
+Merchandise Returns may be subject to a restock
+charge.
+No return for electrical items, special orders.
+installed parts, or parts older than 90 days.
+Pay By 01/18/2021
+Writer: MDB
+Merchandise
+Freight
+70.38
+0.00
+Store Opening Fee
+85.00
+Sub Total
+155.38
+Taxable
+70.38
+5.63
+$161.01
+Tax (2611)
+TOTAL

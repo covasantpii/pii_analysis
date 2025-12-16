@@ -1,0 +1,133 @@
+workforcenow.adp.com/theme/index.html#/MyTeam_ttd_MyTeamTabTimeAttendanceCategoryTLMWebIndividualTimeCard/MyTeamTabTimeAttendanceCategoryTLMWebIndividual..
+ADP
+HOME
+RESOURCES
+MYSELF
+MY TEAM
+Individual Timecard ›
+CG
+Graham, Corey D
+CSSA - Counter Sales & Svc Assoc
+Home Department: 000200 - Sales 269
+Current Pay Period
+2/1/2020
+2/14/2020
+REPORTS
+MESSAGES
+GS
+GEORGE SHIELDS
+CALENDAR
+SUPPORT
+LOG OUT
+Search Workforce Now
+Tax ID (SSN)
+XXX-XX-XXXX
+Position ID
+H1J000826
+Hire Date
+10/15/2019
+Status
+Active
+Employee Search
+<STATUS IS ACTIVE> Q
+FIND
+Show Pay Class
+DASHBOARD
+Tataly
+Schedule
+Time Off Balances
+Add Note
+Print Timecard
+Reprocess Timecard
+IN - OUT
+PAY CODE
+HOURS
+DEPARTMENT
+DAILY TOTALS
+✰ REGULAR
+OVERTIME
+0.00
+000200
+0.00
+0.00
+0.00
+0.00
+000200
+0.00
+0.00
+0.00
+Mon 02/03
+07:31 AM
+05:05 PM
+8.57 000200
+8.57
+8.57
+0.00
+Tue
+02/04
+07:30 AM
+05:00 PM
+8.50 000200
+8.50
+8.50
+0.00
+Wed
+02/05
+07:30 AM
+05:00 PM
+8.50
+000200
+8.50
+8.50
+0.00
+Thu
+02/06
+07:30 AM
+05:00 PM
+Fri 02/07
+07:33 AM
+05:00 PM
+8.50 000200
+8.45 000200
+8.50
+8.50
+0.00
+8.45
+5.93
+2.52
+WEEK 1 TOTALS
+42.52
+40.00
+2.52
+WEEK 2
+IN - OUT
+Sat
+02/08
+08:00 AM
+Sun
+02/09
+Pay Period (42.52)
+Week 1 (42.52)
+Week 2 (0.00)
+- SAVE
+REFRESH
+PAY CODE
+HOURS
+DEPARTMENT
+DAILY TOTALS
+REGULAR
+OVERTIME
+0.00 000200
+0.00
+0.00
+0.00
+0.00
+000200
+0.00
+0.00
+0.00
+Add to Favorites
+1 of 4 >
+€
+PREFERENCES ✓
+Legend

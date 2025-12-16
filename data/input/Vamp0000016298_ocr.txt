@@ -1,0 +1,31 @@
+PAGES
+HOME
+THEME
+Select Page
+Company Spotlight
+To add a new content Item, click +. To open the content editor for existing content, click a content ID.
+content displays on a page, select a content Item. Click the drag and drop handle and move the conte
+Language
+English (US) 6
+Page Title*
+Default Title
+Company Spotlight
+5
+Company Spotlight
+* ADD
+DELETE ADD FEDERATED LINK
+3
+ITEM
+CONTENT
+HIDE
+ASSIGN PRO...
+Company Spotlight 2
+Spotlight TEST rts
+Assign Profiles
+8
+Assign Profiles
+Emall test
+7
+Assign Profiles
+TEST
+Assign Profiles

@@ -1,0 +1,28 @@
+Email - offer letter (w/start date, PTO days per handbook, benefit info), application, MVR
+Driver Release Form. Request driver's license and ssn card and notify candidate they'll be
+receiving an email from CIA with a link to complete E-consent form. E-consent triggers
+Background, ssn and drug screen test.
+Application Received
+Offer Letter Received
+MVR Form Received
+License and SSN card Received
+CIA Portal Econsents>Send Econsents Notices. Enter information & send email.
+SSN Verification received and save. SSN is valid and Death Not Reported
+Criminal Background Verification received and save. No records and no additional reports
+or areas being checked
+Drug screen directions are emailed to candidate, cc: me. Follow up with candidate to
+perform drug screen (text, email, call)
+Email MVR Form to USI Insurance Services (Terri, cc: Luke, Marie, John Fulkerson)
+Emal Regional Mgr. if EE isn't cleared to drive and cannot be added to driver list. Ask USI
+for date of incident, length of violation, type of violation. Do we still want to hire?
+Emal EE, Branch & Regional Mgr. when EE is hired that EE cannot drive company vehicle
+or perform compnay business using own vehicle, when Hartford cannot add to driver list.
+We require occasional screens until record is clean. EE must complete a release form
+each time.
+Driver - Request DOT Medical Card. If candidate doesn't have one, send DOT
+Examination Information after I receive Drug screen results. Now part of Onboarding.
+Drug screen results received and save. Negative result move forward.
+Email Mgr, Reg Mgr summary of pre-screen results and ask for start date
+SEND FORMS AFTER ASSESSMENT TEST, DRUG TEST AND BACKGROUND TESTS ARE COMPLETED
+Initiate Onboarding in Isolved/Pending Employee once you know the start date.
+Follow up with Onboarding text or email

@@ -1,0 +1,64 @@
+A
+B
+C
+D
+E
+F
+Legal
+PayGroup
+CheckType
+Key
+#Name
+E_Bonus_Dollars
+IP120
+Bi-Weekly
+No Ded exp 401k 130
+Allen,
+James Sidney Jr
+IP120
+Bi-Weekly
+IP120
+Bi-Weekly
+No Ded exp 401k
+No Ded exp 401k
+136
+Bailey, Jason L
+128
+Bergen, Daniel L
+IP120
+Bi-Weekly
+No Ded exp 401k
+IP120
+Bi-Weekly
+IP120
+Bi-Weekly
+No Ded exp 401k
+No Ded exp 401k
+27
+54
+Brech, Matthew S
+Carpenter Jr, Russell L
+123
+Castro, Eloy U
+IP120
+Bi-Weekly
+No Ded exp 401k 120
+Cheeks, Antione L
+G
+H
+E_Comm_Dollars
+D_EELoan
+792.51
+0.00
+896.00
+0.00
+394.24
+0.00
+796.64
+0.00
+1182.66
+0.00
+630.80
+0.00
+417.31
+0.00

@@ -1,0 +1,325 @@
+=D^4BV
+141-Rochester_9-2019.xlsx - Saved to my Mac
+Home
+Insert
+Draw
+Page Layout Formulas Data
+Review View
+Developer
+A
+B
+D
+E
+F
+G
+H
+Q Search Sheet
+Share
+Comments
+J
+K
+L
+M
+N
+Recv
+Recv
+Shows on
+Shows on Recv
+Please mark
+Master
+DAILY
+1
+Store Nbr
+First
+Last
+Title
+Store#
+2
+141
+Sharon
+3
+141
+Edward
+Clarcq
+Dillman
+Administrative Back Office
+Warehouse
+State
+141 NY
+Month
+Year
+E-mail address
+RECAP
+OWNER
+email
+Store
+Recv GEN
+Roster
+email
+Owner
+Roster
+CONF
+email
+updates as: Delete
+/Add/Change
+5
+2006 sharon.clarcq@johnstonehvac-ny.com
+Y
+Y
+141 NY
+12
+2008 edward.dillman@johnstonehvac-ny.com
+Y
+Y
+4
+141
+Michael
+Fedunyszyn
+Administrative Back Office
+141 NY
+4
+5
+141
+Pete
+Frank
+Outside Sales
+141 NY
+2
+2017 michael.fedunyszyn@johnstonehvac-ny.com
+2016 pete.frank@johnstonehvac-ny.com
+Y
+Y
+Y
+Y
+6
+141
+Jennifer
+Freeman
+Counter Sales
+141 NY
+3
+2019 jennifer.freeman@johnstonesupply.com
+Y
+Y
+Delete
+7
+141
+Cat
+Goldstone
+Counter Sales
+141 NY
+2
+2016 cat.goldstone@johnstonehvac-ny.com
+Y
+Y
+8
+141
+Brad
+Howe
+Counter Sales
+141 NY
+1
+2019 brad.howe@johnstonesupply.com
+Y
+Y
+9
+141
+Stevenson
+Johnson
+Counter Sales
+141 NY
+7
+2013 stevenson.johnson@johnstonehvac-ny.com
+Y
+Y
+Delete
+10
+141
+Ken
+Livingston
+Owner
+141 NY
+1
+1992 ken.livingston@johnstonehvac-ny.com
+Y
+Y
+Y
+Y
+Y
+11
+141
+Vera
+Plotkin
+Administrative
+Office
+141 NY
+8
+2015 vera.plotkin@johnstonehvac-ny.com
+12
+141 Kim
+Schlafer
+Administrative
+:k Office
+141 NY
+8
+2019 vim.schlafermiohnstonehvac-nv.com
+13
+141
+Stephen
+Short
+Branch Manage
+141 M
+2
+hnstor
+14
+141
+Rob
+Spatola
+Administrative Bac..
+141...
+1
+2013 rot atola@jo tone
+ny.com
+15
+141
+Darrell
+Sterling
+Sales Manager
+141 NY
+2
+2004 da sterling hnstc
+16
+141 Lamont
+Valion
+Warehouse
+141
+7
+2014 lan
+t.valion@ nstor
+ac-ny.com
+17
+141 Adam
+Cooter
+Counter Sales
+269
+11
+2018 ad
+cooter@jiston
+nly.com
+18
+141
+David
+Harris
+Outside Sales
+269 1.
+9
+2007 da arris@jo toneh
+ily.co
+vac-ny.com
+le
+Y
+Y
+Change
+Y
+Y
+Y
+Y
+Y
+Delete
+Y
+Y
+Y
+Y
+19
+141
+Joe
+Lapiana
+Counter Sales
+269 NY
+3
+2005 joe.lapiana@johnstoneh
+-ny.com
+Y
+Y
+20
+141
+George
+Shields
+Branch Manager
+269 NY
+2
+2013 george.shields@johnsto
+vac-ny.com
+Y
+Y
+Y
+21
+141 Robert
+Spanfelner
+Outside Sales
+269 NY
+2
+22
+141 Peter
+Wilson
+Warehouse
+269 NY
+4
+23
+141 Torey
+Adams
+Counter Sales
+851 NY
+5
+2002 bob.spanfelner@johnstonehvac-ny.com
+2014 peter.wilson@johnstonehvac-ny.com
+2009 torey.adams@johnstonehvac-ny.com
+Y
+Y
+> >
+Y
+Y
+Y
+Y
+Y
+Y
+24
+141 Mark
+Robinson
+Counter Sales
+141 NY
+4
+25
+141
+David
+Harmer
+Warehouse
+141 NY
+6
+2019 mark.robinson@johnstonehvac-ny.com
+2019 david.harmer@johnstonehvac-ny.com
+Yes
+Yes
+Add
+Yes
+Yes
+Add
+26
+141 Karen
+Craft
+Administrative Back Office (in
+141 NY
+8
+2019 karen.craft@johnstonehvac-ny.com
+Yes
+Yes
+Yes
+Add
+27
+Add
+28
+Delete
+29
+30
+Change
+31

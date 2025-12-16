@@ -1,0 +1,47 @@
+Tax Withholdings
+Federal >
+Marital Status
+Single
+Additional Tax
+Exemptions
+Tax Blocks
+None
+To Date Accumulators >
+As of 1/10/2020
+5
+State >
+STATE
+TYPE
+SUI/SDI
+New York
+• Worked In
+NY-19-New York (T
+Time Off >
+DESCRIPTION
+TO-DATE
+TIME OFF POLICY
+Floating Holida...
+21-Ytd Gross
+2.371.25
+PTO
+22-Ytd Total Hours
+88.00
+23-"
+1,185.63
+24"
+1,185.63
+> ALLOWED AND TAKEN
+Local >
+LOCALITY
+TYPE
+There are currently no entries.
+BALANCE
+8.00 hours
+0.00 days
+Other Pay Settings
+-MAPPED & CUSTOMBAT PRIOR TAX & TAXABLES
+CLOCK & DATA CONTROL PENSION
+STATUS FLAGS
+CUSTOM AREAS
+CHECK CONTROLS
+SPECIAL ACCOUNTS

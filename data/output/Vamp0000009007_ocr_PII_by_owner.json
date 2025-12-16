@@ -1,0 +1,39 @@
+{
+  "6. Post to Monster": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "PERSON",
+        "text": "Kevin French"
+      }
+    ]
+  },
+  "Kevin French": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [
+      "Rochester",
+      "Syracuse"
+    ],
+    "emails": [],
+    "dates": [
+      "1 week",
+      "3 weeks",
+      "10 day"
+    ],
+    "other": [
+      {
+        "type": "CURRENCY",
+        "text": "$395"
+      },
+      {
+        "type": "CURRENCY",
+        "text": "$419"
+      }
+    ]
+  }
+}

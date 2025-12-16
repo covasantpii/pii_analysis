@@ -1,0 +1,19 @@
+{
+  "Remove Users from Group": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "PERSON",
+        "text": "Remove Users"
+      },
+      {
+        "type": "ORG",
+        "text": "SharePoint"
+      }
+    ]
+  }
+}

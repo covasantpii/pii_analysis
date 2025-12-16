@@ -1,0 +1,102 @@
+{
+  "Jan 21, 2022": [
+    {
+      "pii_type": "DATE",
+      "text": "2022",
+      "start": 60,
+      "end": 64,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 5,
+      "header": "Jan 21, 2022",
+      "confidence": 1.0
+    }
+  ],
+  "Gross": [
+    {
+      "pii_type": "CURRENCY",
+      "text": "$2,953.85",
+      "start": 96,
+      "end": 105,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 9,
+      "header": "Gross",
+      "confidence": 1.0
+    }
+  ],
+  "Taxes": [
+    {
+      "pii_type": "CURRENCY",
+      "text": "$1,800.00",
+      "start": 106,
+      "end": 115,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 10,
+      "header": "Taxes",
+      "confidence": 1.0
+    }
+  ],
+  "Retirement": [
+    {
+      "pii_type": "CURRENCY",
+      "text": "$242.26",
+      "start": 134,
+      "end": 141,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 13,
+      "header": "Retirement",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "CURRENCY",
+      "text": "$345.42",
+      "start": 143,
+      "end": 150,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 14,
+      "header": "Retirement",
+      "confidence": 1.0
+    }
+  ],
+  "Px401Eepre": [
+    {
+      "pii_type": "CURRENCY",
+      "text": "$2,711.59",
+      "start": 152,
+      "end": 161,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 15,
+      "header": "Px401Eepre",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "CURRENCY",
+      "text": "$1,454.58",
+      "start": 163,
+      "end": 172,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 16,
+      "header": "Px401Eepre",
+      "confidence": 1.0
+    }
+  ],
+  "Take Home": [
+    {
+      "pii_type": "CURRENCY",
+      "text": "$0.00",
+      "start": 232,
+      "end": 237,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 22,
+      "header": "Take Home",
+      "confidence": 1.0
+    }
+  ]
+}

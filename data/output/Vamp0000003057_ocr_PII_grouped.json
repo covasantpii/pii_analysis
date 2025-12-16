@@ -1,0 +1,417 @@
+{
+  "MU - Johnstone Supply": [
+    {
+      "pii_type": "ORG",
+      "text": "MU - Johnstone Supply\nProspective Rate Summary\nRates",
+      "start": 0,
+      "end": 52,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 0,
+      "header": "MU - Johnstone Supply",
+      "confidence": 1.0
+    }
+  ],
+  "Highmark Blue Shield": [
+    {
+      "pii_type": "DATE",
+      "text": "January 1, 2023 through December 31, 2023",
+      "start": 63,
+      "end": 104,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 2,
+      "header": "Prospective Rate Summary",
+      "confidence": 1.0,
+      "owner": "Highmark Blue Shield"
+    },
+    {
+      "pii_type": "DATE",
+      "text": "January 1, 2023",
+      "start": 63,
+      "end": 78,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 2,
+      "header": "Prospective Rate Summary",
+      "confidence": 1.0,
+      "owner": "Highmark Blue Shield"
+    },
+    {
+      "pii_type": "DATE",
+      "text": "December 31, 2023",
+      "start": 87,
+      "end": 104,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 2,
+      "header": "Prospective Rate Summary",
+      "confidence": 1.0,
+      "owner": "Highmark Blue Shield"
+    }
+  ],
+  "Prospective Rate Summary": [
+    {
+      "pii_type": "ORG",
+      "text": "Highmark Blue Shield",
+      "start": 167,
+      "end": 187,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 3,
+      "header": "Prospective Rate Summary",
+      "confidence": 1.0
+    }
+  ],
+  "OV Copay": [
+    {
+      "pii_type": "DATE",
+      "text": "90 days",
+      "start": 586,
+      "end": 593,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 7,
+      "confidence": 0.4,
+      "owner": "OV Copay"
+    },
+    {
+      "pii_type": "CURRENCY",
+      "text": "$8,000",
+      "start": 664,
+      "end": 670,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 8,
+      "confidence": 0.7,
+      "owner": "OV Copay"
+    },
+    {
+      "pii_type": "CURRENCY",
+      "text": "$16,000",
+      "start": 671,
+      "end": 678,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 8,
+      "confidence": 0.7,
+      "owner": "OV Copay"
+    },
+    {
+      "pii_type": "CURRENCY",
+      "text": "$30",
+      "start": 699,
+      "end": 702,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 9,
+      "header": "Contract Type",
+      "confidence": 1.0,
+      "owner": "OV Copay"
+    },
+    {
+      "pii_type": "CURRENCY",
+      "text": "$50",
+      "start": 703,
+      "end": 706,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 9,
+      "header": "Contract Type",
+      "confidence": 1.0,
+      "owner": "OV Copay"
+    },
+    {
+      "pii_type": "CURRENCY",
+      "text": "$200",
+      "start": 717,
+      "end": 721,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 9,
+      "header": "Contract Type",
+      "confidence": 1.0,
+      "owner": "OV Copay"
+    }
+  ],
+  "Contract Type": [
+    {
+      "pii_type": "ORG",
+      "text": "OV Copay",
+      "start": 707,
+      "end": 715,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 9,
+      "header": "Contract Type",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "PERSON",
+      "text": "4/$15/$45/$70/20%",
+      "start": 741,
+      "end": 758,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 10,
+      "header": "Contract Type",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "ORG",
+      "text": "Comprehensive\nContract Type\nIndividual\nMedical",
+      "start": 787,
+      "end": 833,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 10,
+      "header": "Contract Type",
+      "confidence": 1.0
+    }
+  ],
+  "Comprehensive\nContract Type\nIndividual\nMedical": [
+    {
+      "pii_type": "CURRENCY",
+      "text": "$0",
+      "start": 736,
+      "end": 738,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 10,
+      "header": "Contract Type",
+      "confidence": 1.0,
+      "owner": "Comprehensive\nContract Type\nIndividual\nMedical"
+    },
+    {
+      "pii_type": "CURRENCY",
+      "text": "$4",
+      "start": 740,
+      "end": 742,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 10,
+      "header": "Contract Type",
+      "confidence": 1.0,
+      "owner": "Comprehensive\nContract Type\nIndividual\nMedical"
+    },
+    {
+      "pii_type": "CURRENCY",
+      "text": "$15",
+      "start": 743,
+      "end": 746,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 10,
+      "header": "Contract Type",
+      "confidence": 1.0,
+      "owner": "Comprehensive\nContract Type\nIndividual\nMedical"
+    },
+    {
+      "pii_type": "CURRENCY",
+      "text": "$45",
+      "start": 747,
+      "end": 750,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 10,
+      "header": "Contract Type",
+      "confidence": 1.0,
+      "owner": "Comprehensive\nContract Type\nIndividual\nMedical"
+    },
+    {
+      "pii_type": "CURRENCY",
+      "text": "$70",
+      "start": 751,
+      "end": 754,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 10,
+      "header": "Contract Type",
+      "confidence": 1.0,
+      "owner": "Comprehensive\nContract Type\nIndividual\nMedical"
+    },
+    {
+      "pii_type": "CURRENCY",
+      "text": "$8",
+      "start": 767,
+      "end": 769,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 10,
+      "header": "Contract Type",
+      "confidence": 1.0,
+      "owner": "Comprehensive\nContract Type\nIndividual\nMedical"
+    },
+    {
+      "pii_type": "CURRENCY",
+      "text": "$90",
+      "start": 774,
+      "end": 777,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 10,
+      "header": "Contract Type",
+      "confidence": 1.0,
+      "owner": "Comprehensive\nContract Type\nIndividual\nMedical"
+    },
+    {
+      "pii_type": "CURRENCY",
+      "text": "$140",
+      "start": 778,
+      "end": 782,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 10,
+      "header": "Contract Type",
+      "confidence": 1.0,
+      "owner": "Comprehensive\nContract Type\nIndividual\nMedical"
+    },
+    {
+      "pii_type": "CURRENCY",
+      "text": "$271.38",
+      "start": 834,
+      "end": 841,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 14,
+      "header": "Medical",
+      "confidence": 1.0,
+      "owner": "Comprehensive\nContract Type\nIndividual\nMedical"
+    }
+  ],
+  "Rx": [
+    {
+      "pii_type": "CURRENCY",
+      "text": "$81.73",
+      "start": 845,
+      "end": 851,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 16,
+      "header": "Rx",
+      "confidence": 1.0
+    }
+  ],
+  "Total": [
+    {
+      "pii_type": "CURRENCY",
+      "text": "$ 353.11",
+      "start": 858,
+      "end": 866,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 18,
+      "header": "Total",
+      "confidence": 1.0
+    }
+  ],
+  "Parent/child": [
+    {
+      "pii_type": "CURRENCY",
+      "text": "$569.90",
+      "start": 880,
+      "end": 887,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 20,
+      "header": "Parent/child",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "CURRENCY",
+      "text": "$171.63",
+      "start": 888,
+      "end": 895,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 21,
+      "header": "Parent/child",
+      "confidence": 1.0
+    }
+  ],
+  "Parent/children": [
+    {
+      "pii_type": "CURRENCY",
+      "text": "$ 741.53",
+      "start": 896,
+      "end": 904,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 22,
+      "header": "Parent/children",
+      "confidence": 1.0
+    }
+  ],
+  "Two Party": [
+    {
+      "pii_type": "CURRENCY",
+      "text": "$610.61",
+      "start": 956,
+      "end": 963,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 28,
+      "header": "Two Party",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "CURRENCY",
+      "text": "$183.88",
+      "start": 964,
+      "end": 971,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 29,
+      "header": "Two Party",
+      "confidence": 1.0
+    }
+  ],
+  "Family": [
+    {
+      "pii_type": "CURRENCY",
+      "text": "$ 794.49",
+      "start": 972,
+      "end": 980,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 30,
+      "header": "Family",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "CURRENCY",
+      "text": "$787.01",
+      "start": 988,
+      "end": 995,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 32,
+      "header": "Family",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "CURRENCY",
+      "text": "$237.01",
+      "start": 996,
+      "end": 1003,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 33,
+      "header": "Family",
+      "confidence": 1.0
+    }
+  ],
+  "Accepted by": [
+    {
+      "pii_type": "CURRENCY",
+      "text": "$1,024.02",
+      "start": 1004,
+      "end": 1013,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 34,
+      "header": "Accepted by",
+      "confidence": 1.0
+    }
+  ]
+}

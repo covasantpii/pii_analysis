@@ -1,0 +1,25 @@
+04/06/2022
++
+||
+0.00
+days
+0.00
+days
+0.00
+days
+Carryover
+Time off carried over from the previous accrual period
+Earned
+Time off earned in the current accrual period through the Balances as
+Taken
+Time off taken in the current accrual period before the Balances as of
+0.00
+Balance
+days
+Time off available for use through the Balances as of date
+Not included in the balance
+0.00
+days
+Balance to be expired from carryover
+Time off expiration balance which is carried over from last year and is
+against the earnings at the time of expiration, if the policy has Max Ba

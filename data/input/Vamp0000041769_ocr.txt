@@ -1,0 +1,48 @@
+mits discover
+Reports Dashboards
+Hypercubes
+Admin
+New▾
+Library: Payroll
+Hide Details
+Report
+Hypercube Build Range
+Scheduled Emails Actions
+Bill to Customer - Garrett Mohler Accounts PAYROLL REPORT
+SALES
+Bill to Customer - HB Home Sales Brian Green & Matt Snyder PAYROLL REPORT SALES
+01/01/2019-04/27/2022 3 Recipients
+01/01/2019-04/27/2022 3 Recipients
+Export Email * Delete
+Export Email * Delete
+Bill to Customer - Jaime Rotz Accounts PAYROLL REPORT
+SALES
+Bill to Customer-Nick Sweeney Accounts PAYROLL REPORT
+Company Wide - Overview by Month for GSP-PAYROLL REPORT
+SALES
+SALES
+#Sales - Fujitsu & Daikin - Quarterly report Aaron Spradlin PAYROLL REPORT
+SALES
+Sales - Goodman & Amana Total Company Sales John Schell PAYROLL REPORT SALES
+#Sales - HVACR Parts - Nick Sweeney PAYROLL REPORT
+01/01/2019-04/27/2022 3 Recipients
+01/01/2019-04/27/2022 3 Recipients
+01/01/2019-04/27/2022 3 Recipients
+01/01/2019-04/27/2022 3 Recipients
+01/01/2019-04/27/2022 3 Recipients
+Export Email * Delete
+Export Email * Delete
+Export Email * Delete
+Export Email * Delete
+Export Email * Delete
+SALES
+01/01/2019 - 04/27/2022 3 Recipients
+Export Email * Delete
+Sales Reps - Gross Profit Dollars last 12 months PAYROLL REPORT
+SALES
+01/01/2019-04/27/2022 3 Recipients
+Export Email * Delete
+Sales Reps - Sales Last 12 Months PAYROLL REPORT
+SALES
+01/01/2019-04/27/2022 3 Recipients
+Export Email * Delete

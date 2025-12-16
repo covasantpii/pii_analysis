@@ -1,0 +1,68 @@
+{
+  "(Fields marked with a are required.)": [
+    {
+      "pii_type": "ORG",
+      "text": "First Name:*\nPrimary",
+      "start": 264,
+      "end": 284,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 11,
+      "header": "(Fields marked with a are required.)",
+      "confidence": 1.0
+    }
+  ],
+  "Month": [
+    {
+      "pii_type": "ORG",
+      "text": "SSN",
+      "start": 315,
+      "end": 318,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 15,
+      "header": "Month",
+      "confidence": 1.0
+    }
+  ],
+  "SSN": [
+    {
+      "pii_type": "DATE",
+      "text": "1:*\nDay",
+      "start": 346,
+      "end": 354,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 17,
+      "header": "###-##-####",
+      "confidence": 1.0,
+      "owner": "SSN"
+    }
+  ],
+  "NO_HEADER": [
+    {
+      "pii_type": "ORG",
+      "text": "Select State",
+      "start": 465,
+      "end": 477,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 31,
+      "confidence": 0.7
+    }
+  ],
+  "Select State": [
+    {
+      "pii_type": "GPE",
+      "text": "United States\nCancel\nContinue",
+      "start": 478,
+      "end": 507,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 32,
+      "header": "United States",
+      "confidence": 1.0,
+      "owner": "Select State"
+    }
+  ]
+}

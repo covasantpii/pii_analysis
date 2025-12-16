@@ -1,0 +1,251 @@
+{
+  "CREDIT CARD TRANSACTION": [
+    {
+      "pii_type": "PERSON",
+      "text": "Joe",
+      "start": 0,
+      "end": 3,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 0,
+      "header": "CREDIT CARD TRANSACTION",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "ORG",
+      "text": "Seafood",
+      "start": 6,
+      "end": 13,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 0,
+      "header": "CREDIT CARD TRANSACTION",
+      "confidence": 1.0
+    }
+  ],
+  "3020/Sarah FM": [
+    {
+      "pii_type": "PERSON",
+      "text": "Sarah",
+      "start": 66,
+      "end": 71,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 6,
+      "header": "3020/Sarah FM",
+      "confidence": 1.0
+    }
+  ],
+  "Sarah": [
+    {
+      "pii_type": "DATE",
+      "text": "3709",
+      "start": 75,
+      "end": 79,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 7,
+      "header": "3020/Sarah FM",
+      "confidence": 1.0,
+      "owner": "Sarah"
+    }
+  ],
+  "Tran. 2994": [
+    {
+      "pii_type": "PERSON",
+      "text": "Tran",
+      "start": 110,
+      "end": 114,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 9,
+      "header": "Tran. 2994",
+      "confidence": 1.0
+    }
+  ],
+  "Tran": [
+    {
+      "pii_type": "DATE",
+      "text": "2994",
+      "start": 116,
+      "end": 120,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 9,
+      "header": "Tran. 2994",
+      "confidence": 1.0,
+      "owner": "Tran"
+    },
+    {
+      "pii_type": "AUTH_CODE",
+      "text": "2455533",
+      "start": 164,
+      "end": 171,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 13,
+      "header": "MID",
+      "confidence": 1.0,
+      "owner": "Tran"
+    },
+    {
+      "pii_type": "AUTH_CODE",
+      "text": "229356",
+      "start": 178,
+      "end": 184,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 14,
+      "header": "Trace 229356",
+      "confidence": 1.0,
+      "owner": "Tran"
+    }
+  ],
+  "NO_HEADER": [
+    {
+      "pii_type": "ORG",
+      "text": "Pre-Auth Purchase",
+      "start": 185,
+      "end": 202,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 15,
+      "confidence": 0.7
+    },
+    {
+      "pii_type": "PERSON",
+      "text": "Cardholder Signature",
+      "start": 371,
+      "end": 391,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 29,
+      "confidence": 0.7
+    }
+  ],
+  "Pre-Auth Purchase": [
+    {
+      "pii_type": "DATE",
+      "text": "3800202",
+      "start": 208,
+      "end": 215,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 16,
+      "header": "TID",
+      "confidence": 1.0,
+      "owner": "Pre-Auth Purchase"
+    },
+    {
+      "pii_type": "CARD_LAST4",
+      "text": "xxxxxxxxxxxx6707",
+      "start": 221,
+      "end": 237,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 18,
+      "confidence": 0.4,
+      "owner": "Pre-Auth Purchase"
+    }
+  ],
+  "CHASE": [
+    {
+      "pii_type": "TIME",
+      "text": "7:42:23 PM",
+      "start": 474,
+      "end": 484,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 36,
+      "confidence": 0.4,
+      "owner": "CHASE"
+    },
+    {
+      "pii_type": "DATE",
+      "text": "09/17/2019",
+      "start": 463,
+      "end": 473,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 35,
+      "confidence": 0.4,
+      "owner": "CHASE"
+    }
+  ],
+  "App Nane": [
+    {
+      "pii_type": "ORG",
+      "text": "CHASE",
+      "start": 515,
+      "end": 520,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 38,
+      "header": "App Nane",
+      "confidence": 1.0
+    }
+  ],
+  "TVR": [
+    {
+      "pii_type": "ORG",
+      "text": "TVR",
+      "start": 526,
+      "end": 529,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 39,
+      "header": "TVR",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "AUTH_CODE",
+      "text": "0000003000",
+      "start": 531,
+      "end": 541,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 39,
+      "header": "TVR",
+      "confidence": 1.0,
+      "owner": "TVR"
+    }
+  ],
+  "Cardholder Signature": [
+    {
+      "pii_type": "AUTH_CODE",
+      "text": "000000116828",
+      "start": 397,
+      "end": 409,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 30,
+      "header": "RRN",
+      "confidence": 1.0,
+      "owner": "Cardholder Signature"
+    },
+    {
+      "pii_type": "CURRENCY",
+      "text": "$\n136",
+      "start": 288,
+      "end": 293,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 24,
+      "confidence": 0.4,
+      "owner": "Cardholder Signature"
+    }
+  ],
+  "Amourt": [
+    {
+      "pii_type": "CURRENCY",
+      "text": "$115.24",
+      "start": 268,
+      "end": 275,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 22,
+      "header": "Amourt",
+      "confidence": 1.0
+    }
+  ]
+}

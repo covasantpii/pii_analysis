@@ -1,0 +1,28 @@
+Course Enrollment Totals
+Report Type:
+Report Criteria Type
+Date Range:
+Summary
+Detail Logs
+Report Types
+Enrollment Completion
+Start Date (mm/dd/yyyy)
+06/16/2018
+Show All Dates
+End Date
+(mm/dd/yyyy)
+07/16/2018
+End Date is inclusive
+User:
+All Enrolled Users
+All Users (including inactive)
+Certain Groups:
+Categories:
+Select Course:
+Schedule Report
+Select All
+Certain Categories:
+Select All
+Certain Courses:
+Display in browser ▼
+Run Summary Report

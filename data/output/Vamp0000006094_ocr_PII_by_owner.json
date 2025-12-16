@@ -1,0 +1,168 @@
+{
+  "Darrell Sterling Q": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "Darrell Sterling"
+      }
+    ]
+  },
+  "JXI": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "C99"
+      }
+    ]
+  },
+  "Global References -...": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "Global References"
+      }
+    ]
+  },
+  "Rob Dunn": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [
+      "13342"
+    ],
+    "emails": [],
+    "dates": [
+      "20140604562359",
+      "November 13, 2019 11:30am",
+      "November 13, 2019"
+    ],
+    "other": []
+  },
+  "View Order": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "20140604561984",
+      "20140604561957",
+      "20140604561953",
+      "20140604561649",
+      "20140604561643",
+      "20140604561160",
+      "20140604560720",
+      "20140604560372"
+    ],
+    "other": [
+      {
+        "type": "CREDIT_CARD",
+        "text": "20140604560722"
+      }
+    ]
+  },
+  "November 12, 2019 11": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "November 12, 2019"
+    ],
+    "other": []
+  },
+  "November 11, 2019 12": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "November 11, 2019"
+    ],
+    "other": [
+      {
+        "type": "TIME",
+        "text": "12:21pm"
+      }
+    ]
+  },
+  "November 8, 2019 11": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "November 8, 2019"
+    ],
+    "other": []
+  },
+  "November 7, 2019 9": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "November 7, 2019"
+    ],
+    "other": []
+  },
+  "November 6, 2019 10": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "November 6, 2019"
+    ],
+    "other": []
+  },
+  "November 6 2019 10": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "November 6 2019"
+    ],
+    "other": []
+  },
+  "Taylor Heating": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [
+      "13341",
+      "13327",
+      "13326",
+      "13325",
+      "13315",
+      "13314",
+      "13313",
+      "13312",
+      "13287",
+      "13286",
+      "13285",
+      "13275",
+      "13273",
+      "13272",
+      "13262",
+      "13261",
+      "13260"
+    ],
+    "emails": [],
+    "dates": [],
+    "other": []
+  }
+}

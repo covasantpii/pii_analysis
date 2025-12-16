@@ -1,0 +1,99 @@
+MARK OFF
+11 12
+MARK OFF
+13 14 15 16 17 18 19
+20 21 22 23 24 25 26
+27 28 29 30 31 1 2
+3456
+JOHNSTONE
+Remit Address:
+JOHNSTONE
+SUPPLY
+77 Halstead Street, Suite 3
+Rochester, NY 14610-1955
+585-441-0339
+585-482-2789 Fax
+Rochester
+95 Halstead Street
+Rechester, NY 14610 1959
+585-482-8000
+585-482-8000 Fax
+AR141 JohnstoneSupply.com Store141Johnstone Supply.com staranjahne
+Sold To
+ISAAC HEATING & AC
+50 HOLLEDER PKY
+ROCHESTER NY 14615-3804
+UNITED STATES
+INVOICE
+Bage
+1/1
+Ship To
+ISAAC HEATING & AC-RESIDENTIAL
+50 HOLLEDER PKY
+ROCHESTER NY 14615-3804
+UNITED STATES
+12/19/2020 1098877
+Customer #
+Order Date
+0004464
+Invoice
+1098877
+Sales Order #
+Buyer
+PATRICK NICHOLS
+Customer P/O #
+424399
+Ship Via
+WILL CALL
+Salesman
+101
+Job Number
+Terms
+Invoice Date
+Freight Terms
+Ship Date
+12/19/2020 12/19/20 PREPAID
+LN ONTY ONTY ONTY PRODUCT
+ORD
+SHIP B/O
+NUMBER
+DESCRIPTION
+NET 30 DAYS
+UOM NET
+PRICE
+EXTENSION
+1
+1
+1
+X89-577
+A143 BLOWER MOTOR 1/50HP 115V ZA
+152.55
+$152.55
+Signature Proof of Delivery:
+Rotas Mok
+12/19/20 16:23
+Archive Copy
+(NYS Contract #PC67222
+Group: 39000 Ind & Comm Splys & Eqpt
+NYS Vendor ID: 1000008135
+Terms & Conditions
+Merchandise Returns may be subject to a restock
+charge.
+No return for electrical items, special orders,
+installed parts, or parts older than 90 days.
+Pay By 01/18/2021
+Writer: MDB
+Merchandise
+152.55
+Freight
+0.00
+Store Opening Fee
+85.00
+Sub Total
+237.55
+152.55
+12.20
+$249.75
+Taxable
+Tax (2611)
+TOTAL

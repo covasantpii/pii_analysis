@@ -1,0 +1,58 @@
+Monthly Rate Quote Number: Q-00126913
+SIC: 5074
+Proposed
+Subscriber &
+ID
+Subscriber
+Programs
+Child
+Subscriber &
+Children
+Subscriber &
+Projected Monthly
+Check to Select
+Family
+Spouse
+Cost
+Program
+Dental PPO Basic BCDN0711
+$22.60
+$60.73
+$60.73
+$60.73
+$60.73
+$2,264.05
+Dental PPO Value
+75
+BCDN0716
+$4.95
+$14.11
+$14.11
+$14.11
+$14.11
+$516.10
+Dental Select 705x
+BCDN0717 $16.11
+$29.90
+$47.43
+$29.90
+$47.43
+$1,559.61
+Vision 12/10
+BCVN0714
+$4.24
+$11.83
+$11.83
+$11.83
+$11.83
+$435.67
+PPO 8000/0/30 Rx 0
+PPONJ881
+RXRNJ881
+$476.05
+$999.72
+$999.72
+$1,052.08
+$1,386.27
+$46,919.78
+☐

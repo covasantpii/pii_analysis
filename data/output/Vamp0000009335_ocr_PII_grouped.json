@@ -1,0 +1,38 @@
+{
+  "NO_HEADER": [
+    {
+      "pii_type": "ORG",
+      "text": "Call/Message Selected Users",
+      "start": 72,
+      "end": 99,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 5,
+      "confidence": 0.7
+    }
+  ],
+  "Remove Users from Group": [
+    {
+      "pii_type": "PERSON",
+      "text": "Remove Users",
+      "start": 125,
+      "end": 137,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 7,
+      "header": "Remove Users from Group",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "ORG",
+      "text": "SharePoint",
+      "start": 181,
+      "end": 191,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 8,
+      "header": "Remove Users from Group",
+      "confidence": 1.0
+    }
+  ]
+}

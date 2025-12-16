@@ -1,0 +1,24 @@
+Social Security Number: XXX-XX-8889
+Last Name: Howe
+Address 1: 96 Clay Avenue
+City: Rochester
+Company Code: H1J
+Employee Number: 000820
+First Name: Bradley
+Mi: K
+Address 2:
+State: New York
+Date of Birth: 01/03/1984
+Length of Service: 01 (Yrs) 00 (Months)
+Date of Hire: 01/28/2019
+Age: 36 (Yrs) 1 (Months)
+Employee Status: Ineligible
+Termination Date:
+Pay Frequency: Bi-Weekly
+Salary Deferral
+Eligibility Date:
+02/01/2020
+Alternate Vest
+Date:
+01/28/2019
+Zip: 14613

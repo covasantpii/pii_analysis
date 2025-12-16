@@ -1,0 +1,24 @@
+Pending Requests are not included in balances below.
+Scheduled and Future Earned amounts only show values that impact the Balances as of date. Click the policy name for details.
+Balances as of
+09/16/2020
+TIME OFF POLICY
+Floating Holiday / ...
+CARRYOVER
+0
+11.00 days
+PTO
+Unpaid Time Off
+о
+C
+EARNED/ADJUST...
++
+FUTURE EARNED
+TAKEN
+SCHEDULED
+=
+BALANCE
+о
+о
+11.00 days
+Х

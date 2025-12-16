@@ -1,0 +1,64 @@
+Transfer #:
+Transfer Date:
+098770
+10/27/2022
+Comments:
+Transfer for S/o 2144757
+Freight:
+Status:
+O,S,P
+Entered By:
+WEB USER
+a
+Picked By:
+Jaime Burgos
+a
+Picked On:
+10/27/2022 2:55 PM
+From Warehouse:
+ROCHESTER
+Q Ship Via:
+a
+To Warehouse:
+READING
+Ship Date:
+Scheduled
+Truck:
+Exclude From Consolidated
+Assigned:
+Q
+Date:
+Stop #:
+Product
+Description
++1
+L80-321
+59896343 PUMP CIRCULATOR CAST
+UOM
+EA
+1
+Products
+From Whse
+On Hand
+To Whse
+Transfer
+On Hand
+Quantity
+24
+0
+2
+Quantity
+Open
+Scanned
+Quantity
+Quantity
+To Ship
+B/O
+Quantity
+2
+2
+2
+0
+>
+>
+>

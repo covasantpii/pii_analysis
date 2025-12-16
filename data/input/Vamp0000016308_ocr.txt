@@ -1,0 +1,28 @@
+PAGES
+HOME
+THEME
+Select Page
+Company Spotlight
+To add a new content item,
+order in which the content
+Language *
+English (US)
+ADD
+DELETE A
+Search
+About Configuration
+Configuration tools allow you to customize the application to reflect your organizations
+needs. You can customize the following:
+• Pages - Modify a page's presentation and its content and assign content and
+instructional text to specific profiles.
+⚫ Home - Customize the look and feel of the home page with a different layout and your
+own content.
+⚫ Theme - Use a different background color scheme and change the logo for all user
+types.
+Х
+select the content item and click -. To rearrange the
+ent item to the placement you want.
+ITEM
+DE
+ASSIGN PROFILES
+Assign Profiles

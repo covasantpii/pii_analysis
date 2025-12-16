@@ -1,0 +1,131 @@
+applicantlist
+Applicants
+Jobs▾
+Inbox
+Add ▾
+Johnstone Supply Applicant Dashboard
+All Applicants Applicants By Job Incomplete Apps
+All Department
+All Statuses
+Qualified
+Search Applicants
+a
+24-Jun-2022
+22-Sep-2022
+Show Sent Emails
+Filter
+Delivery Driver - 641469 - (G1) Gainesville, VA 20155
+Delivery Driver-654284-(G1) Arbutus, MD 21227
+Delivery Driver - 742353-(G1 - Lancaster, PA) Lancaster, PA 17601
+Delivery Driver - 804843 - (G1 Reading, PA) Reading, PA 19605
+Delivery Driver-610037 - (G1) Harrisburg, PA 17405
+Delivery Driver/Warehouse Associate - 481406 - (D1) Reading, PA 19605
+Delivery Driver/Warehouse Associate - 482760-(D1) Easton, PA 18045*
+Delivery Driver/Warehouse Associate - 477674-(D1) Arbutus, MD 21227
+Delivery Driver/Warehouse Associate -477679-(D1) Gathersburg, MD 2087
+Active
+Displaying 1-100 of 100 Total Candidates
+Name
+* Date
+*Job Title
+Internal ID
+: Met BQ
+☐ 1.
+Action Syms, Robert Notes
+14-Sep-2022
+Delivery Driver (G1 Reading, PA) Reading, PA 19605
+Yes
+⚫ Avg Rating
+☆☆☆☆☆
+Status
+High
+02.
+Action Gapinski, John Notes Messages SH Test
+13-Sep-2022
+Delivery Driver
+(G1 Reading, PA) Reading, PA 19605
+Yes
+☆☆☆☆☆
+High
+03.
+Action Hoffman, Duane Notes Messages
+13-Sep-2022
+Delivery Driver
+(G1 Reading, PA) Reading, PA 19605
+Yes
+High
+□ 4.
+Action Hoffman, Brian Notes Messages
+27-Aug-2022
+Delivery Driver
+(G1 Reading, PA) Reading, PA 19605
+Yes
+High
+05.
+Action Marinari, William Notes Messages
+✔SH Score: 17 Cand: 85
+18-Aug-2022
+Delivery Driver
+(G1 Reading, PA) Reading, PA 19605
+Yes
+High
+06.
+Action Rodriguez, Jonathan Notes Messages
+18-Aug-2022
+Delivery Driver
+(G1 Reading, PA) Reading, PA 19605
+Yes
+☆☆☆☆☆
+High
+07.
+Action Metzgar, Steven Notes Messages
+17-Aug-2022
+Delivery Driver
+(G1 Reading, PA) Reading, PA 19605
+Yes
+☆☆☆☆☆
+High
+☐ 8.
+Action Leadum, Rodney Notes Messages ✔SH Score: 23 Cand: 85
+16-Aug-2022
+Delivery Driver
+(G1 Reading, PA) Reading, PA 19605
+Yes
+High
+09.
+Action
+Pagan, Juan Notes Messages
+15-Aug-2022
+Delivery Driver
+(G1 Reading, PA) Reading, PA 19605
+High
+□10.
+Action Rodriguez, Rafael Notes Messages
+15-Aug-2022
+Delivery Driver
+(G1 Reading, PA) Reading, PA 19605
+Yes
+High
+11.
+Action Hopkins, Charles Notes Messages
+22-Jul-2022
+Delivery Driver
+(G1 Reading, PA) Reading, PA 19605
+Yes
+High
+□ 12.
+Action Vasquez, Juana Notes Messages SH Test
+16-Jul-2022
+Delivery Driver
+(G1 Reading, PA) Reading, PA 19605
+Yes
+High
+013.
+Action
+Rivera, Jose Notes Messages
+14-Jul-2022
+Delivery Driver
+(G1 Reading, PA) Reading, PA 19605
+Yes
+High
+>

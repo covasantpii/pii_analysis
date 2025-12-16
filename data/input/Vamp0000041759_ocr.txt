@@ -1,0 +1,76 @@
+File Accounting Sales Purchasing Inventory Warehouse CRM Johnstone Analytics Utilities Windows Help
+E
+Dashboard x
+Vendor - 02138 "PENSERV PLAN SERVIC
+Pay-To Vendor:
+|02138
+Invoice Number:
+11311310
+Previous Vendor
+Invoice
+Notes
+Attachment
+Entry Log
+A/P Invoice - 11311310
+PENSERV PLAN SERVICES INC.
+P.O BOX 3109
+WEST COLUMBIA, SC 29171
+Same address
+Remit-To:
+02138
+Invoice Type:
+Invoice
+Status:
+Active
+Invoice Date:
+12/06/2021
+Current 'AP' Accounting Period:
+1221
+Branch:
+123
+QJohnstone Supply #123
+This Invoice 'AP' Accounting Period:
+1221
+P/O or Reference #:
+4th Quarter 2021 Administration Fees AB & Wallace
+Override G/L Suffix ✓
+Recalculate
+Liability G/L:
+20000100
+Q ACCOUNTS PAYABLE-VENDORS
+Terms:
+08
+NET 30 DAYS
+Message On Check:
+G/L Account
+70500100
+|70500400
+G/L Distribution
+Description
+ACCOUNTING FEES
+ACCOUNTING FEES
+Gross Amount:
+$ 1,376.04
+Discount Amount:
+$
+0.00
+Freight Amount:
+$
+Discount Date:
+12/10/2021
+Tax Amount:
+$
+Due Date:
+12/10/2021
+Other Amount Label:
+$
+Linked Receipts:
+Merchandise Amount:
+$1,376.04
+Balance Due:
+$1,376.04
+Amount
+$688.02
+$688.02
+Total:
+$1,376.04

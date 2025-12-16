@@ -1,0 +1,32 @@
+[
+  {
+    "pii_type": "ORG",
+    "text": "Run Summary Report",
+    "start": 426,
+    "end": 444,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 27,
+    "confidence": 0.7
+  },
+  {
+    "pii_type": "DATE",
+    "text": "06/16/2018",
+    "start": 150,
+    "end": 160,
+    "source": "regex",
+    "chunk": 0,
+    "line_idx": 9,
+    "confidence": 0.4
+  },
+  {
+    "pii_type": "DATE",
+    "text": "07/16/2018",
+    "start": 198,
+    "end": 208,
+    "source": "regex",
+    "chunk": 0,
+    "line_idx": 13,
+    "confidence": 0.4
+  }
+]

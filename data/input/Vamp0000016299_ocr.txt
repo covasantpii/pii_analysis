@@ -1,0 +1,24 @@
+Profiles
+Practitioner
+Manager
+Time and Attendance Supervisor
+Employee
+Description
+Name
+Standard Employee
+Employee
+Status*
+Active
+Menu Access Members
+The tabs shown below match the menus and other items available for members of this profile. To display or
+clear the check box for that item.
+Home Resources
+Myself Header/Toolbar/Footer ADP Mobile Solutions
+Enable Home
+Home
+Home
+Company Events
+Company News and Announcements
+Company Mission
+Company Spotlight
+Quick Links

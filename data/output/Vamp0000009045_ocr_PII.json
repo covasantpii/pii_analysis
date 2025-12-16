@@ -1,0 +1,211 @@
+[
+  {
+    "pii_type": "ORG",
+    "text": "HR Services",
+    "start": 165,
+    "end": 176,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 6,
+    "header": "NYS Sexual Harassment Prevention",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "ORG",
+    "text": "NYS",
+    "start": 287,
+    "end": 290,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 8,
+    "header": "NYS Sexual Harassment Prevention",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "DATE",
+    "text": "Monday, August 5th @ 11:30 AM EST",
+    "start": 576,
+    "end": 609,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 15,
+    "header": "WHEN",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "DATE",
+    "text": "Wednesday, August 7th @",
+    "start": 610,
+    "end": 633,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 16,
+    "header": "WHEN",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "TIME",
+    "text": "1:00 PM EST",
+    "start": 634,
+    "end": 645,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 16,
+    "header": "WHEN",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "DATE",
+    "text": "Tuesday, August 13th @",
+    "start": 646,
+    "end": 668,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 17,
+    "confidence": 0.4
+  },
+  {
+    "pii_type": "TIME",
+    "text": "10:00 AM EST",
+    "start": 669,
+    "end": 681,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 17,
+    "confidence": 0.4
+  },
+  {
+    "pii_type": "DATE",
+    "text": "Thursday",
+    "start": 682,
+    "end": 690,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 18,
+    "header": "ATTACHMENTS",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "DATE",
+    "text": "August 22nd @",
+    "start": 692,
+    "end": 705,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 18,
+    "header": "ATTACHMENTS",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "DATE",
+    "text": "Thursday, August 29th @ 2:00 PM EST",
+    "start": 719,
+    "end": 754,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 19,
+    "header": "ATTACHMENTS",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "ORG",
+    "text": "the Paychex Learning Center",
+    "start": 966,
+    "end": 993,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 26,
+    "header": "SESSIONS",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "FAC",
+    "text": "Paychex Flex",
+    "start": 1095,
+    "end": 1107,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 28,
+    "header": "To setup access and start assigning training follow the below steps",
+    "confidence": 1.0,
+    "owner": "Company Access"
+  },
+  {
+    "pii_type": "GPE",
+    "text": "Select",
+    "start": 1133,
+    "end": 1139,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 28,
+    "header": "To setup access and start assigning training follow the below steps",
+    "confidence": 1.0,
+    "owner": "Company Access"
+  },
+  {
+    "pii_type": "ORG",
+    "text": "Company Access",
+    "start": 1222,
+    "end": 1236,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 29,
+    "header": "To setup access and start assigning training follow the below steps",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "TIME",
+    "text": "24/48 hours",
+    "start": 1282,
+    "end": 1293,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 30,
+    "header": "on how to assign training",
+    "confidence": 1.0,
+    "owner": "Company Access"
+  },
+  {
+    "pii_type": "TIME",
+    "text": "11:30 AM",
+    "start": 597,
+    "end": 605,
+    "source": "regex",
+    "chunk": 0,
+    "line_idx": 15,
+    "header": "WHEN",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "TIME",
+    "text": "1:00 PM",
+    "start": 634,
+    "end": 641,
+    "source": "regex",
+    "chunk": 0,
+    "line_idx": 16,
+    "header": "WHEN",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "TIME",
+    "text": "10:00 AM",
+    "start": 669,
+    "end": 677,
+    "source": "regex",
+    "chunk": 0,
+    "line_idx": 17,
+    "confidence": 0.4
+  },
+  {
+    "pii_type": "TIME",
+    "text": "2:00 PM",
+    "start": 743,
+    "end": 750,
+    "source": "regex",
+    "chunk": 0,
+    "line_idx": 19,
+    "header": "ATTACHMENTS",
+    "confidence": 1.0
+  }
+]

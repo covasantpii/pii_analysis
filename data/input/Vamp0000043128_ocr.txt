@@ -1,0 +1,57 @@
+Customer:
+SERVICES UNITED, INC
+Open
+Back
+Active/Good
+Writer:
+Craig Wallace
+Order:
+Orders
+Orders
+2430 EMRICK BLVD
+Ship To:
+SAME
+Ship Via:
+Branch:
+123 Johnstone a
+BETHLEHEM, PA 18020
+Ordered By:
+Customer P/O:
+Ship Date:
+Whse:
+EASTON
+New Sales Order
+Header
+Ln
+Product
+Product
+Number
+Description
+Quant Quant
+Ordered UM
+x
+Quant
+To Ship
+Quant
+B/O
+Quant
+Staged
+Line Items
+Net
+Price
+Price
+Extension
+Alt
+5/P % Alt Cost
+Net
+Detail
+1
+881-119
+VCMA-15ULS PUMP CONDENSATE
+1 EA
+1
+42.9900|
+$42.99
+14.33 36.8300
+Final
+Line Items Details Procur

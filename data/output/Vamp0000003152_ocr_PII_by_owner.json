@@ -1,0 +1,43 @@
+{
+  "Jan 21, 2022": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "Jan 21",
+      "2022"
+    ],
+    "other": []
+  },
+  "Gross": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "CURRENCY",
+        "text": "$5,953.85"
+      }
+    ]
+  },
+  "EXPAND ALL": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "CURRENCY",
+        "text": "$782.14"
+      },
+      {
+        "type": "CURRENCY",
+        "text": "$4,166.17"
+      }
+    ]
+  }
+}

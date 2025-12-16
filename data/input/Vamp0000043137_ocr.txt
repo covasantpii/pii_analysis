@@ -1,0 +1,96 @@
+Customer:
+Ship To:
+Ordered By:
+Open
+Back
+SERVICES UNITED, INC.
+Active/Good
+Writer:
+Orders
+Orders
+Craig Wallace
+Order:
+2430 EMRICK BLVD
+SAME
+Ship Via:
+Branch:
+123-Johnstone
+BETHLEHEM, PA 18020
+Customer P/O:
+Ship Date:
+Whse:
+EASTON
+a
+New Sales Order
+Line Items Details Pro
+Header
+Line Items
+Ln
+Detail
+Product
+Number
+875-907
+Product
+Quant Quant
+Quant
+Description
+GSX140241 CONDENSING UNIT
+Ordered UM
+To Ship
+Quant
+B/O
+Quant
+Staged
+Net
+Price
+Price
+Alt
+Net
+Extension G/P Alt Cost
+1 EA
+1,024.0000
+$1,024.00 23,491,264.51...
+2
+816-902
+CSR-U1 HARD START COMP SAVER
+1 EA
+47.5000 Price Detail Rebate Cost Competitive Pricing
+Einal
+Unit
+Price
+Disc
+Pct
+Net
+Price
+Net
+Cost
+G/P %
+1,024.0000 EA
+0.00 -
+1,024.0000 EA
+873.3825
+14.71
+Current Price
+Last Price
+Quoted Price
+Margin Price
+Unit:
+Net
+1,024.00...
+1,024.00...
+Unit:
+Net
+Qty:
+1,024.00...
+1,024.00...
+Unit:
+Net
+Unit:
+Net
+1
+By:
+Date:
+06/08/22
+Date:
+Below G/P
+Cancel

@@ -1,0 +1,32 @@
+Trends
+о
+Change over time for the selected data, indexed against the week of January 26th to February 1st 2020. The value reported is how much greater or smaller
+the data has become. For example, a jobs value of 1.25 would mean there were 25% more jobs that week than in the indexed week.
+Job seekers per job
+Job seekers
+1.8
+1.4
+0.9
+0.5
+Jobs
+Employers
+0.0
+Mar 27th
+Apr 3rd Apr 10th
+Apr 17th
+Apr 24th
+May 1st
+May 8th
+May 15th May 22nd May 29th Jun 5th
+Jun 12th
+Jun 19th
+Competition score
+High
+competition
+Unemployment percentage
+68/100
+In Rochester, NY jobs are very
+competitive compared to other job
+markets.
+5%
+The unadjusted unemployment percentage in Rochester, NY

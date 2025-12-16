@@ -1,0 +1,127 @@
+{
+  "Chamber of Commerce": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "First Name, MI"
+      }
+    ]
+  },
+  "Colin, M, McKelvey": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "Colin, M"
+      },
+      {
+        "type": "ORG",
+        "text": "McKelvey"
+      }
+    ]
+  },
+  "Colin, M": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "last 7 years"
+    ],
+    "other": []
+  },
+  "Social Security Number": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "Social Security"
+      }
+    ]
+  },
+  "Date": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "Applicant's Date of Birth\nDate"
+      }
+    ]
+  },
+  "05/03/1994/09/10/19": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "Driver License Number and State of Issue"
+      }
+    ]
+  },
+  "Driver License Number and State of Issue": {
+    "phones": [],
+    "ssn": [
+      "951805465"
+    ],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "the last seven",
+      "7) years",
+      "05/03/1994"
+    ],
+    "other": []
+  },
+  "Rochester, NY": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [
+      "NY"
+    ],
+    "emails": [],
+    "dates": [],
+    "other": []
+  },
+  "From": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "2015",
+      "1994"
+    ],
+    "other": []
+  },
+  "Zip Code": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [
+      "14620",
+      "14560"
+    ],
+    "emails": [],
+    "dates": [],
+    "other": []
+  }
+}

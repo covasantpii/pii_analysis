@@ -1,0 +1,37 @@
+In consideration of each BANK's compliance with this authorization, CLIENT agrees that such BANK's treatment of any charge, and such BANK's rights with
+respect thereto, shall be the same as if the charge were initiated personally by CLIENT, and that if any charge is dishonored, whether with or without cause,
+such BANK shall be under no liability whatsoever. In addition, CLIENT authorizes ADP to credit the applicable DDA ACCOUNT when necessary, at ADP's
+sole discretion, for any refund or credit amount due CLIENT.
+In the event of any conflict between the terms and conditions of this Agreement and the terms and conditions of any other agreement, this Agreement shall
+control with respect to any money transmission services, including Payment Services. CLIENT acknowledges and agrees that, notwithstanding anything to the
+contrary, CLIENT'S right to refund under any State law shall first be subject to any offset for funds due to ADP with respect to any previous transactions
+completed on CLIENT'S behalf by ADP, and subject to the terms and conditions of this Agreement and any other agreement between CLIENT and ADP.
+This authorization shall remain in effect unless and until revoked in writing by an authorized representative of CLIENT and until the applicable BANK(s) and
+ADP have each received such notice and have had reasonable time to act upon such notice.
+CLIENT Signature
+Kenneth Livingston
+Kenneth Livingston
+CLIENT Representative Name & Title.
+Date 12/18/2019 12:46:53 PM
+President
+(Must be an authorized signatory on the accounts listed on page 1 on this Agreement)
+FOR REGION USE ONLY/ADP DO NOT DEBIT ACCOUNT
+CORPORATE CHECK (This bank account below will be printed on your company checks):
+BANK Transit/ABA #
+BANK Account(DDA)#
+Bank Name
+Starting Check number
+Bank Address
+Comments
+Bank Phone
+Client Phone
+RW-ACH-RWX CAA (11/18)
+Page 2 of 5
+ADP eSignature Info:
+Date/Time:
+12/18/2019 12:46:53 PM
+IP:
+ID:
+72.45.184.26
+1004159309
+Revised AVS-FCM-11/15/18

@@ -1,0 +1,76 @@
+JOHNSTONE
+SUPPLY
+Bald To
+TAYLOR HEATING THE
+1775 BUFFALO BD
+ROCHESTER NY 14624-1601
+UNITED STATES
+Ship To
+TAYLOR HEATING INC
+1775 BUFFALO BD
+ROCHESTER NY 14624-1601
+UNITED STATES
+INVOICE
+Page 2/2
+Customer
+Order Date
+Sales Order #
+Buyer
+0007878
+12/19/2020 1098876
+JORDAN WOODRIFF
+lavalca #
+1098876
+lavales Date
+Ship Date
+Freight Terms
+Customer PIO #
+SAJJAD
+Job Number
+Ship Via
+Tr 11T/001
+Salesman
+008
+Terms
+12/19/2020 12/19/20 PREPAID
+STATEMENT-NET 25TH
+ORD
+Archive Copy
+TOM MEZE
+DBICE
+EXTENSION
+X82=427
+0271#001265 INDUCER DRAFT
+BLOWER
+BA
+111,1667
+$111,17
+M81-296
+SL24530 5" 30GA 24" PIPE
+EA
+3,9287
+$3.93
+(HYS Contract #: PC67222
+Group: 39000 Ind & Comm Splys & Eqpt
+NYS Vendor ID: 1000008135
+Terms & Conditions
+Merchandise Returns may be subject to a restock
+charge,
+No return for electrical items, special orders,
+installed parts, or parts older than 90 days,
+Pay By 01/25/2021
+Writer: MDB
+(Merchandise
+Freight
+115.10
+0.00
+Store Opening Fee
+85.00
+Sub Total
+200.10
+115.10
+9.21
+$209.31
+Taxable
+Tax (2611)
+TOTAL

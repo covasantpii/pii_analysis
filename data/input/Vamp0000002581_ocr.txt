@@ -1,0 +1,18 @@
+Turnover Probability
+ACME
+2,345
+Top Turnover Probability Factors
+13.1%
+14.3%
+-12
+$73,534
+75%
+82%
+0.95
+455
+39%
+36
+12%
+302
+28%
+*

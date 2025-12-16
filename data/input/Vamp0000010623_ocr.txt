@@ -1,0 +1,25 @@
+Eligible
+Ineligible
+Bypassed
+Filter: All eligible employees to be automatically enrolled
+Excluded Class
+Search by SSN, Name, Date of Eligibility
+Automatic
+SSN
+Name
+Co Code
+Date of
+Birth
+Date of
+Hire
+Salary Deferral
+Automatic
+Bypass Reason
+Eligibility Date
+Enrollment Date
+Enrollment
+Status
+XXX-XX-5745 Harmer, David H H1J
+06/06/1963 06/18/2019
+07/01/2020
+| 07/01/2020

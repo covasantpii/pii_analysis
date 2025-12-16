@@ -1,0 +1,9 @@
+
+
+{
+  "ocr_text": "New\nActions ▼\nSettings ▼\nE-Mail Users\nSend an e-mail to selected users.\nCall/Message Selected Users\nCall the selected users.\nRemove Users from Group\nRemove selected users from this SharePoint group.",
+  "page_texts": {
+    "0": "New\nActions ▼\nSettings ▼\nE-Mail Users\nSend an e-mail to selected users.\nCall/Message Selected Users\nCall the selected users.\nRemove Users from Group\nRemove selected users from this SharePoint group."
+ },
+  "method": "vision_api"
+}

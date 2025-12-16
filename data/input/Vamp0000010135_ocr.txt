@@ -1,0 +1,83 @@
+DATE: 06/15/2020
+PAGE: 2 of 4
+Claim Details
+A claim for services you received was sent to MVP. This EOB can help you understand the amount charged by your
+health care provider and what your health plan paid. It also shows the out-of-pocket costs that you must pay.
+If you received covered services from an MVP-participating provider, that provider has agreed to accept the Allowed
+Amount shown below as payment in full, minus any Deductible, Copay or Coinsurance.
+If services were from a provider not participating with MVP, you may need to pay the difference between the Billed
+Charges shown below and the Allowed Amount.
+Billed
+Allowed
+Charges Amount
+Not Allowed/
+Not Due
+from Patient
+Not
+Covered/
+Due from
+Patient
+Other
+Insurance
+Payments
+Deductible Coinsurance Copay
+Paid
+By Plan Code(s)
+Reason
+Date(s) of Service: 07/26/2017 - 07/26/2017
+Description: Est Outpt L2 Prob Foc H and E Strtfwd
+105.00
+0.00
+105.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+ZAM,XCG
+Date(s) of Service: 07/26/2017 - 07/26/2017
+Description: Basic Comprehensive Audiometry
+125.00
+37.23
+87.77
+0.00
+0.00
+0.00
+0.00
+Date(s) of Service: 07/26/2017 - 07/26/2017
+7.64
+29.59
+ZAM,XCG
+Description: Tympanometry and reflex threshold measurements
+60.00
+20.87
+39.13
+0.00
+0.00
+0.00
+0.00
+0.00
+20.87
+ZAM,XCG
+Reason Codes:
+ZAM
+Claim Adjusted - SIU Review
+XCG
+Adjustment Due to Refund Due MVP
+2017 Limit Summary
+Limit Name
+YEARLY IN NETWORK DEDUCTIBLE (INDIVIDUAL)
+YEARLY IN-NETWORK DEDUCTIBLE (FAMILY)
+YEARLY INDIVIDUAL IN-NETWORK OUT-OF-POCKET
+YEARLY FAMILY IN-NETWORK OUT-OF-POCKET
+Current Amount
+Maximum Amount
+0.00
+4,400.00
+0.00
+4,400.00
+-42.36
+4,800.00
+0.00
+9,600.00

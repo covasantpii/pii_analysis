@@ -1,0 +1,43 @@
+Customer:
+0018306
+HB HOME SERVICES
+Branch:
+All Ship Tos
+Product:
+Ship To:
+Category:
+Salesman:
+Territory:
+Cust. Type:
+Product Line:
+Major Group:
+Vendor:
+Gross Profit $
+Sales
+Year-To-Date
+January
+Units February
+March
+GPS April
+May
+GP% June
+0.00
+0.00
+0.00
+0.00
+7.23
+6,407.85
+July
+5,605.45
+August
+2,425.90
+September
+0.00
+October
+0.00
+November
+0.00
+December
+Totals
+0.00
+14,446.43

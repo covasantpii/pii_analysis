@@ -1,0 +1,75 @@
+{
+  "NO_HEADER": [
+    {
+      "pii_type": "ORG",
+      "text": "SOCIAL SECURITY",
+      "start": 0,
+      "end": 15,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 0,
+      "confidence": 0.7
+    },
+    {
+      "pii_type": "PERSON",
+      "text": "Karen Parker",
+      "start": 82,
+      "end": 94,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 8,
+      "confidence": 0.7
+    }
+  ],
+  "Karen Parker": [
+    {
+      "pii_type": "DATE",
+      "text": "11001370786 49",
+      "start": 109,
+      "end": 123,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 11,
+      "header": "www",
+      "confidence": 1.0,
+      "owner": "Karen Parker"
+    },
+    {
+      "pii_type": "SSN",
+      "text": "054-60-1249",
+      "start": 27,
+      "end": 38,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 4,
+      "header": "SECE",
+      "confidence": 1.0,
+      "owner": "Karen Parker"
+    },
+    {
+      "pii_type": "AUTH_CODE",
+      "text": "11001370786",
+      "start": 109,
+      "end": 120,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 11,
+      "header": "www",
+      "confidence": 1.0,
+      "owner": "Karen Parker"
+    }
+  ],
+  "Palmyra, NY": [
+    {
+      "pii_type": "ZIPCODE",
+      "text": "14522",
+      "start": 165,
+      "end": 170,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 14,
+      "header": "Palmyra, NY",
+      "confidence": 1.0
+    }
+  ]
+}

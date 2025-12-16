@@ -1,0 +1,100 @@
+[
+  {
+    "pii_type": "ORG",
+    "text": "Chamber of Commerce\nBACKGROUND & REFERENCE CHECKING",
+    "start": 45,
+    "end": 97,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 5,
+    "header": "Chamber of Commerce",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "ORG",
+    "text": "RBA Staffing",
+    "start": 198,
+    "end": 210,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 8,
+    "header": "EMPLOYEE RELEASE OF CLAIMS",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "ORG",
+    "text": "RBA",
+    "start": 212,
+    "end": 215,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 8,
+    "header": "EMPLOYEE RELEASE OF CLAIMS",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "PERSON",
+    "text": "Johnstone Supply",
+    "start": 234,
+    "end": 250,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 9,
+    "header": "EMPLOYEE RELEASE OF CLAIMS",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "ORG",
+    "text": "Release",
+    "start": 851,
+    "end": 858,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 14,
+    "confidence": 0.7
+  },
+  {
+    "pii_type": "PERSON",
+    "text": "Corey Graham",
+    "start": 1217,
+    "end": 1229,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 18,
+    "confidence": 0.7
+  },
+  {
+    "pii_type": "ORG",
+    "text": "Social Security",
+    "start": 1299,
+    "end": 1314,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 24,
+    "header": "Social Security Number",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "SSN",
+    "text": "091-80-1484",
+    "start": 1287,
+    "end": 1298,
+    "source": "regex",
+    "chunk": 0,
+    "line_idx": 23,
+    "header": "Applicant Signature",
+    "confidence": 1.0,
+    "owner": "Corey Graham"
+  },
+  {
+    "pii_type": "DATE",
+    "text": "10/10/2018",
+    "start": 1322,
+    "end": 1332,
+    "source": "regex",
+    "chunk": 0,
+    "line_idx": 25,
+    "confidence": 0.7,
+    "owner": "Social Security"
+  }
+]

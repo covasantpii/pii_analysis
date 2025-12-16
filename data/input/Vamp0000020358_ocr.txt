@@ -1,0 +1,41 @@
+Reminder! Return for a second dose!
+¡Recordatorio! ¡Regrese para la segunda dosis!
+Date / Fecha
+Vaccine
+COVID-19 vaccine
+Vacuna contra el COVID-19
+Other
+Otra
+Bring this vaccination record to every
+vaccination or medical visit. Check with your
+health care provider to make sure you are not
+mm
+dd
+yy
+mm
+dd
+yy
+Lleve este registro de vacunación a cada
+cita médica o de vacunación. Consulte con
+su proveedor de atención médica para
+missing any doses of routinely recommended asegurarse de que no le falte ninguna dosis
+vaccines.
+For more information about COVID-19
+and COVID-19 vaccine, visit cdc.gov/
+coronavirus/2019-ncov/index.html.
+You can report possible adverse reactions
+following COVID-19 vaccination to the
+Vaccine Adverse Event Reporting System
+(VAERS) at vaers.hhs.gov.
+de las vacunas recomendadas.
+Para obtener más información sobre el
+COVID-19 y la vacuna contra el COVID-19,
+visite espanol.cdc.gov/coronavirus/2019-
+ncov/index.html.
+Puede notificar las posibles reacciones
+adversas después de la vacunación contra
+el COVID-19 al Sistema de Notificación de
+Reacciones Adversas a las Vacunas (VAERS)
+en vaers.hhs.gov.
+MLS-319813_r
+09/03/20

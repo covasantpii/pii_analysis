@@ -1,0 +1,44 @@
+Search the menu
+EMPLOYEE MANAGEMENT
+Jobs
+Earnings
+◆ Pay Item
+Tax Reimburseme
+◆ Schedule
+Every Pay
+1st Pay of Month
+Labor
+Location Distribution
+Housing Allow
+Misc Reimbursem
+Every Pay
+Percent Distribution
+DD Fix
+Every Pay
+Organizations
+PUCC
+Every Pay
+Organization Supervisor/Manager
+Dir Dep Reim
+Every Pay
+Misc Fields
+Misc Data Sets
+Employee Pay
+Salary
+Alternate Pay Rates
+Tax Information
+Earnings
+Deductions
+◆ Amount
+◆ Percent
++ Rate
+Save
+Cancel
+Housing Allow
+*Pay Item: Housing Allow
+Reference Number:
+Default Schedule: 1st Pay of Month
+Schedule Override:
+Start Date:
+Stop Date:
+Amount: 0.0000

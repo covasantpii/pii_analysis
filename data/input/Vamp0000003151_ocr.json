@@ -1,0 +1,7 @@
+{
+  "ocr_text": "Select statements:\nCURRENT\nYTD\nCOMPARE\n1st Pay Date\nJan 21, 2022\n2nd Pay Date\nJan 7, 2022\nGross\n$2,953.85\n$1,800.00\nTaxes\nRetirement\n-$242.26\n-$345.42\n-$2,711.59\n-$1,454.58\nPx401Eepre\n-$2,711.59\nAdp Roth Flat$$\n-$1,454.58\nTake Home\n$0.00\n$0.00\nEXPAND ALL",
+ "page_texts": {
+    "0": "Select statements:\nCURRENT\nYTD\nCOMPARE\n1st Pay Date\nJan 21, 2022\n2nd Pay Date\nJan 7, 2022\nGross\n$2,953.85\n$1,800.00\nTaxes\nRetirement\n-$242.26\n-$345.42\n-$2,711.59\n-$1,454.58\nPx401Eepre\n-$2,711.59\nAdp Roth Flat$$\n-$1,454.58\nTake Home\n$0.00\n$0.00\nEXPAND ALL"
+  },
+  "method": "vision_api"
+}

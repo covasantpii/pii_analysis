@@ -1,0 +1,41 @@
+{
+  "Hide Details": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "-$0.00"
+      }
+    ]
+  },
+  "n/a": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "CURRENCY",
+        "text": "$0.00"
+      }
+    ]
+  },
+  "Individual": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "CURRENCY",
+        "text": "$35.40"
+      }
+    ]
+  }
+}

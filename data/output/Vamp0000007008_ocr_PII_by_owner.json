@@ -1,0 +1,69 @@
+{
+  "Chamber of Commerce": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "Chamber of Commerce\nBACKGROUND & REFERENCE CHECKING"
+      }
+    ]
+  },
+  "EMPLOYEE RELEASE OF CLAIMS": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "RBA Staffing"
+      },
+      {
+        "type": "ORG",
+        "text": "RBA"
+      },
+      {
+        "type": "PERSON",
+        "text": "Johnstone Supply"
+      }
+    ]
+  },
+  "Social Security Number": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "Social Security"
+      }
+    ]
+  },
+  "Corey Graham": {
+    "phones": [],
+    "ssn": [
+      "091-80-1484"
+    ],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": []
+  },
+  "Social Security": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "10/10/2018"
+    ],
+    "other": []
+  }
+}

@@ -1,0 +1,19 @@
+Select Page
+Company Spotlight
+To add a new content item, click +. To open the content editor for existing content, click a content ID. To
+order in which the content displays on a page, select a content item. Click the drag and drop handle and
+Language
+English (US)
+ADD
+Page Title*
+Company Spotlight
+DELETE
+ADD FEDERATED LINK
+ITEM
+CONTENT
+Company Spotlight
+Spotlight TEST rts
+Email test
+Default Title
+Company Spotlight
+TEST

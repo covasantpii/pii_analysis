@@ -1,0 +1,12 @@
+New
+Actions ▼ Settings
+Name
+BTI Members
+Group Settings
+Manage settings such as group name and permissions.
+View Group Permissions
+View permissions this group has on sites, lists, and items.
+Make Default Group
+Make this group the default group for this site.
+List Settings
+Manage settings such as columns and views.

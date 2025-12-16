@@ -1,0 +1,39 @@
+{
+  "Client Training Enrollment Walkthrough": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "PERSON",
+        "text": "Client Training"
+      }
+    ]
+  },
+  "To be scheduled by Data Services": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "Data Services"
+      }
+    ]
+  },
+  "Data Services": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "11/18/2019",
+      "11/21/2019"
+    ],
+    "other": []
+  }
+}

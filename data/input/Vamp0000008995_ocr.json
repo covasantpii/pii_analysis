@@ -1,0 +1,8 @@
+
+{
+  "ocr_text": "A\nB\nC\n1\n12\n2\nEmployee\n3\nForm\nForm Name or Description\nSpecific Action\nRequired\nW-4\nFederal Withholding Form\nFill out\nIT-2104\nNYS Withholding Form\nFill out\n5",
+    "page_texts": {
+    "0": "A\nB\nC\n1\n12\n2\nEmployee\n3\nForm\nForm Name or Description\nSpecific Action\nRequired\nW-4\nFederal Withholding Form\nFill out\nIT-2104\nNYS Withholding Form\nFill out\n5"
+ },
+  "method": "vision_api"
+}

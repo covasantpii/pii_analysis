@@ -1,0 +1,54 @@
+-d x
+Q Invoice - P762102 x
+Product - B62-622 "AOUG09L x
+B62-622
+AOUG09LMAS1 MINI-SPLIT HEAT
+Active
+Whse:
+| 11
+UOM:
+EA
+1
+Year:
+|22
+Current Warehouse All Warehouses
+Transactions
+Type
+Transfer
+Date
+10/31/22
+Quantity UOM
+3 EA
+Balance Source
+Reference
+Amount
+3 STOCK TRNSF FROM WH = 03
+098672-2
+$543.5506 |
+Sale
+10/5/22
+-1 EA
+O YAVA HEATING AND COOLING - YAVA HEATING AND COOLING
+PB04193
+$836.2800 |
+Received
+9/27/22
+1 EA
+1 JOHNSTONE SUPPLY
+B000470-2-1
+$657.4000
+Sale
+6/14/22
+-1 EA
+0 MYAPARK MECHANICAL INC
+B004026
+$806.3900
+Received
+6/14/22
+1 EA
+1 JOHNSTONE SUPPLY
+B004026A-1-1
+$645.1100|
+Beginning
+0 EA
+O Beginning Year Value

@@ -1,0 +1,9 @@
+New
+Actions ▼
+Settings ▼
+E-Mail Users
+Send an e-mail to selected users.
+Call/Message Selected Users
+Call the selected users.
+Remove Users from Group
+Remove selected users from this SharePoint group.

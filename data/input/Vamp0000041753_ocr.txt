@@ -1,0 +1,90 @@
+Pay-To Vendor:
+06507
+WILLIAM HENRY
+PH ANALYTICS
+Remit-To:
+06507
+Same address
+Invoice Number:
+7122021
+Q2100 MAIN ST
+DETULELEM DA 10017
+Previous Vendor
+Invoice Type:
+Invoice
+Status:
+Active
+Invoice
+Notes
+Attachment
+Entry Log
+Invoice Date:
+Checks
+07/12/2021
+Current 'AP' Accounting Period:
+1121
+Branch:
+123
+Johnstone Supply #123
+This Invoice 'AP' Accounting Period:
+0821
+P/O or Reference #:
+Override G/L Suffix
+Recalculate
+Liability G/L:
+Terms:
+02
+20000100
+Q ACCOUNTS PAYABLE-VENDORS
+QNET 10 DAYS PROX
+G/L Distribution
+G/L Account
+Description
+Amount
+76850100
+HR CONSULTING
+$1,330.00
+Message On Check:
+76850200
+HR CONSULTING
+$375.00
+76850300
+HR CONSULTING
+$375.00
+Gross Amount:
+$
+5,100.00 Discount Amount:
+$
+0.00
+76850400
+HR CONSULTING
+$1,405.00
+Freight Amount:
+$
+Discount Date:
+08/30/2021
+76850700
+HR CONSULTING
+$520.00
+76850800
+HR CONSULTING
+$600.00
+Tax Amount:
+$
+Due Date:
+08/30/2021
+76850900
+HR CONSULTING
+$370.00
+Other Amount Label:
+$
+Linked Receipts:
+76850500
+HR CONSULTING
+$125.00
+Merchandise Amount:
+$5,100.00
+Balance Due:
+$0.00
+Total:
+$5,100.00

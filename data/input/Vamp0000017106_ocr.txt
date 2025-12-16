@@ -1,0 +1,74 @@
+Payment Schedule And History
+Name
+Marco Rubino
+Policy
+Term
+01444069-0
+Address
+1333 Lincoln Ave, Utica, NY 13502
+Account Status
+11/22/2019 to 11/22/2020 Active, bill sent
+Current Bill
+$735.05 due on 12/22/2019
+Last Payment Received
+$1,663.60 on 11/22/2019
+EFT
+No
+Have a Question?
+Phone
+W: (315)542-2396
+Total Unpaid Balance
+$6,543.40
+Renewal Downpayment
+$0.00
+Paid in Full Amount
+$6,543.40
+Future Payment Schedule
+AIssue Date
+1/6/2020
+2/6/2020
+Make a Payment
+Print Page
+Print Pay Schedule
+Payment Due Date
+Amount
+01/22/2020
+$735.05
+02/22/2020
+$735.05
+3/6/2020
+03/22/2020
+$735.05
+4/6/2020
+5/6/2020
+04/22/2020
+$735.05
+05/22/2020
+$735.05
+6/6/2020
+06/22/2020
+$735.05
+7/6/2020
+| 07/22/2020
+$735.05
+8/6/2020
+|08/22/2020
+$735.00
+History
+▼Processed Date
+12/6/2019
+11/25/2019
+11/25/2019
+11/25/2019
+Description
+Bill Sent (Due: 12/22/2019)
+Fee
+New Business (Effective: 11/22/2019)
+Payment Card (Posted: 11/22/2019)
+Payment Due Date
+12/22/2019
+Amount
+$735.05
+$30.00
+$8,168.00
+$-1,663.60

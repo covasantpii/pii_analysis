@@ -1,0 +1,32 @@
+ADP
+CLIENT
+ADP
+WFN4FTOZ4
+User Search
+Enter one or more search values to find a user. After results are displayed, select an action Item from the Action column.
+Client ID
+wfn4ftoz4
+Client Name
+Client WFN4FTOZ4
+Client Classification
+ADP Test
+Client Sub-Type
+Last Name
+First Name
+Associate ID:
+User ID
+PPRACTITIONER@WFN
+MM
+NAME
+ASSOCIATE ID USER ID
+COMPANY CO... DEPARTMENT JOB
+LOCATION
+ACTION
+Practitioner, Polly
+CXPR2YKEK
+PPRACTITIONE...
+FILTER
+View Site As User
+User Details
+Delete User
+Q

@@ -1,0 +1,101 @@
+Pay-To Vendor:
+02264
+RELIANCE STANDARD LIFE INSURANCE COMPANY
+P.O. BOX 3124
+Invoice Number:
+W-11.01.21
+SOUTHEASTERN, PA 19398-3124
+Previous Vendor
+Invoice
+Notes
+Attachment
+Same address
+Remit-To:
+02264
+Invoice Type:
+Invoice
+Status:
+Active
+Entry Log
+Invoice Date:
+Checks
+11/01/2021
+Current 'AP' Accounting Period:
+1121
+Branch:
+369
+QJohnstone Supply #369
+This Invoice 'AP' Accounting Period:
+1121
+P/O or Reference #:
+Wallace Premium EFT - NOV
+Override G/L Suffix
+Recalculate
+Liability G/L:
+20000400
+Terms:
+08
+QACCOUNTS PAYABLE-VENDORS
+QNET 30 DAYS
+Message On Check:
+Gross Amount:
+Freight Amount:
+Tax Amount:
+Other Amount Label:
+Merchandise Amount:
+G/L Distribution
+G/L Account
+Description
+Amount
+52000400
+EMPLOYEE BENEFITS - BRANCH
+$25.00
+|52000600
+EMPLOYEE BENEFITS - BRANCH
+$37.50
+| 52000700
+EMPLOYEE BENEFITS - BRANCH
+$50.00
+$
+287.50 Discount Amount:
+$
+0.00
+52000800
+$
+Discount Date:
+11/03/2021
+| 52000900
+52030400
+$
+Due Date:
+11/03/2021
+52040600
+EMPLOYEE BENEFITS - BRANCH
+EMPLOYEE BENEFITS - BRANCH
+EMPLOYEE BENEFITS - EXECUTIVE
+EMPLOYEE BENEFITS - OPERATIONS...
+$37.50
+$25.00
+$12.50
+$12.50
+$287.50
+Linked Receipts:
+Balance Due:
+52060600
+EMPLOYEE BENEFITS -TECH SUPPORT
+$12.50
+52260500
+EMPLOYEE BENEFITS - OUTSIDE SALES
+$25.00
+$0.00
+52260600
+EMPLOYEE BENEFITS - OUTSIDE SALES
+$12.50
+52260800
+EMPLOYEE BENEFITS - OUTSIDE SALES
+$12.50
+52260900
+EMPLOYEE BENEFITS - OUTSIDE SALES
+$12.50
+Total:
+$287.50

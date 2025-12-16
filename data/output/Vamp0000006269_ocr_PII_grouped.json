@@ -1,0 +1,144 @@
+{
+  "Client Training Enrollment Walkthrough": [
+    {
+      "pii_type": "PERSON",
+      "text": "Client Training",
+      "start": 219,
+      "end": 234,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 10,
+      "header": "Client Training Enrollment Walkthrough",
+      "confidence": 1.0
+    }
+  ],
+  "To be scheduled by Data Services": [
+    {
+      "pii_type": "ORG",
+      "text": "Data Services",
+      "start": 509,
+      "end": 522,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 26,
+      "header": "To be scheduled by Data Services",
+      "confidence": 1.0
+    }
+  ],
+  "NO_HEADER": [
+    {
+      "pii_type": "DATE",
+      "text": "11/29/2019",
+      "start": 575,
+      "end": 585,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 32,
+      "confidence": 0.4
+    },
+    {
+      "pii_type": "DATE",
+      "text": "11/20/2019",
+      "start": 418,
+      "end": 428,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 19,
+      "confidence": 0.4
+    },
+    {
+      "pii_type": "DATE",
+      "text": "11/11/2019",
+      "start": 429,
+      "end": 439,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 20,
+      "confidence": 0.4
+    },
+    {
+      "pii_type": "DATE",
+      "text": "01/08/2020",
+      "start": 620,
+      "end": 630,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 36,
+      "confidence": 0.4
+    },
+    {
+      "pii_type": "DATE",
+      "text": "11/25/2019",
+      "start": 641,
+      "end": 651,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 38,
+      "confidence": 0.4
+    },
+    {
+      "pii_type": "DATE",
+      "text": "12/06/2019",
+      "start": 663,
+      "end": 673,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 40,
+      "confidence": 0.4
+    },
+    {
+      "pii_type": "DATE",
+      "text": "12/15/2019",
+      "start": 674,
+      "end": 684,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 41,
+      "confidence": 0.4
+    },
+    {
+      "pii_type": "DATE",
+      "text": "1/8/2020",
+      "start": 685,
+      "end": 693,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 42,
+      "confidence": 0.4
+    },
+    {
+      "pii_type": "DATE",
+      "text": "2/20/2020",
+      "start": 754,
+      "end": 763,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 45,
+      "confidence": 0.4
+    }
+  ],
+  "Data Services": [
+    {
+      "pii_type": "DATE",
+      "text": "11/18/2019",
+      "start": 479,
+      "end": 489,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 25,
+      "confidence": 0.7,
+      "owner": "Data Services"
+    },
+    {
+      "pii_type": "DATE",
+      "text": "11/21/2019",
+      "start": 545,
+      "end": 555,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 29,
+      "confidence": 0.4,
+      "owner": "Data Services"
+    }
+  ]
+}

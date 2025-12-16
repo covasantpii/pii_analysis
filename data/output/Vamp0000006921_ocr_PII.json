@@ -1,0 +1,126 @@
+[
+  {
+    "pii_type": "ORG",
+    "text": "Driver Information Request",
+    "start": 33,
+    "end": 59,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 1,
+    "confidence": 0.7
+  },
+  {
+    "pii_type": "DATE",
+    "text": "Today",
+    "start": 60,
+    "end": 65,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 2,
+    "header": "Driver Information Request",
+    "confidence": 1.0,
+    "owner": "Driver Information Request"
+  },
+  {
+    "pii_type": "ORG",
+    "text": "Kibble & Prentice",
+    "start": 238,
+    "end": 255,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 10,
+    "header": "To",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "PERSON",
+    "text": "Corey Graham",
+    "start": 260,
+    "end": 272,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 12,
+    "confidence": 0.7
+  },
+  {
+    "pii_type": "ORG",
+    "text": "Johnstone Supply Co.",
+    "start": 421,
+    "end": 441,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 15,
+    "header": "Employee or Prospective Employee Name (Printed)",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "PERSON",
+    "text": "CDL License",
+    "start": 800,
+    "end": 811,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 20,
+    "header": "Drivers License Number",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "GPE",
+    "text": "New York",
+    "start": 878,
+    "end": 886,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 26,
+    "header": "State of Licensing New York",
+    "confidence": 1.0,
+    "owner": "Kibble & Prentice Holding Company, Proprietary & Confidential"
+  },
+  {
+    "pii_type": "ORG",
+    "text": "Kibble & Prentice Holding Company, Proprietary & Confidential",
+    "start": 1014,
+    "end": 1075,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 31,
+    "header": "Signature of Employee or Prospective Employee",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "EMAIL",
+    "text": "marie.kelley@kpcom.com",
+    "start": 139,
+    "end": 161,
+    "source": "regex",
+    "chunk": 0,
+    "line_idx": 6,
+    "header": "FAX",
+    "confidence": 1.0,
+    "owner": "Kibble & Prentice"
+  },
+  {
+    "pii_type": "EMAIL",
+    "text": "liz.suck.ow@kpcom.com",
+    "start": 165,
+    "end": 186,
+    "source": "regex",
+    "chunk": 0,
+    "line_idx": 6,
+    "header": "FAX",
+    "confidence": 1.0,
+    "owner": "Kibble & Prentice"
+  },
+  {
+    "pii_type": "ZIPCODE",
+    "text": "42189",
+    "start": 846,
+    "end": 851,
+    "source": "regex",
+    "chunk": 0,
+    "line_idx": 23,
+    "header": "Drivers License Number",
+    "confidence": 1.0,
+    "owner": "CDL License"
+  }
+]

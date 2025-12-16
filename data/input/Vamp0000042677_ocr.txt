@@ -1,0 +1,92 @@
+Customer:
+0018306
+HB HOME SERVICES
+Ship To:
+a
+All Ship Tos
+Category:
+Salesman:
+Territory:
+Cust. Type:
+Q
+Q
+d
+Q
+Branch:
+Product:
+Product Line:
+Q
+Major Group:
+Vendor:
+Sales
+Sales
+January
+Units
+February
+March
+Year-To-Date
+Last-Year
+Variance
+Variance %
+0.00
+0.00
+0.00
+0.00%
+0.00
+0.00
+0.00
+0.00%
+0.00
+0.00
+0.00
+0.00%
+GPS April
+May
+GP% June
+0.00
+0.00
+0.00
+0.00%
+11.25
+0.00
+11.25
+100.00%
+30,640.25
+0.00
+30,640.25
+100.00%
+July
+30,431,40
+0.00
+30,431.40
+100.00%
+August
+23,381.11
+0.00
+23,381.11
+100.00%
+September
+16,017.97
+0.00
+16,017.97
+100.00%
+October
+0.00
+0.00
+0.00
+0.00%
+November
+December
+Totals
+0.00
+0.00
+0.00
+0.00%
+0.00
+0.00
+0.00
+0.00%
+100,481.98
+0.00
+100,481.98
+100.00%

@@ -1,0 +1,27 @@
+{
+  "NO_HEADER": [
+    {
+      "pii_type": "PERSON",
+      "text": "Ann Maynard",
+      "start": 139,
+      "end": 150,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 13,
+      "confidence": 0.7
+    }
+  ],
+  "2019 401k Correspondence": [
+    {
+      "pii_type": "DATE",
+      "text": "2019",
+      "start": 231,
+      "end": 235,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 23,
+      "header": "2019 401k Correspondence",
+      "confidence": 1.0
+    }
+  ]
+}

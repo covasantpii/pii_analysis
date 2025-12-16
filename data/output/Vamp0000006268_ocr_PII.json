@@ -1,0 +1,123 @@
+[
+  {
+    "pii_type": "PERSON",
+    "text": "Luke Anziano",
+    "start": 9,
+    "end": 21,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 1,
+    "confidence": 0.7
+  },
+  {
+    "pii_type": "PERSON",
+    "text": "Lizbeth Betty Wright",
+    "start": 22,
+    "end": 42,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 2,
+    "confidence": 0.7
+  },
+  {
+    "pii_type": "PERSON",
+    "text": "Brooke Steinc",
+    "start": 43,
+    "end": 56,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 3,
+    "confidence": 0.7
+  },
+  {
+    "pii_type": "GPE",
+    "text": "Lindsay Beach",
+    "start": 57,
+    "end": 70,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 4,
+    "confidence": 0.7,
+    "owner": "Brooke Steinc"
+  },
+  {
+    "pii_type": "ORG",
+    "text": "Labor Management Specialist\nDistrice",
+    "start": 144,
+    "end": 180,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 8,
+    "header": "Time and Labor Management Specialist",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "DATE",
+    "text": "940-2311 ext 1142733",
+    "start": 309,
+    "end": 329,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 16,
+    "header": "1(866) 940-2311 ext 1142733",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "EMAIL",
+    "text": "luke.anziano@adp.com",
+    "start": 195,
+    "end": 215,
+    "source": "regex",
+    "chunk": 0,
+    "line_idx": 11,
+    "header": "Email",
+    "confidence": 1.0,
+    "owner": "Labor Management Specialist\nDistrice"
+  },
+  {
+    "pii_type": "EMAIL",
+    "text": "lizbeth.betty.wright@adp.com",
+    "start": 216,
+    "end": 244,
+    "source": "regex",
+    "chunk": 0,
+    "line_idx": 12,
+    "header": "Email",
+    "confidence": 1.0,
+    "owner": "Labor Management Specialist\nDistrice"
+  },
+  {
+    "pii_type": "EMAIL",
+    "text": "brooke.steinc@adp.com",
+    "start": 245,
+    "end": 266,
+    "source": "regex",
+    "chunk": 0,
+    "line_idx": 13,
+    "header": "Phone Number",
+    "confidence": 1.0,
+    "owner": "Labor Management Specialist\nDistrice"
+  },
+  {
+    "pii_type": "EMAIL",
+    "text": "lindsay.beach@adp.com",
+    "start": 267,
+    "end": 288,
+    "source": "regex",
+    "chunk": 0,
+    "line_idx": 14,
+    "header": "Phone Number",
+    "confidence": 1.0
+  },
+  {
+    "pii_type": "AUTH_CODE",
+    "text": "1142733",
+    "start": 322,
+    "end": 329,
+    "source": "regex",
+    "chunk": 0,
+    "line_idx": 16,
+    "header": "1(866) 940-2311 ext 1142733",
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "pii_type": "DATE",
+    "text": "2019",
+    "start": 580,
+    "end": 584,
+    "source": "spacy",
+    "chunk": 0,
+    "line_idx": 26,
+    "header": "2019 401k Correspondence",
+    "confidence": 1.0
+  }
+]

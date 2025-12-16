@@ -1,0 +1,33 @@
+2. Who would you like to assign as your beneficiaries?
+You can select as many beneficiaries as you would like as long as the total equals 100%.
+Select your Primary beneficiaries
+Alice Albright
+Spouse
+Anthony Albright
+Child
+Maggie Albright
+Child
+Randy Albright
+Child
+100.00 %
+Joanna Anthony
+Child
+Do you want to add Secondary beneficiaries?
+Alice Albright Anthony Albright
+Spouse
+Child
+Maggie Albright
+Child
+Randy Albright
+Child
+25.00
+25.00
+25.00
+Joanna Anthony
+Child
+25.00
+SAVE FOR LATER
+CONTINUE TO PREVIEW N
+MANAGE BENEFICIARIES
+-100.00% (total must equal 100%)
+-100.00% (total must equal 100%)

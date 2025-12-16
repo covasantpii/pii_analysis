@@ -1,0 +1,531 @@
+{
+  "NO_HEADER": [
+    {
+      "pii_type": "PERSON",
+      "text": "Order Admin",
+      "start": 44,
+      "end": 55,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 4,
+      "confidence": 0.7
+    },
+    {
+      "pii_type": "PERSON",
+      "text": "Rob Dunn",
+      "start": 394,
+      "end": 402,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 28,
+      "confidence": 0.7
+    },
+    {
+      "pii_type": "DATE",
+      "text": "November 13, 2019 11:27am",
+      "start": 454,
+      "end": 479,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 35,
+      "confidence": 0.4
+    },
+    {
+      "pii_type": "DATE",
+      "text": "November 11, 2019 12:33pm",
+      "start": 922,
+      "end": 947,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 79,
+      "confidence": 0.4
+    },
+    {
+      "pii_type": "DATE",
+      "text": "November 7, 2019 9:57am",
+      "start": 1575,
+      "end": 1598,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 142,
+      "confidence": 0.4
+    },
+    {
+      "pii_type": "DATE",
+      "text": "November 7, 2019 9:53am",
+      "start": 1665,
+      "end": 1688,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 150,
+      "confidence": 0.4
+    }
+  ],
+  "Darrell Sterling Q": [
+    {
+      "pii_type": "ORG",
+      "text": "Darrell Sterling",
+      "start": 87,
+      "end": 103,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 9,
+      "header": "Darrell Sterling Q",
+      "confidence": 1.0
+    }
+  ],
+  "JXI": [
+    {
+      "pii_type": "ORG",
+      "text": "C99",
+      "start": 193,
+      "end": 196,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 17,
+      "header": "JXI",
+      "confidence": 1.0
+    }
+  ],
+  "Global References -...": [
+    {
+      "pii_type": "ORG",
+      "text": "Global References",
+      "start": 221,
+      "end": 238,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 19,
+      "header": "Global References -...",
+      "confidence": 1.0
+    }
+  ],
+  "Rob Dunn": [
+    {
+      "pii_type": "DATE",
+      "text": "20140604562359",
+      "start": 345,
+      "end": 359,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 25,
+      "header": "PartnerLink",
+      "confidence": 1.0,
+      "owner": "Rob Dunn"
+    },
+    {
+      "pii_type": "DATE",
+      "text": "November 13, 2019 11:30am",
+      "start": 360,
+      "end": 385,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 26,
+      "confidence": 0.4,
+      "owner": "Rob Dunn"
+    },
+    {
+      "pii_type": "DATE",
+      "text": "November 13, 2019",
+      "start": 360,
+      "end": 377,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 26,
+      "header": "November 13, 2019 11",
+      "confidence": 1.0,
+      "owner": "Rob Dunn"
+    },
+    {
+      "pii_type": "ZIPCODE",
+      "text": "13342",
+      "start": 418,
+      "end": 423,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 30,
+      "header": "Taylor Heating",
+      "confidence": 1.0,
+      "owner": "Rob Dunn"
+    }
+  ],
+  "View Order": [
+    {
+      "pii_type": "DATE",
+      "text": "20140604561984",
+      "start": 533,
+      "end": 547,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 43,
+      "header": "View Order",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "DATE",
+      "text": "20140604561957",
+      "start": 627,
+      "end": 641,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 52,
+      "header": "View Order",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "DATE",
+      "text": "20140604561953",
+      "start": 721,
+      "end": 735,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 61,
+      "header": "View Order",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "DATE",
+      "text": "20140604561649",
+      "start": 813,
+      "end": 827,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 69,
+      "header": "View Order",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "DATE",
+      "text": "20140604561643",
+      "start": 907,
+      "end": 921,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 78,
+      "header": "View Order",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "DATE",
+      "text": "20140604561160",
+      "start": 1189,
+      "end": 1203,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 105,
+      "header": "View Order",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "DATE",
+      "text": "20140604560720",
+      "start": 1650,
+      "end": 1664,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 149,
+      "header": "View Order",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "DATE",
+      "text": "20140604560372",
+      "start": 1926,
+      "end": 1940,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 175,
+      "header": "View Order",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "CREDIT_CARD",
+      "text": "20140604560722",
+      "start": 1560,
+      "end": 1574,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 141,
+      "header": "View Order",
+      "confidence": 1.0
+    }
+  ],
+  "November 12, 2019 11": [
+    {
+      "pii_type": "DATE",
+      "text": "November 12, 2019",
+      "start": 548,
+      "end": 565,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 44,
+      "header": "November 12, 2019 11",
+      "confidence": 1.0
+    }
+  ],
+  "November 11, 2019 12": [
+    {
+      "pii_type": "DATE",
+      "text": "November 11, 2019",
+      "start": 828,
+      "end": 845,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 70,
+      "header": "November 11, 2019 12",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "TIME",
+      "text": "12:21pm",
+      "start": 1128,
+      "end": 1135,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 97,
+      "header": "November 11, 2019 12",
+      "confidence": 1.0
+    }
+  ],
+  "November 8, 2019 11": [
+    {
+      "pii_type": "DATE",
+      "text": "November 8, 2019",
+      "start": 1204,
+      "end": 1220,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 106,
+      "header": "November 8, 2019 11",
+      "confidence": 1.0
+    }
+  ],
+  "November 7, 2019 9": [
+    {
+      "pii_type": "DATE",
+      "text": "November 7, 2019",
+      "start": 1483,
+      "end": 1499,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 133,
+      "header": "November 7, 2019 9",
+      "confidence": 1.0
+    }
+  ],
+  "November 6, 2019 10": [
+    {
+      "pii_type": "DATE",
+      "text": "November 6, 2019",
+      "start": 1755,
+      "end": 1771,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 158,
+      "header": "November 6, 2019 10",
+      "confidence": 1.0
+    }
+  ],
+  "November 6 2019 10": [
+    {
+      "pii_type": "DATE",
+      "text": "November 6 2019",
+      "start": 1941,
+      "end": 1956,
+      "source": "spacy",
+      "chunk": 0,
+      "line_idx": 176,
+      "header": "November 6 2019 10",
+      "confidence": 1.0
+    }
+  ],
+  "Taylor Heating": [
+    {
+      "pii_type": "ZIPCODE",
+      "text": "13341",
+      "start": 512,
+      "end": 517,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 39,
+      "header": "Taylor Heating",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "ZIPCODE",
+      "text": "13327",
+      "start": 606,
+      "end": 611,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 48,
+      "header": "Taylor Heating",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "ZIPCODE",
+      "text": "13326",
+      "start": 700,
+      "end": 705,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 57,
+      "header": "Taylor Heating",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "ZIPCODE",
+      "text": "13325",
+      "start": 794,
+      "end": 799,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 66,
+      "header": "Taylor Heating",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "ZIPCODE",
+      "text": "13315",
+      "start": 886,
+      "end": 891,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 74,
+      "header": "Taylor Heating",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "ZIPCODE",
+      "text": "13314",
+      "start": 980,
+      "end": 985,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 83,
+      "header": "Taylor Heating",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "ZIPCODE",
+      "text": "13313",
+      "start": 1074,
+      "end": 1079,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 92,
+      "header": "Taylor Heating",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "ZIPCODE",
+      "text": "13312",
+      "start": 1168,
+      "end": 1173,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 101,
+      "header": "Taylor Heating",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "ZIPCODE",
+      "text": "13287",
+      "start": 1261,
+      "end": 1266,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 110,
+      "header": "Taylor Heating",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "ZIPCODE",
+      "text": "13286",
+      "start": 1354,
+      "end": 1359,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 119,
+      "header": "Taylor Heating",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "ZIPCODE",
+      "text": "13285",
+      "start": 1447,
+      "end": 1452,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 128,
+      "header": "Taylor Heating",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "ZIPCODE",
+      "text": "13275",
+      "start": 1539,
+      "end": 1544,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 137,
+      "header": "Taylor Heating",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "ZIPCODE",
+      "text": "13273",
+      "start": 1631,
+      "end": 1636,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 146,
+      "header": "Taylor Heating",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "ZIPCODE",
+      "text": "13272",
+      "start": 1721,
+      "end": 1726,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 154,
+      "header": "Taylor Heating",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "ZIPCODE",
+      "text": "13262",
+      "start": 1812,
+      "end": 1817,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 162,
+      "header": "Taylor Heating",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "ZIPCODE",
+      "text": "13261",
+      "start": 1905,
+      "end": 1910,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 171,
+      "header": "Taylor Heating",
+      "confidence": 1.0
+    },
+    {
+      "pii_type": "ZIPCODE",
+      "text": "13260",
+      "start": 2012,
+      "end": 2017,
+      "source": "regex",
+      "chunk": 0,
+      "line_idx": 185,
+      "header": "Taylor Heating",
+      "confidence": 1.0
+    }
+  ]
+}

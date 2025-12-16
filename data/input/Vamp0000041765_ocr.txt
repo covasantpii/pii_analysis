@@ -1,0 +1,95 @@
+Pay-To Vendor:
+|02132
+Invoice Number:
+168960659
+Previous Vendor
+Invoice
+UNITED CONCORDIA
+P.O. Box 827377
+QPhiladelphia, PA 19182-7377
+Same address
+Remit-To:
+02132
+Invoice Type:
+Invoice
+Status:
+Active
+Notes
+Attachment
+Entry Log
+Invoice Date:
+Checks
+09/08/2021
+Current 'AP' Accounting Period:
+1021
+Branch:
+|123
+Q
+Johnstone Supply #123
+This Invoice 'AP' Accounting Period:
+|0921
+P/O or Reference #:
+Liability G/L:
+A&B DENTAL PREMIUM 10.1.21 - 10.31.21
+Override G/L Suffix
+Recalculate
+20000100
+a ACCOUNTS PAYABLE-VENDORS
+Terms:
+08
+Q
+NET 30 DAYS
+G/L Account
+Message On Check:
+INV 168960659 RECIPIENT 000325363
+G/L Distribution
+Description
+Amount
+52000100
+52000200
+EMPLOYEE BENEFITS - BRANCH
+EMPLOYEE BENEFITS - BRANCH
+$172.98
+$170.16
+52000300
+EMPLOYEE BENEFITS - BRANCH
+$198.99
+Gross Amount:
+S 1,381.65 Discount Amount:
+S
+0.00
+52000600
+EMPLOYEE BENEFITS - BRANCH
+$193.35
+Freight Amount:
+$
+Discount Date:
+09/25/2021
+|52010100
+EMPLOYEE BENEFITS STORE SUPPOR...
+$282.66
+52020100
+EMPLOYEE BENEFITS - FINANCE
+$28.83
+Tax Amount:
+$
+Due Date:
+09/25/2021
+52030100
+EMPLOYEE BENEFITS - EXECUTIVE
+$167.34
+Other Amount Label:
+S
+Linked Receipts:
+52260200
+EMPLOYEE BENEFITS - OUTSIDE SALES
+$83.67
+52260300
+EMPLOYEE BENEFITS - OUTSIDE SALES
+$83.67
+Merchandise Amount:
+$1,381.65
+Balance Due:
+$0.00
+Total:
+$1,381.65

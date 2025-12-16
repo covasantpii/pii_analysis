@@ -1,0 +1,76 @@
+{
+  "Complete New Employee Login Worksheet": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "ORG",
+        "text": "Complete New Employee Login Worksheet\nUse JEN"
+      }
+    ]
+  },
+  "12.10 to update port": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "PERSON",
+        "text": "Email John Van Den Bush"
+      }
+    ]
+  },
+  "Email Paychex with new employee information": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "PERSON",
+        "text": "Email Capstone"
+      },
+      {
+        "type": "PERSON",
+        "text": "Email Paychex"
+      }
+    ]
+  },
+  "Email Ken": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [
+      "60 days"
+    ],
+    "other": []
+  },
+  "Email Ken with the following information": {
+    "phones": [],
+    "ssn": [],
+    "addresses": [],
+    "emails": [],
+    "dates": [],
+    "other": [
+      {
+        "type": "PERSON",
+        "text": "Email Ken"
+      },
+      {
+        "type": "ORG",
+        "text": "DOB"
+      },
+      {
+        "type": "ORG",
+        "text": "DOH"
+      }
+    ]
+  }
+}

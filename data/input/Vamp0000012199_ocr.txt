@@ -1,0 +1,30 @@
+Eligible
+Ineligible
+Bypassed
+Filter: All eligible employees to be automatically enrolled
+Excluded Class
+Search by SSN, Name, Date of Eligibility
+SSN
+Name
+Co Code
+Date of
+Birth
+Date of
+Hire
+Salary Deferral
+Bypass Reason
+Automatic
+Enrollment
+Automatic
+Eligibility Date
+Date
+Enrollment
+Status
+XXX-XX-3871 Schlafer, Kimberly A H1J
+09/18/1959 02/14/2015
+03/01/2016
+05/04/2020
+XXX-XX-3991 Robinson, Mark D H1J
+02/09/1976 04/22/2019
+05/01/2020
+05/04/2020

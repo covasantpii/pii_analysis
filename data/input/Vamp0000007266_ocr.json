@@ -1,0 +1,7 @@
+{
+  "ocr_text": "Joe's Seafood\nCREDIT CARD TRANSACTION\nTABLE#\nSERVER\nCHECK#\n0\n3020/Sarah FM\n3709\n****** TRANSACTION RECORD ***\nTran. 2994\nTable : 0\nCheck: 3709\nEmployee : 3:20\nMID: 2455533\nTrace 229356\nPre-Auth Purchase\nTID: 3800202\nVisa\nxxxxxxxxxxxx6707\nAPPROVED\nChip Read\nAmourt\nUSD $115.24\nTip $\nTOTAL $\n136\nI agree to pay the above total\namount according to the card\nissuer agreement\nCardholder Signature\nRRN: 000000116828 C\nAuth. :06706D\nMode: Issuer\n2/LEYE1301CCC2\n00 (001)\n09/17/2019\n7:42:23 PM\nAID: A0000000031010\nApp Nane: CHASE VISA\nTVR: 0000003000\nIAD: 06021203602002\nTSI: E800\nARC: 00\nCustomer Copy",
+ "page_texts": {
+    "0": "Joe's Seafood\nCREDIT CARD TRANSACTION\nTABLE#\nSERVER\nCHECK#\n0\n3020/Sarah FM\n3709\n****** TRANSACTION RECORD ***\nTran. 2994\nTable : 0\nCheck: 3709\nEmployee : 3:20\nMID: 2455533\nTrace 229356\nPre-Auth Purchase\nTID: 3800202\nVisa\nxxxxxxxxxxxx6707\nAPPROVED\nChip Read\nAmourt\nUSD $115.24\nTip $\nTOTAL $\n136\nI agree to pay the above total\namount according to the card\nissuer agreement\nCardholder Signature\nRRN: 000000116828 C\nAuth. :06706D\nMode: Issuer\n2/LEYE1301CCC2\n00 (001)\n09/17/2019\n7:42:23 PM\nAID: A0000000031010\nApp Nane: CHASE VISA\nTVR: 0000003000\nIAD: 06021203602002\nTSI: E800\nARC: 00\nCustomer Copy"
+},
+  "method": "vision_api"
+}

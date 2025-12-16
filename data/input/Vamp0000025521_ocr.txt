@@ -1,0 +1,42 @@
+PLAN
+Excellus Gold 6
+PROVIDER
+PER PAYCHECK
+EMPLOYER COST
+EFFECTIVE DATE
+Excellus
+BlueCross
+BlueShield (C
+NY,Rochester,U
+tica/Watertown
+$158.04
+Excellus Silver 19
+Excellus
+BlueCross
+BlueShield (C
+NY,Rochester,U
+$118.63
+tica/Watertown
+)
+Excellus
+BlueCross
+Excellus Bronze 4
+BlueShield (C
+NY,Rochester,U
+tica/Watertown
+$91.54
+2. Who do you want to cover?
+You
+If you want to enroll in this
+plan, you must also enroll in all
+of the following plans::
+⚫ Health Reimbursement
+Arrangement-Silver,
+Eligible Employee-Family
+SELECT PLAN
+ENROLLMENT
+DEPENDENCY
+Enrollmer
+SELECT PLAN
+WAIVE THIS BENEFIT
+✔MANAGE DEPENDENTS

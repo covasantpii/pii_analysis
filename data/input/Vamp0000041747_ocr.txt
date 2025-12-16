@@ -1,0 +1,103 @@
+Pay-To Vendor:
+02335
+ALLIED BENEFIT SYS
+200 WEST ADAMS STREET
+Invoice Number:
+0000573165
+Q SUITE 500
+Previous Vendor
+Invoice
+Notes
+CLICICO Icncnc conc
+Invoice Type:
+Invoice
+< >
+Same address
+Remit-To:
+02335
+Status:
+Active
+03/09/2022
+Current 'AP' Accounting Period:
+0422
+Branch:
+369
+Johnstone Supply #369
+P/O or Reference #:
+Medical Premium Apr22
+This Invoice 'AP' Accounting Period:
+Override G/L Suffix
+0422
+Recalculate
+Liability G/L:
+20000400
+Terms:
+02
+Q ACCOUNTS PAYABLE-VENDORS
+QNET 10 DAYS PROX
+G/L Distribution
+Attachment
+Entry Log
+Checks
+Invoice Date:
+G/L Account
+Description
+Amount
+| 52000100
+EMPLOYEE BENEFITS - BRANCH
+$1,124.92
+Message On Check:
+| 52000200
+EMPLOYEE BENEFITS - BRANCH
+$1,110.83
+| 52000300
+EMPLOYEE BENEFITS - BRANCH
+$1,715.43
+Gross Amount:
+$ 17,323.09 Discount Amount:
+$
+0.00
+| 52010100
+EMPLOYEE BENEFITS STORE SUPPO...
+$1,377.97
+Freight Amount:
+$
+Discount Date:
+04/10/2022
+| 52020100
+EMPLOYEE BENEFITS - FINANCE
+$281.23
+52030100
+EMPLOYEE BENEFITS - EXECUTIVE
+$1,645.09
+Tax Amount:
+$
+Due Date:
+04/10/2022
+|52050100
+EMPLOYEE BENEFITS STORE SUPPO...
+$843.69
+Other Amount Label:
+$
+Linked Receipts:
+52260200
+EMPLOYEE BENEFITS - OUTSIDE SALES
+$927.99
+52000400
+EMPLOYEE BENEFITS - BRANCH
+-$98.39
+Merchandise Amount:
+$17,323.09
+Balance Due:
+$0.00
+|52000500
+EMPLOYEE BENEFITS - BRANCH
+$562.46
+52000600
+52000700
+EMPLOYEE BENEFITS - BRANCH
+EMPLOYEE BENEFITS - BRANCH
+$1,209.22
+$2,052.91
+Total:
+$17,323.09

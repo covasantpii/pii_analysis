@@ -1,0 +1,34 @@
+Identifier *
+Company Spotlight
+Assign Profiles
+Available Profiles
+Activity Test
+BA Manager
+BA Practioner
+Calendar
+Custom Activity TEST
+Employee Clean Scr...
+HR ADMIN
+Size x-small
+T, TE
+See Document here
+Hide
+Selected Profiles
+Font Georgla
+Link Properties
+Upload
+The maximum size for a file upload is 10MB. A file larger than
+this causes the upload to fall.
+SELECT FILES...
+UPLOAD
+Used Disk Space: 12 MB
+Remaining Disk Space: 4 GB
+Previously Uploaded Files:
+ADP
+test.docx
+PUT THIS
+on YOUR
+CALENDAR!
+CANCEL
+SET
+Assign Profiles

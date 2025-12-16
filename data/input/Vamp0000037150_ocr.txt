@@ -1,0 +1,103 @@
+ACTIVITY BY SOURCE
+Source
+Employee Before-Tax
+Activity
+Date
+1/25/2022
+2/8/2022
+2/23/2022
+3/8/2022
+3/22/2022
+Pay Check
+Date
+1/21/2022
+2/4/2022
+2/18/2022
+Transaction Type
+Amount
+Contribution - Employee Before-Tax
+$2,711.59
+Contribution - Employee Before-Tax
+$2,648.00
+Contribution - Employee Before-Tax
+$2,648.02
+3/4/2022
+3/18/2022
+Contribution - Employee Before-Tax
+$2,648.00
+Contribution - Employee Before-Tax
+$2,596.16
+4/5/2022
+4/1/2022
+Contribution - Employee Before-Tax
+$2,596.16
+4/20/2022
+4/15/2022
+Contribution - Employee Before-Tax
+$2,596.16
+5/3/2022
+5/17/2022
+6/1/2022
+4/29/2022
+5/13/2022
+5/27/2022
+Contribution - Employee Before-Tax
+$2,596.16
+Contribution - Employee Before-Tax
+Contribution - Employee Before-Tax
+$2,596.16
+$1,909.01
+AE Safe Harbor Match
+1/11/2022
+2/11/2022
+2/11/2022
+2/23/2022
+Ann,
+Is there a missing
+Employer Match
+3/22/2022
+4/5/2022
+4/20/2022
+1/7/2022
+1/21/2022
+2/4/2022
+2/18/2022
+3/18/2022
+4/1/2022
+4/15/2022
+Contribution - AE Safe Harbor Match
+Contribution - AE Safe Harbor Match
+Contribution - AE Safe Harbor Match
+Contribution - AE Safe Harbor Match
+Contribution - AE Safe Harbor Match
+Contribution - AE Safe Harbor Match
+Contribution - AE Safe Harbor Match
+$72.00
+$118.15
+$115.38
+$115.38
+$115.38
+$115.38
+$115.38
+for the 3/4/22
+Pay Date?
+5/3/2022
+4/29/2022
+Contribution - AE Safe Harbor Match
+$115.38
+5/17/2022
+6/1/2022
+5/13/2022
+5/27/2022
+Contribution - AE Safe Harbor Match
+$115.38
+Contribution - AE Safe Harbor Match
+$115.38
+Employee Roth 401k
+1/11/2022
+1/7/2022
+Contribution - Employee Roth 401k
+$1,454.58
+cy
+Terms & Conditions
+© Copyright 2022, ADP, Inc. All Rights Reserved [0004]
